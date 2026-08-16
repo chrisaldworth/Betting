@@ -21,15 +21,20 @@ Living document — update after each settled bet with what worked, what didn't,
 8. **Cup ties settle on 90 minutes.** Extra time/penalties don't count for match result or scorer markets — price that risk or use "to qualify".
 9. **European hangover check:** teams playing between two-legged European ties rotate. Check the calendar either side of the fixture.
 10. **Check bet365 Bet Boosts before placing** — favourites trebles and popular builders sometimes come pre-boosted; free margin if it matches our picks.
+11. **Write it down before placing it.** Every bet goes into BETTING_LOG.md's pending table first, with its conditions. A bet that isn't in the log doesn't get placed — this is the rule the slip audit showed we need most.
+12. **One bet per game.** A second builder on the same match doubles exposure without new information.
+13. **Cash-out policy:** default is let it ride (cash-out embeds extra margin). Exception: partial cash-out to lock the stake back once the bet is heavily winning is acceptable — it worked well in the Community Shield. Never cash out a losing position out of boredom.
 
 ## What we know so far (evidence log)
 
 | Insight | Evidence | Confidence |
 |---------|----------|------------|
-| Single-game builders outperform accas | Bet 2 won at 8/1; Bet 3 acca lost | Low — n=3, and Bet 2 needed luck (U3.5 on exactly 3 goals) |
-| Class-gap legs are the most reliable | All 3 legs of Bet 1 landed | Low-medium |
-| Short-priced home "bankers" in the Eredivisie are overrated | Feyenoord & Ajax both drew at home in Bet 3 | Low — could be opening-weeks noise |
+| Single-game builders outperform accas | Havertz builder won (6.00 after void); Sunday acca lost | Low — small n, and U3.5 landed on exactly 3 goals |
+| Class-gap legs are the most reliable | All 3 legs of Sat treble landed (by 1, 4 and 2 goal margins) | Low-medium |
+| Short-priced home "bankers" in the Eredivisie are overrated | Feyenoord & Ajax both drew at home | Low — could be opening-weeks noise |
 | Ruling games OUT is as valuable as picking games in | Avoided Rangers trap, Burnley–West Ham coin flip, PSV wobble | Medium |
+| Player-prop legs carry lineup risk; bet365 voids them (doesn't lose them) | Nunes didn't play → leg void, builder repriced 8/1 → 6.00 | High (it's a rule, now verified) |
+| Unplanned side bets are the profit leak | Planned bets +£55.20; unplanned bets −£20.00 | Medium — the mechanism is structural, not luck |
 
 Update this table as the sample grows. Nothing above is proven at n=3 — treat every insight as a hypothesis.
 

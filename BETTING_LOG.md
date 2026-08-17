@@ -11,8 +11,9 @@ All stakes with bet365. Odds and returns below are taken from actual bet slips (
 | 3 | Sun 16 Aug | Community Shield builder: Havertz anytime + Nunes 1+ fouls + Under 3.5 | Bet builder | £10.00 | 8/1 → 6.00 | ✅ WON — Arsenal 3–0. **Nunes leg VOID (didn't play), builder repriced to 6.00.** Partial cash-out £10.00 taken in-play; remaining £7.80 ran and won £46.80 | £56.80 | +£46.80 | +£55.20 |
 | 4 | Sun 16 Aug | Second Arsenal v Man City builder (legs TBC) | Bet builder | £10.00 | ? | ❌ LOST | £0.00 | −£10.00 | +£45.20 |
 | 5 | Sun 16 Aug | Feyenoord (1.36) + Beşiktaş (1.30) + Ajax (1.44) | Treble | £10.00 | 2.55 | ❌ LOST — Feyenoord 2–2, Beşiktaş 1–0 ✓, Ajax 2–2 | £0.00 | −£10.00 | +£35.20 |
+| 6 | Mon 17 Aug | Casa Pia v Benfica builder: Pavlidis anytime ✓ (scored 3) + Benfica win ✓ + Under 3.5 goals ✗ | Bet builder | £6.80 | 3.50 | ❌ LOST — Benfica won 0–7 with a Pavlidis hat-trick; the unders leg killed a bet whose core thesis was emphatically right | £0.00 | −£6.80 | +£28.40 |
 
-**Totals (verified bets): staked £50.00 · returned £85.20 · net +£35.20**
+**Totals (verified bets): staked £56.80 · returned £85.20 · net +£28.40**
 
 Unconfirmed: one further slip partially visible on the settled list (possible £20 stake) — to be added once confirmed.
 
@@ -27,8 +28,9 @@ Unconfirmed: one further slip partially visible on the settled list (possible £
 
 | Date | Bet | Type | Stake | Odds | Condition |
 |------|-----|------|-------|------|-----------|
-| Mon 17 Aug | Casa Pia v Benfica: Benfica win + Pavlidis anytime + Under 3.5 goals | Bet builder | **£5** (1 unit — thin card, rotation risk) | ~2/1 est. | ONLY if Pavlidis starts (team news ~7:15pm UK). If benched: no bet. No other bets on Monday. |
-| Fri 21 Aug | Premier League opening weekend — Arsenal v Coventry + full card | TBD after research | TBD | TBD | Full research session Friday |
+| Tue 18 Aug | **NO BET** — card is EFL Trophy (U21 development fixtures) only | — | £0 | — | Thin-card discipline: nothing researchable, nothing bet |
+| Wed 19 Aug | Celtic v LASK, Champions League playoff 1st leg (8pm) — candidate for research | TBD | ≤£5 | TBD | Research Wednesday morning; bet only if a value angle emerges |
+| Fri 21 Aug | Premier League opening weekend — Arsenal v Coventry + full card | TBD after research | TBD | TBD | Full research session Friday — the main event |
 
 ## Lessons captured per bet
 
@@ -38,4 +40,6 @@ Unconfirmed: one further slip partially visible on the settled list (possible £
 4. **Bet 4 (lost, unplanned):** Doubling up on the same game with a second builder doubled exposure to one match without new information.
 5. **Bet 5 (lost):** Draws are the acca killer — two 2–2s. Three ~70% legs ≈ ~34% combined. The flagged warning (Ajax's Shelbourne wobble) was real; the surprise (Feyenoord) is what variance looks like.
 
-**Meta-lesson from the slip audit:** the researched bets are +£55.20; the untracked side bets are −£20.00. The leak isn't research quality — it's bets placed outside the plan. Rule going forward: every bet gets written into this log BEFORE it's placed, or it doesn't get placed.
+6. **Bet 6 (lost):** The costliest kind of lesson — two legs right, thesis right, bet dead. We combined "in-form striker vs makeshift defence" with an unders leg built on last season's venue trend. **Those two ideas contradict each other**; when a builder's legs pull in opposite directions, cut the contradicting leg and take the shorter price. The two-leg version (Benfica + Pavlidis, ~6/4) was discussed and would have won. Also: stake drifted to £6.80 vs the planned £5 — small, but drift is drift.
+
+**Meta-lesson from the slip audit:** the researched bets are +£55.20 − £6.80 = +£48.40; the untracked side bets are −£20.00. The leak isn't research quality — it's bets placed outside the plan. Rule going forward: every bet gets written into this log BEFORE it's placed, or it doesn't get placed.

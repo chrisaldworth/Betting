@@ -29,7 +29,7 @@ Unconfirmed: one further slip partially visible on the settled list (possible £
 | Date | Bet | Type | Stake | Odds | Condition |
 |------|-----|------|-------|------|-----------|
 | Tue 18 Aug | **NO BET** — card is EFL Trophy (U21 development fixtures) only | — | £0 | — | Thin-card discipline: nothing researchable, nothing bet |
-| Wed 19 Aug | Celtic v LASK, Champions League playoff 1st leg (8pm) — candidate for research | TBD | ≤£5 | TBD | Research Wednesday morning; bet only if a value angle emerges |
+| ~~Wed 19 Aug~~ | ~~Celtic v LASK, CL playoff 1st leg~~ — **CLOSED, no bet placed.** Research session never ran, so no bet was defined; game passed (Celtic led 3–0 in leg 1). Not counted as a miss: unresearched hypotheticals that win are noise, not evidence | — | £0 | — | — |
 | Fri 21 Aug | Premier League opening weekend — Arsenal v Coventry + full card | TBD after research | TBD | TBD | Full research session Friday — the main event |
 
 ## Lessons captured per bet

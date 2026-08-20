@@ -31,7 +31,7 @@ Unconfirmed: one further slip partially visible on the settled list (possible £
 | Tue 18 Aug | **NO BET** — card is EFL Trophy (U21 development fixtures) only | — | £0 | — | Thin-card discipline: nothing researchable, nothing bet |
 | ~~Wed 19 Aug~~ | ~~Celtic v LASK, CL playoff 1st leg~~ — **CLOSED, no bet placed.** Research session never ran, so no bet was defined; game passed (Celtic led 3–0 in leg 1). Not counted as a miss: unresearched hypotheticals that win are noise, not evidence | — | £0 | — | — |
 | Thu 20 Aug | **NO BET** — UEFA playoff first legs only (draw-heavy by design; Tromsø v Brighton is a flagged trap: plastic pitch, Brighton's first competitive game, market at just 63%) | — | £0 | — | Thin-card discipline |
-| Fri 21 Aug | Premier League opening weekend — Arsenal v Coventry + full card | TBD after research | TBD | TBD | Full research session Friday — the main event |
+| Fri 21 Aug | **Arsenal v Coventry builder (3 legs, qualifies for bet365's 50% winnings boost):** Arsenal to win (1.18) + Gyökeres anytime scorer (price TBC in app) + Saka over 2.5 shots (1.66). All legs tell one story — Arsenal dominate — with NO total-goals leg (Benfica lesson: a blowout can't kill this bet). | Bet builder | £10 (2 units — high conviction, boosted) | ~3.3 pre-boost → ~£45 return with boost | Team news ~7pm: (1) Saka starts or shots leg is out; (2) if Gyökeres is benched, pre-agreed swap = Arsenal over 1.5 goals (~1.30) as leg 3 — do NOT improvise a different scorer. Place before 8pm KO. Check boost T&Cs (max stake/winnings cap) before staking. NO clean-sheet/BTTS-No legs — Saliba & Timber injured, makeshift centre-back pairing. No other bets on this game. |
 
 ## Lessons captured per bet
 

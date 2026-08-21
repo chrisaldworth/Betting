@@ -24,6 +24,8 @@ Living document — update after each settled bet with what worked, what didn't,
 11. **Write it down before placing it.** Every bet goes into BETTING_LOG.md's pending table first, with its conditions. A bet that isn't in the log doesn't get placed — this is the rule the slip audit showed we need most.
 12. **One bet per game.** A second builder on the same match doubles exposure without new information.
 13. **Cash-out policy:** default is let it ride (cash-out embeds extra margin). Exception: partial cash-out to lock the stake back once the bet is heavily winning is acceptable — it worked well in the Community Shield. Never cash out a losing position out of boredom.
+14. **Promos are the only real +EV in the book — harvest them deliberately.** Opt in to offers as soon as they appear (costs nothing). A promo can justify a bet on an otherwise-ruled-out game ONLY if the bet is built to fit the promo's real edge (e.g. winner-agnostic legs on a coin-flip game with a bet-and-get). A promo-qualified bet may extend the daily cap by written exception, logged before placing — never silently.
+15. **Never expand leg count for bigger returns — expand odds-per-leg instead.** Five 70% legs ≈ 17% with five failure points and five margins paid. Handicaps on three researched games reach the same payout with fewer ways to die. Max 3 legs stays absolute.
 
 ## What we know so far (evidence log)
 

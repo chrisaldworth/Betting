@@ -12,8 +12,9 @@ All stakes with bet365. Odds and returns below are taken from actual bet slips (
 | 4 | Sun 16 Aug | Second Arsenal v Man City builder (legs TBC) | Bet builder | £10.00 | ? | ❌ LOST | £0.00 | −£10.00 | +£45.20 |
 | 5 | Sun 16 Aug | Feyenoord (1.36) + Beşiktaş (1.30) + Ajax (1.44) | Treble | £10.00 | 2.55 | ❌ LOST — Feyenoord 2–2, Beşiktaş 1–0 ✓, Ajax 2–2 | £0.00 | −£10.00 | +£35.20 |
 | 6 | Mon 17 Aug | Casa Pia v Benfica builder: Pavlidis anytime ✓ (scored 3) + Benfica win ✓ + Under 3.5 goals ✗ | Bet builder | £6.80 | 3.50 | ❌ LOST — Benfica won 0–7 with a Pavlidis hat-trick; the unders leg killed a bet whose core thesis was emphatically right | £0.00 | −£6.80 | +£28.40 |
+| 7 | Fri 21 Aug | Arsenal v Coventry builder (Version B): Arsenal win ✓ + Arsenal over 1 goals ✓ + Saka 3+ shots ✓ (exactly 3) — 50% winnings boost applied (+£6.25), Early Payout received at 2-0 | Bet builder | £10.00 | 2.25 + boost | ✅ WON — Arsenal 3–0 (Ødegaard among the goals); the no-named-scorer version was the right call with the striker selection uncertain | £28.75 | +£18.75 | +£47.15 |
 
-**Totals (verified bets): staked £56.80 · returned £85.20 · net +£28.40**
+**Totals (verified bets): staked £66.80 · returned £113.95 · net +£47.15**
 
 Unconfirmed: one further slip partially visible on the settled list (possible £20 stake) — to be added once confirmed.
 
@@ -31,7 +32,8 @@ Unconfirmed: one further slip partially visible on the settled list (possible £
 | Tue 18 Aug | **NO BET** — card is EFL Trophy (U21 development fixtures) only | — | £0 | — | Thin-card discipline: nothing researchable, nothing bet |
 | ~~Wed 19 Aug~~ | ~~Celtic v LASK, CL playoff 1st leg~~ — **CLOSED, no bet placed.** Research session never ran, so no bet was defined; game passed (Celtic led 3–0 in leg 1). Not counted as a miss: unresearched hypotheticals that win are noise, not evidence | — | £0 | — | — |
 | Thu 20 Aug | **NO BET** — UEFA playoff first legs only (draw-heavy by design; Tromsø v Brighton is a flagged trap: plastic pitch, Brighton's first competitive game, market at just 63%) | — | £0 | — | Thin-card discipline |
-| Fri 21 Aug | **Arsenal v Coventry builder (3 legs, 50% winnings boost).** Striker slot now a Havertz/Gyökeres coin-toss per Friday's previews, so two pre-agreed versions: **(A) placed after 7pm team news** — Arsenal win (1.18) + starting striker (whichever of Havertz/Gyökeres starts) anytime (~1.75) + Saka over 2.5 shots (1.66), ~3.3 → ~£45 boosted; **(B) placed before team news** — Arsenal win + Arsenal over 1.5 goals (~1.30) + Saka o2.5 shots, ~2.55 → ~£33 boosted. No total-goals-under legs, no clean-sheet legs (Saliba/Timber out). | Bet builder | £10 (2 units) | see versions | Saka must start (verify if placing post-7pm). One bet only. Check boost max-stake T&Cs. Place before 8pm KO. |
+| Sat 22 Aug | **Builder — Hull v Man Utd (12:30):** Man Utd to win (1.36) + Man Utd over 1.5 goals (~1.50) + Mbeumo to score or assist (~1.70). One story: United control a depleted Hull (7 players out incl. both first-choice GK Butland; backup Tzolakis starts; Hull had 5th-fewest shots in the Championship). No unders leg. | Bet builder | £10 | ~3.2 → ~£32 (more if a boost shows) | Mbeumo must start (12:30 team news ~11:30). Check match page for a winnings boost like Friday's. Place by 12:15. One bet on this game. |
+| Sat 22 Aug | **Acca (3 legs):** Celtic to win at St Johnstone (~1.30) + Leverkusen to win at 3rd-tier Wehen Wiesbaden (~1.12, DFB-Pokal) + Frankfurt to win at 5th-tier FC St. Tönis (~1.05, DFB-Pokal). Class-gap legs only, no coin flips. Optional upgrade: if Leverkusen −1.5 is priced ≤1.45 in app, take it instead of the straight win. | Treble | £10 | ~1.53 straight (~£15.30) / ~£18–20 with the −1.5 upgrade | Earliest KO is Leverkusen 12:00 UK — place by 11:45. Avoided: all four 3pm PL games (opening-day coin flips), Brentford v Spurs (draw-leaning), Hull already in builder. |
 
 ## Lessons captured per bet
 

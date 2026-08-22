@@ -7,7 +7,8 @@ Living document — update after each settled bet with what worked, what didn't,
 - **Bankroll:** ring-fenced pot seeded by the opening weekend (+£87 profit as of 16 Aug 2026). Betting money is entertainment budget — never top up from elsewhere to chase a loss.
 - **Unit = £5.** Standard bet = 1 unit. High-conviction, well-researched bet on a strong card = 2 units max. Thin cards, speculative builders, experimental angles = 1 unit or no bet.
 - **Never increase stakes because of a winning streak.** Wins don't change the next bet's probability. Equally, never chase after a losing day.
-- **Cap: no more than 4 units (£20) staked across any single day.**
+- **Cap (v2, agreed 22 Aug): £40 per week, hard, allocated freely across the days.** A stacked Saturday can take most of it; dead days bank theirs. The ceiling itself never flexes mid-week — no "one more because there are lots of fixtures". Rationale from the log: both full-card sweeps ran out of edge before running out of budget; the cap has only ever squeezed excluded-pile bets (£0 returned from £20 lifetime).
+- **Weekly reset each Monday: cap = min(£40, 25% of bankroll).** Stakes scale with proven results in both directions — the only honest way stakes ever grow. Fixture density is never a reason; profit is.
 
 ## Bet selection rules
 

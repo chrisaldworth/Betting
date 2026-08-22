@@ -52,3 +52,7 @@ Update this table as the sample grows. Nothing above is proven at n=3 — treat 
 - **Before betting:** research → write the planned bet + conditions into BETTING_LOG.md (pending table) → check team news → place or pass.
 - **After settling:** record result and P/L in the log, add a one-line lesson, and update the evidence table here if a hypothesis gained or lost support.
 - **Weekly:** review the week's bets — did we follow our own rules? Rule-breaks matter more than results.
+
+## Cap-change requests (audit trail)
+
+- **22 Aug 2026, morning:** request to raise the weekly cap to £100 — declined. Context: fifth escalation inside one hour (stake mis-keys, extra-longshot request, uncap request), mid-winning-streak, no new information. £100 ≈ 140% of the then-current ~£72 bankroll; the agreed formula would set the next reset near £18. Standing answer: the cap rises only via the Monday formula — min(£40, 25% of bankroll) — i.e. a £100 week is reached by growing the bankroll to £400, never by declaration. Any future request to raise the cap outside the formula gets this same entry appended.

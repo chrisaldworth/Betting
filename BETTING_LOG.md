@@ -13,8 +13,24 @@ All stakes with bet365. Odds and returns below are taken from actual bet slips (
 | 5 | Sun 16 Aug | Feyenoord (1.36) + Beşiktaş (1.30) + Ajax (1.44) | Treble | £10.00 | 2.55 | ❌ LOST — Feyenoord 2–2, Beşiktaş 1–0 ✓, Ajax 2–2 | £0.00 | −£10.00 | +£35.20 |
 | 6 | Mon 17 Aug | Casa Pia v Benfica builder: Pavlidis anytime ✓ (scored 3) + Benfica win ✓ + Under 3.5 goals ✗ | Bet builder | £6.80 | 3.50 | ❌ LOST — Benfica won 0–7 with a Pavlidis hat-trick; the unders leg killed a bet whose core thesis was emphatically right | £0.00 | −£6.80 | +£28.40 |
 | 7 | Fri 21 Aug | Arsenal v Coventry builder (Version B): Arsenal win ✓ + Arsenal over 1 goals ✓ + Saka 3+ shots ✓ (exactly 3) — 50% winnings boost applied (+£6.25), Early Payout received at 2-0 | Bet builder | £10.00 | 2.25 + boost | ✅ WON — Arsenal 3–0 (Ødegaard among the goals); the no-named-scorer version was the right call with the striker selection uncertain | £28.75 | +£18.75 | +£47.15 |
+| 8 | Sat 22 Aug | Hull v Man Utd builder: Utd win + Mbeumo score/assist + McBurnie 2+ fouls | Bet builder | £10.00 | 4.20 | ❌ LOST — Man Utd failed to win at Hull (the ~67% leg failed; that's variance, and why the price wasn't 1.05) | £0.00 | −£10.00 | +£37.15 |
+| 9 | Sat 22 Aug | Treble: Leverkusen + Luton + Leicester | Treble | £10.00 | 2.72 | ❌ LOST | £0.00 | −£10.00 | +£27.15 |
+| 10 | Sat 22 Aug | Longshot: Real Madrid −1 + Athletic + West Ham −1 | Treble | £3.75 | 7.79 | ❌ LOST | £0.00 | −£3.75 | +£23.40 |
+| 11 | Sat 22 Aug | Brentford v Spurs promo builder (planned) | Bet builder | £10.00 | ~2.6 | ❌ LOST — £5 free bets due within 72h win-or-lose if qualified | £0.00 | −£10.00 | +£13.40 |
+| 12 | Sat 22 Aug | **UNPLANNED** — second Brentford v Spurs builder (rule 12 violation: two bets on one game) | Bet builder | £10.00 | ? | Cashed out at stake | £10.00 | £0.00 | +£13.40 |
+| 13 | Sat 22 Aug | **UNPLANNED** — Man Utd single (the Super Boost; plan said boost OR Brentford, not both) | Single | £10.00 | 2.00 | ❌ LOST | £0.00 | −£10.00 | +£3.40 |
+| 14 | Sat 22 Aug | **UNPLANNED** — "Geryon" single (horse racing; outside the system entirely, no research) | Single | £10.00 | ? | ❌ LOST | £0.00 | −£10.00 | **−£6.60** |
 
-**Totals (verified bets): staked £66.80 · returned £113.95 · net +£47.15**
+**Totals: staked £130.55 · returned £123.95 · net −£6.60 · balance ~£10**
+
+### Split by category (updated)
+
+| Category | Net |
+|----------|-----|
+| Planned, researched bets (1,3,5,6,7,8,9,10,11) | **+£33.40** |
+| Unplanned side bets (2,4,12,13,14) | **−£40.00** |
+
+The week's story in one line: the system made money; the bets outside it lost more than the system made.
 
 Unconfirmed: one further slip partially visible on the settled list (possible £20 stake) — to be added once confirmed.
 
@@ -36,8 +52,8 @@ Unconfirmed: one further slip partially visible on the settled list (possible £
 | Sat 22 Aug | **✅ PLACED Sat 08:03** — Treble: Leverkusen (1.11, 90' only) + Luton (1.60, EP) + Leicester (1.53, EP) = 2.72, +5% acca boost auto-applied. Rebuilt after verified re-research: Frankfurt and Celtic legs removed (fixtures not on Saturday — Pokal tie another day; Scottish card postponed for Euro playoffs), full 39-game English sweep added Luton. **Stake drift note: placed at £10 vs planned £7.50 — second occurrence (Benfica was £6.80 vs £5). Day total becomes £32.50 vs the £30 written exception; logged honestly, drift flagged as a pattern to stop.** | Treble | £10.00 | 2.72 + boost → £28.12 | Placed. |
 | Sat 22 Aug | **✅ PLACED Sat 08:22 @ 7.79** — Longshot treble: Real Madrid −1 (2.20, Handicap Result) + Athletic Club (1.72) + West Ham −1 (2.05). **Stake drift again: £3.75 vs planned £2.50 (third occurrence; user initially keyed £8.75, corrected down). Request for a second £2.50 longshot declined — day already £33.75 vs £30 written exception, and all edge candidates already deployed; remaining fixtures are the excluded pile. Free £5 from Brentford promo designated as the guilt-free longshot for Sun/Mon instead.** Declined the app's "add 2 selections for 25% boost" teaser per the no-leg-expansion rule. | Treble (handicaps) | £3.75 | 7.79 → £29.21 | Placed. |
 | Sat 22 Aug | **Brentford v Spurs promo builder (5:30pm) — ONLY if the "Bet & Get £5 free bets" offer shows for the account after opting in.** Winner-agnostic build: BTTS (~1.60) + over 1.5 goals + one more goals/corners leg to reach the required EVS+ combined. Game stays ruled out on merit if the offer is unavailable. | Bet builder (promo) | £10 | ~2.2 → ~£22 + £5 free bets win-or-lose | **Documented cap exception:** Saturday's cap is £30, this day only, because this bet is promo-qualified (+EV); not precedent. Also: opted in to Newcastle v Liverpool builder-insurance offer for Monday. |
-| Sun 23 Aug | **Newcastle v Liverpool (3:30pm) — insured builder, CONDITIONAL:** only if Saturday's board returns money (≥2 of 4 bets landing). New managers both sides (Jaissle/Iraola), Newcastle sold key players → likely winner-agnostic goals build; research Sunday AM with team news. Loss-insurance promo opted in (≤£5 back if builder loses). If Saturday wipes out: NO Sunday bet — that's chasing; restart Monday. Brentford's £5 free bets (if landed) → researched Sunday longshot, free-money rules. | Bet builder (insured) | £10 (conditional) | TBD | Written before Saturday results known, so the condition is chase-proof. |
-| Mon 24 Aug | Fulham v Chelsea (8pm) — Xabi Alonso's first PL game as Chelsea boss, Chelsea ~1.87 away. First candidate of the new capped week (cap = min(£40, 25% of bankroll) at Monday reset). | TBD | TBD | TBD | Research Monday. |
+| ~~Sun 23 Aug~~ | ~~Newcastle v Liverpool insured builder~~ — **CONDITION NOT MET (0 of 4 Saturday bets landed) → NO BET TODAY.** This is the chase-proof rule firing exactly as designed: it was written Saturday morning, before results were known. Watch the game as a fan. If the Brentford promo's £5 free bets arrive, they may be used on a researched fun bet (£0 cash) or held for next week. | — | £0 | — | Rule held. |
+| Mon 24 Aug | **Weekly reset: cap = min(£40, 25% of bankroll). Bankroll ≈ £10 → cap ≈ £2.50 for the coming week.** That is the formula speaking honestly: next week is a rest-and-rebuild week, not a betting week. Per the strategy's founding rule, the bankroll is NOT topped up after losses — re-funding a wiped pot to keep betting is the textbook definition of chasing. Fulham v Chelsea is a watch, not a bet, unless free bets cover it. | — | ≤£2.50 | — | Formula applied to the real number. |
 
 ## Lessons captured per bet
 

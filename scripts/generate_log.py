@@ -184,6 +184,8 @@ def main():
     for w in warnings:
         print(f"WARNING: {w}", file=sys.stderr)
     print(f"BETTING_LOG.md regenerated: {len(bets)} bets, {len(warnings)} warning(s).")
+    import generate_dashboard
+    generate_dashboard.main()
 
 
 if __name__ == "__main__":

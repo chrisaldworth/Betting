@@ -14,8 +14,11 @@
           "market": "e.g. Match Result, -0.5 Asian Handicap, Anytime Scorer",
           "selection": "the pick",
           "odds": "decimal, from the slip when placed; research estimate before",
+          "est_prob": "our honest pre-price probability estimate (0-1), set at research time — the calibration record",
+          "thesis": "class_gap | form | motivation | texture | promo — why this leg was picked",
           "result": "won | lost | void | pending",
-          "how_settled": "score/stat that settled it, filled at settlement"
+          "how_settled": "score/stat that settled it, filled at settlement",
+          "clv": "closing (pre-kickoff) odds for this selection, captured at settlement — for closing-line value"
         }
       ],
       "planned": "true if written here before placing (rule 11); false = rule break",

@@ -1,0 +1,37 @@
+{
+  "eras": [
+    {
+      "era": 1,
+      "name": "Weekly-cap era",
+      "start": "2026-08-15",
+      "end": "2026-08-24",
+      "staking": "Unit \u00a35; weekly cap min(\u00a340, 25% of bankroll), reset Mondays",
+      "staked": 130.55,
+      "returned": 123.95,
+      "net": -6.6,
+      "closing_balance_approx": 10.0,
+      "status": "closed",
+      "note": "Pot peaked +\u00a387, wiped 22 Aug mainly by unplanned side bets (planned +\u00a333.40, unplanned -\u00a340.00). Full prose log: logs/era1-aug2026.md"
+    },
+    {
+      "era": 2,
+      "name": "Daily-stake era",
+      "start": "2026-08-27",
+      "end": null,
+      "staking": "Ceilings, not quotas: up to \u00a310/day on the recommended acca + up to \u00a310/day on the recommended builder. NO BET days stake \u00a30. No bets outside the daily card. Circuit breaker: pause + written review at era P/L of -\u00a3100.",
+      "staked": 0,
+      "returned": 0,
+      "net": 0,
+      "status": "open",
+      "note": "User-directed written restart, 27 Aug 2026 (see STRATEGY.md audit trail). Era P/L measured from \u00a30."
+    }
+  ],
+  "free_bets": [
+    {
+      "amount": 5.0,
+      "source": "Brentford v Spurs Bet & Get promo (22 Aug)",
+      "status": "unconfirmed \u2014 check bet365 account; expires per offer terms",
+      "rule": "Free bets are \u00a30-cash; usable on a researched bet outside the daily ceilings, logged like any other bet"
+    }
+  ]
+}

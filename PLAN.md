@@ -91,6 +91,16 @@ Conditions: Player X starting, else bet is off.
 
 ---
 
+## Decisions — RESOLVED 27 Aug 2026
+
+- **Decision 1 (bankroll):** user chose a daily-stake restart — **up to £10/day on the acca + up to £10/day on the builder** (ceilings, not quotas). Encoded as staking v3 in STRATEGY.md with safeguards (NO BET days = £0, no bets outside the daily card, −£100 circuit breaker). Era 1's record stays permanent.
+- **Decision 2 (schedule):** research daily ~09:00 UK, settlement ~23:00 UK (routines live; cron in UTC: 08:00 / 22:00).
+- **Decision 3 (leagues):** default scope adopted — PL, EFL, European competitions, top-5 leagues on big cards.
+
+**Build status:** Phases 1–2 built and live on 27 Aug — data schema (`data/`), settlement/log script (`scripts/generate_log.py`), first daily card (`picks/2026-08-27.md`, paper — produced after kickoff on build day), and both scheduled routines. Phase 3 (CLV capture, weekly review) runs inside the Monday morning routine.
+
+<details><summary>Original decision list (pre-resolution)</summary>
+
 ## Decisions needed before build
 
 **Decision 1 — the bankroll.** The current pot is ~£10 and the standing formula makes this a ~£2.50 week. A "new project" is a fresh system, but a fresh *pot* after a wipe-out is exactly what the strategy's founding rule ("never top up to keep betting") was written to prevent. Three honest options:
@@ -102,10 +112,12 @@ Conditions: Player X starting, else bet is off.
 
 **Decision 3 — scope of leagues.** Proposed core: Premier League, EFL, Champions/Europa League, plus top-5 European leagues on big cards. Wider = more noise, thinner research per game.
 
-## Build order (once decisions are in)
+## Build order (as executed)
 
 1. `data/` schema + migration of the 14 historical bets into it.
 2. Settlement script + log regeneration.
 3. First manual daily card (prove the format).
 4. Scheduled morning + evening routines.
 5. Weekly review routine + CLV tracking.
+
+</details>

@@ -1,68 +1,60 @@
 # Betting Log
 
-All stakes with bet365. Odds and returns below are taken from actual bet slips (verified 16 Aug 2026, 22:36) — always log from the slip, not from pre-match research estimates.
+**Generated from `data/bets.json` — edit the data, not this file** (then run `python3 scripts/generate_log.py`).
 
-## Settled bets
+All stakes with bet365. Returns are logged from the actual slip, never from research estimates.
 
-| # | Date | Bet | Type | Stake | Odds | Result | Return | P/L | Running P/L |
-|---|------|-----|------|-------|------|--------|--------|-----|-------------|
-| 1 | Sat 15 Aug | Middlesbrough (1.42) + Celtic 90' (1.50) + FC Porto (1.33) | Treble | £10.00 | 2.83 | ✅ WON — Boro 2–1, Dundee Utd 0–4 Celtic, Rio Ave 0–2 Porto | £28.40 | +£18.40 | +£18.40 |
-| 2 | Sat 15 Aug | Four-fold: Middlesbrough, Bradford, + 2 others | Four-fold | £10.00 | ? | ❌ LOST | £0.00 | −£10.00 | +£8.40 |
-| 3 | Sun 16 Aug | Community Shield builder: Havertz anytime + Nunes 1+ fouls + Under 3.5 | Bet builder | £10.00 | 8/1 → 6.00 | ✅ WON — Arsenal 3–0. **Nunes leg VOID (didn't play), builder repriced to 6.00.** Partial cash-out £10.00 taken in-play; remaining £7.80 ran and won £46.80 | £56.80 | +£46.80 | +£55.20 |
-| 4 | Sun 16 Aug | Second Arsenal v Man City builder (legs TBC) | Bet builder | £10.00 | ? | ❌ LOST | £0.00 | −£10.00 | +£45.20 |
-| 5 | Sun 16 Aug | Feyenoord (1.36) + Beşiktaş (1.30) + Ajax (1.44) | Treble | £10.00 | 2.55 | ❌ LOST — Feyenoord 2–2, Beşiktaş 1–0 ✓, Ajax 2–2 | £0.00 | −£10.00 | +£35.20 |
-| 6 | Mon 17 Aug | Casa Pia v Benfica builder: Pavlidis anytime ✓ (scored 3) + Benfica win ✓ + Under 3.5 goals ✗ | Bet builder | £6.80 | 3.50 | ❌ LOST — Benfica won 0–7 with a Pavlidis hat-trick; the unders leg killed a bet whose core thesis was emphatically right | £0.00 | −£6.80 | +£28.40 |
-| 7 | Fri 21 Aug | Arsenal v Coventry builder (Version B): Arsenal win ✓ + Arsenal over 1 goals ✓ + Saka 3+ shots ✓ (exactly 3) — 50% winnings boost applied (+£6.25), Early Payout received at 2-0 | Bet builder | £10.00 | 2.25 + boost | ✅ WON — Arsenal 3–0 (Ødegaard among the goals); the no-named-scorer version was the right call with the striker selection uncertain | £28.75 | +£18.75 | +£47.15 |
-| 8 | Sat 22 Aug | Hull v Man Utd builder: Utd win + Mbeumo score/assist + McBurnie 2+ fouls | Bet builder | £10.00 | 4.20 | ❌ LOST — Man Utd failed to win at Hull (the ~67% leg failed; that's variance, and why the price wasn't 1.05) | £0.00 | −£10.00 | +£37.15 |
-| 9 | Sat 22 Aug | Treble: Leverkusen + Luton + Leicester | Treble | £10.00 | 2.72 | ❌ LOST | £0.00 | −£10.00 | +£27.15 |
-| 10 | Sat 22 Aug | Longshot: Real Madrid −1 + Athletic + West Ham −1 | Treble | £3.75 | 7.79 | ❌ LOST | £0.00 | −£3.75 | +£23.40 |
-| 11 | Sat 22 Aug | Brentford v Spurs promo builder (planned) | Bet builder | £10.00 | ~2.6 | ❌ LOST — £5 free bets due within 72h win-or-lose if qualified | £0.00 | −£10.00 | +£13.40 |
-| 12 | Sat 22 Aug | **UNPLANNED** — second Brentford v Spurs builder (rule 12 violation: two bets on one game) | Bet builder | £10.00 | ? | Cashed out at stake | £10.00 | £0.00 | +£13.40 |
-| 13 | Sat 22 Aug | **UNPLANNED** — Man Utd single (the Super Boost; plan said boost OR Brentford, not both) | Single | £10.00 | 2.00 | ❌ LOST | £0.00 | −£10.00 | +£3.40 |
-| 14 | Sat 22 Aug | **UNPLANNED** — "Geryon" single (horse racing; outside the system entirely, no research) | Single | £10.00 | ? | ❌ LOST | £0.00 | −£10.00 | **−£6.60** |
+## Era 2: Daily-stake era (2026-08-27 → ongoing)
 
-**Totals: staked £130.55 · returned £123.95 · net −£6.60 · balance ~£10**
+**Staking:** Ceilings, not quotas: up to £10/day on the recommended acca + up to £10/day on the recommended builder. NO BET days stake £0. No bets outside the daily card. Circuit breaker: pause + written review at era P/L of -£100.
 
-### Split by category (updated)
+### Open / pending
 
-| Category | Net |
-|----------|-----|
-| Planned, researched bets (1,3,5,6,7,8,9,10,11) | **+£33.40** |
-| Unplanned side bets (2,4,12,13,14) | **−£40.00** |
+| # | Date | Bet | Type | Stake | Odds | Status | Conditions |
+|---|------|-----|------|-------|------|--------|------------|
+| 15 | 2026-08-27 | Chelsea (Match Result (90 mins)) + Fulham (Match Result (90 mins)) + Benfica (Match Result (90 mins)) | acca | £0.00 | 2.35 | 📝 RECOMMENDED | PAPER PICK — card was finalized after kickoff on the system's build day; £0 staked. Settle for calibration only. Odds are research estimates until slip-confirmed. Place before ~19:00 UK. |
+| 16 | 2026-08-27 | Chelsea (Match Result (90 mins)) + Cole Palmer (Score or Assist) + Over (Chelsea Over 2.5 Goals) | builder | £0.00 | 3.8 | 📝 RECOMMENDED | PAPER PICK — card was finalized after kickoff on the system's build day; £0 staked. Settle for calibration only. PALMER MUST START (team sheets ~18:30) — not starting means bet off, no substitute pick. One bet on this game, no in-play additions. |
 
-The week's story in one line: the system made money; the bets outside it lost more than the system made.
+## Era 1: Weekly-cap era (2026-08-15 → 2026-08-24)
 
-Unconfirmed: one further slip partially visible on the settled list (possible £20 stake) — to be added once confirmed.
+**Staking:** Unit £5; weekly cap min(£40, 25% of bankroll), reset Mondays
 
-### Split by category
+### Settled
 
-| Category | Staked | Returned | Net |
-|----------|--------|----------|-----|
-| Researched/planned bets (1, 3, 5) | £30.00 | £85.20 | **+£55.20** |
-| Unplanned side bets (2, 4) | £20.00 | £0.00 | **−£20.00** |
+| # | Date | Bet | Type | Stake | Odds | Result | Return | P/L | Running |
+|---|------|-----|------|-------|------|--------|--------|-----|---------|
+| 1 | 2026-08-15 | Middlesbrough (Match Result) ✓ + Celtic (Match Result (90 mins)) ✓ + Porto (Match Result) ✓ | acca | £10.00 | 2.83 | ✅ WON | £28.40 | £18.40 | £18.40 |
+| 2 | 2026-08-15 | Middlesbrough (Match Result) ✓ + Bradford (Match Result) + ? + ? **UNPLANNED** | acca | £10.00 | ? | ❌ LOST | £0.00 | £-10.00 | £8.40 |
+| 3 | 2026-08-16 | Havertz (Anytime Scorer) ✓ + Nunes (1+ Fouls Committed) (void) + Under (Under 3.5 Goals) ✓ | builder | £10.00 | 6.0 | ✅ WON | £56.80 | £46.80 | £55.20 |
+| 4 | 2026-08-16 | UNPLANNED second builder on same game — rule 12 violation; doubled exposure with **UNPLANNED** | builder | £10.00 | ? | ❌ LOST | £0.00 | £-10.00 | £45.20 |
+| 5 | 2026-08-16 | Feyenoord (Match Result) ✗ + Besiktas (Match Result) ✓ + Ajax (Match Result) ✗ | acca | £10.00 | 2.55 | ❌ LOST | £0.00 | £-10.00 | £35.20 |
+| 6 | 2026-08-17 | Pavlidis (Anytime Scorer) ✓ + Benfica (Match Result) ✓ + Under (Under 3.5 Goals) ✗ | builder | £6.80 | 3.5 | ❌ LOST | £0.00 | £-6.80 | £28.40 |
+| 7 | 2026-08-21 | Arsenal (Match Result) ✓ + Arsenal over 1 (Team Over 1 Goals) ✓ + Saka (3+ Shots) ✓ | builder | £10.00 | 2.25 | ✅ WON | £28.75 | £18.75 | £47.15 |
+| 8 | 2026-08-22 | Man Utd (Match Result) ✗ + Mbeumo (Score or Assist) + McBurnie (2+ Fouls Committed) | builder | £10.00 | 4.2 | ❌ LOST | £0.00 | £-10.00 | £37.15 |
+| 9 | 2026-08-22 | Leverkusen (Match Result (90 mins)) + Luton (Match Result) + Leicester (Match Result) | acca | £10.00 | 2.72 | ❌ LOST | £0.00 | £-10.00 | £27.15 |
+| 10 | 2026-08-22 | Real Madrid -1 (Handicap Result -1) + Athletic (Match Result) + West Ham -1 (Handicap Result -1) | acca | £3.75 | 7.79 | ❌ LOST | £0.00 | £-3.75 | £23.40 |
+| 11 | 2026-08-22 | Yes (BTTS) + Over (Over 1.5 Goals) | builder | £10.00 | 2.6 | ❌ LOST | £0.00 | £-10.00 | £13.40 |
+| 12 | 2026-08-22 | UNPLANNED second builder on same game (rule 12 violation). Cashed out at stake. **UNPLANNED** | builder | £10.00 | ? | 💰 CASHED OUT | £10.00 | £0.00 | £13.40 |
+| 13 | 2026-08-22 | Man Utd (Super Boost) ✗ **UNPLANNED** | single | £10.00 | 2.0 | ❌ LOST | £0.00 | £-10.00 | £3.40 |
+| 14 | 2026-08-22 | Geryon (Win) ✗ **UNPLANNED** | single | £10.00 | ? | ❌ LOST | £0.00 | £-10.00 | £-6.60 |
 
-## Pending / planned
+**Era 1 settled totals: staked £130.55 · returned £123.95 · net £-6.60**
 
-| Date | Bet | Type | Stake | Odds | Condition |
-|------|-----|------|-------|------|-----------|
-| Tue 18 Aug | **NO BET** — card is EFL Trophy (U21 development fixtures) only | — | £0 | — | Thin-card discipline: nothing researchable, nothing bet |
-| ~~Wed 19 Aug~~ | ~~Celtic v LASK, CL playoff 1st leg~~ — **CLOSED, no bet placed.** Research session never ran, so no bet was defined; game passed (Celtic led 3–0 in leg 1). Not counted as a miss: unresearched hypotheticals that win are noise, not evidence | — | £0 | — | — |
-| Thu 20 Aug | **NO BET** — UEFA playoff first legs only (draw-heavy by design; Tromsø v Brighton is a flagged trap: plastic pitch, Brighton's first competitive game, market at just 63%) | — | £0 | — | Thin-card discipline |
-| Sat 22 Aug | **✅ PLACED Fri night @ 4.20** — Builder, Hull v Man Utd (12:30): Man Utd to win (EP) + Mbeumo to score or assist + McBurnie 2+ fouls committed. Restructured from the correlated version the app priced at 2.00; cross-dimension legs more than doubled the return. Both player legs sub-on-play-on. **Lesson logged: bet365's builder engine crushes same-direction leg stacks; mix result/player/texture legs to keep the price.** | Bet builder | £10 | 4.20 → £42.00 | Placed. One bet on this game — no in-play additions. |
-| Sat 22 Aug | **✅ PLACED Sat 08:03** — Treble: Leverkusen (1.11, 90' only) + Luton (1.60, EP) + Leicester (1.53, EP) = 2.72, +5% acca boost auto-applied. Rebuilt after verified re-research: Frankfurt and Celtic legs removed (fixtures not on Saturday — Pokal tie another day; Scottish card postponed for Euro playoffs), full 39-game English sweep added Luton. **Stake drift note: placed at £10 vs planned £7.50 — second occurrence (Benfica was £6.80 vs £5). Day total becomes £32.50 vs the £30 written exception; logged honestly, drift flagged as a pattern to stop.** | Treble | £10.00 | 2.72 + boost → £28.12 | Placed. |
-| Sat 22 Aug | **✅ PLACED Sat 08:22 @ 7.79** — Longshot treble: Real Madrid −1 (2.20, Handicap Result) + Athletic Club (1.72) + West Ham −1 (2.05). **Stake drift again: £3.75 vs planned £2.50 (third occurrence; user initially keyed £8.75, corrected down). Request for a second £2.50 longshot declined — day already £33.75 vs £30 written exception, and all edge candidates already deployed; remaining fixtures are the excluded pile. Free £5 from Brentford promo designated as the guilt-free longshot for Sun/Mon instead.** Declined the app's "add 2 selections for 25% boost" teaser per the no-leg-expansion rule. | Treble (handicaps) | £3.75 | 7.79 → £29.21 | Placed. |
-| Sat 22 Aug | **Brentford v Spurs promo builder (5:30pm) — ONLY if the "Bet & Get £5 free bets" offer shows for the account after opting in.** Winner-agnostic build: BTTS (~1.60) + over 1.5 goals + one more goals/corners leg to reach the required EVS+ combined. Game stays ruled out on merit if the offer is unavailable. | Bet builder (promo) | £10 | ~2.2 → ~£22 + £5 free bets win-or-lose | **Documented cap exception:** Saturday's cap is £30, this day only, because this bet is promo-qualified (+EV); not precedent. Also: opted in to Newcastle v Liverpool builder-insurance offer for Monday. |
-| ~~Sun 23 Aug~~ | ~~Newcastle v Liverpool insured builder~~ — **CONDITION NOT MET (0 of 4 Saturday bets landed) → NO BET TODAY.** This is the chase-proof rule firing exactly as designed: it was written Saturday morning, before results were known. Watch the game as a fan. If the Brentford promo's £5 free bets arrive, they may be used on a researched fun bet (£0 cash) or held for next week. | — | £0 | — | Rule held. |
-| Mon 24 Aug | **Weekly reset: cap = min(£40, 25% of bankroll). Bankroll ≈ £10 → cap ≈ £2.50 for the coming week.** That is the formula speaking honestly: next week is a rest-and-rebuild week, not a betting week. Per the strategy's founding rule, the bankroll is NOT topped up after losses — re-funding a wiped pot to keep betting is the textbook definition of chasing. Fulham v Chelsea is a watch, not a bet, unless free bets cover it. | — | ≤£2.50 | — | Formula applied to the real number. |
+| Category | Bets | Staked | Returned | Net |
+|----------|------|--------|----------|-----|
+| Planned, researched | 9 | £80.55 | £113.95 | **£33.40** |
+| Unplanned side bets | 5 | £50.00 | £10.00 | **£-40.00** |
 
-## Lessons captured per bet
+| Structure | Bets | Net |
+|-----------|------|-----|
+| acca | 5 | £-15.35 |
+| builder | 7 | £28.75 |
+| single | 2 | £-20.00 |
 
-1. **Bet 1 (won):** Class-gap legs (promoted side away, cup minnow) beat form-guess legs. Selection discipline — ruling out six coin-flip games — was the edge.
-2. **Bet 2 (lost, unplanned):** A tipster acca mentioned in passing is not a researched bet. Four legs ≈ compounding failure ways.
-3. **Bet 3 (won):** The void Nunes leg is the big lesson — **player-prop legs carry lineup risk the research can't fully remove**, and bet365 voids rather than loses them (favourable rule worth knowing). The in-play partial cash-out locked the stake back while letting most of the win run — good risk management in that spot, even though cash-out generally carries extra margin.
-4. **Bet 4 (lost, unplanned):** Doubling up on the same game with a second builder doubled exposure to one match without new information.
-5. **Bet 5 (lost):** Draws are the acca killer — two 2–2s. Three ~70% legs ≈ ~34% combined. The flagged warning (Ajax's Shelbourne wobble) was real; the surprise (Feyenoord) is what variance looks like.
+## Free bets
 
-6. **Bet 6 (lost):** The costliest kind of lesson — two legs right, thesis right, bet dead. We combined "in-form striker vs makeshift defence" with an unders leg built on last season's venue trend. **Those two ideas contradict each other**; when a builder's legs pull in opposite directions, cut the contradicting leg and take the shorter price. The two-leg version (Benfica + Pavlidis, ~6/4) was discussed and would have won. Also: stake drifted to £6.80 vs the planned £5 — small, but drift is drift.
+- £5.00 — Brentford v Spurs Bet & Get promo (22 Aug) — unconfirmed — check bet365 account; expires per offer terms
 
-**Meta-lesson from the slip audit:** the researched bets are +£55.20 − £6.80 = +£48.40; the untracked side bets are −£20.00. The leak isn't research quality — it's bets placed outside the plan. Rule going forward: every bet gets written into this log BEFORE it's placed, or it doesn't get placed.
+---
+
+Era 1's full prose log with per-bet lessons: `logs/era1-aug2026.md`. Rules and evidence table: `STRATEGY.md`. Daily research notes: `picks/`.

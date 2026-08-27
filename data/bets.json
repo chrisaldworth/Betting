@@ -1,0 +1,613 @@
+{
+  "_schema": {
+    "bet": {
+      "id": "sequential integer, never reused",
+      "era": "1 = weekly-cap era (15-24 Aug 2026), 2 = daily-stake era (from 27 Aug 2026)",
+      "date": "YYYY-MM-DD (day the last leg kicks off)",
+      "type": "acca | builder | single",
+      "structure": "free text, e.g. 'treble', 'four-fold'",
+      "fixture": "for builders/singles: the one game; for accas: null (see legs)",
+      "legs": [
+        {
+          "fixture": "Home v Away",
+          "kickoff": "YYYY-MM-DDTHH:MM UK time, when known",
+          "market": "e.g. Match Result, -0.5 Asian Handicap, Anytime Scorer",
+          "selection": "the pick",
+          "odds": "decimal, from the slip when placed; research estimate before",
+          "result": "won | lost | void | pending",
+          "how_settled": "score/stat that settled it, filled at settlement"
+        }
+      ],
+      "planned": "true if written here before placing (rule 11); false = rule break",
+      "stake": "GBP actually staked (from slip)",
+      "odds": "combined decimal odds from slip",
+      "boost": "promo/boost applied, or null",
+      "conditions": "team-sheet or promo conditions; bet is off if unmet",
+      "status": "recommended | placed | won | lost | void | cashed_out | no_bet",
+      "return": "GBP actually returned per slip (0 if lost); provisional_return until slip-confirmed",
+      "slip_confirmed": "true once user confirmed odds/stake/return from the bet365 slip",
+      "clv": "closing odds for the same selections, when captured — for closing-line-value tracking",
+      "notes": "reasoning summary / settlement notes / lesson"
+    }
+  },
+  "bets": [
+    {
+      "id": 1,
+      "era": 1,
+      "date": "2026-08-15",
+      "type": "acca",
+      "structure": "treble",
+      "legs": [
+        {
+          "fixture": "Middlesbrough (home)",
+          "market": "Match Result",
+          "selection": "Middlesbrough",
+          "odds": 1.42,
+          "result": "won",
+          "how_settled": "Boro 2-1"
+        },
+        {
+          "fixture": "Dundee Utd v Celtic",
+          "market": "Match Result (90 mins)",
+          "selection": "Celtic",
+          "odds": 1.5,
+          "result": "won",
+          "how_settled": "0-4"
+        },
+        {
+          "fixture": "Rio Ave v FC Porto",
+          "market": "Match Result",
+          "selection": "Porto",
+          "odds": 1.33,
+          "result": "won",
+          "how_settled": "0-2"
+        }
+      ],
+      "planned": true,
+      "stake": 10.0,
+      "odds": 2.83,
+      "boost": null,
+      "conditions": null,
+      "status": "won",
+      "return": 28.4,
+      "slip_confirmed": true,
+      "notes": "Class-gap legs; selection discipline (ruled out six coin-flips) was the edge."
+    },
+    {
+      "id": 2,
+      "era": 1,
+      "date": "2026-08-15",
+      "type": "acca",
+      "structure": "four-fold",
+      "legs": [
+        {
+          "fixture": "Middlesbrough (home)",
+          "market": "Match Result",
+          "selection": "Middlesbrough",
+          "odds": null,
+          "result": "won"
+        },
+        {
+          "fixture": "Bradford",
+          "market": "Match Result",
+          "selection": "Bradford",
+          "odds": null,
+          "result": null
+        },
+        {
+          "fixture": "unknown",
+          "market": null,
+          "selection": null,
+          "odds": null,
+          "result": null
+        },
+        {
+          "fixture": "unknown",
+          "market": null,
+          "selection": null,
+          "odds": null,
+          "result": null
+        }
+      ],
+      "planned": false,
+      "stake": 10.0,
+      "odds": null,
+      "boost": null,
+      "conditions": null,
+      "status": "lost",
+      "return": 0.0,
+      "slip_confirmed": true,
+      "notes": "UNPLANNED tipster acca mentioned in passing. Four legs = compounding failure ways."
+    },
+    {
+      "id": 3,
+      "era": 1,
+      "date": "2026-08-16",
+      "type": "builder",
+      "structure": "3-leg builder",
+      "fixture": "Arsenal v Man City (Community Shield)",
+      "legs": [
+        {
+          "fixture": "Arsenal v Man City",
+          "market": "Anytime Scorer",
+          "selection": "Havertz",
+          "odds": null,
+          "result": "won"
+        },
+        {
+          "fixture": "Arsenal v Man City",
+          "market": "1+ Fouls Committed",
+          "selection": "Nunes",
+          "odds": null,
+          "result": "void",
+          "how_settled": "did not play; builder repriced 9.00 -> 6.00"
+        },
+        {
+          "fixture": "Arsenal v Man City",
+          "market": "Under 3.5 Goals",
+          "selection": "Under",
+          "odds": null,
+          "result": "won",
+          "how_settled": "3-0, exactly 3"
+        }
+      ],
+      "planned": true,
+      "stake": 10.0,
+      "odds": 6.0,
+      "boost": null,
+      "conditions": "player legs start-dependent",
+      "status": "won",
+      "return": 56.8,
+      "slip_confirmed": true,
+      "notes": "Partial cash-out £10 in-play locked stake back; remaining £7.80 won £46.80. bet365 voids (not loses) unplayed player legs."
+    },
+    {
+      "id": 4,
+      "era": 1,
+      "date": "2026-08-16",
+      "type": "builder",
+      "structure": "builder",
+      "fixture": "Arsenal v Man City (Community Shield)",
+      "legs": [],
+      "planned": false,
+      "stake": 10.0,
+      "odds": null,
+      "boost": null,
+      "conditions": null,
+      "status": "lost",
+      "return": 0.0,
+      "slip_confirmed": true,
+      "notes": "UNPLANNED second builder on same game — rule 12 violation; doubled exposure with no new information."
+    },
+    {
+      "id": 5,
+      "era": 1,
+      "date": "2026-08-16",
+      "type": "acca",
+      "structure": "treble",
+      "legs": [
+        {
+          "fixture": "Feyenoord (home)",
+          "market": "Match Result",
+          "selection": "Feyenoord",
+          "odds": 1.36,
+          "result": "lost",
+          "how_settled": "2-2"
+        },
+        {
+          "fixture": "Besiktas",
+          "market": "Match Result",
+          "selection": "Besiktas",
+          "odds": 1.3,
+          "result": "won",
+          "how_settled": "1-0"
+        },
+        {
+          "fixture": "Ajax (home)",
+          "market": "Match Result",
+          "selection": "Ajax",
+          "odds": 1.44,
+          "result": "lost",
+          "how_settled": "2-2"
+        }
+      ],
+      "planned": true,
+      "stake": 10.0,
+      "odds": 2.55,
+      "boost": null,
+      "conditions": null,
+      "status": "lost",
+      "return": 0.0,
+      "slip_confirmed": true,
+      "notes": "Draws kill accas — two 2-2s. Origin of rule 4 (DNB/-0.5 above ~1.45)."
+    },
+    {
+      "id": 6,
+      "era": 1,
+      "date": "2026-08-17",
+      "type": "builder",
+      "structure": "3-leg builder",
+      "fixture": "Casa Pia v Benfica",
+      "legs": [
+        {
+          "fixture": "Casa Pia v Benfica",
+          "market": "Anytime Scorer",
+          "selection": "Pavlidis",
+          "odds": null,
+          "result": "won",
+          "how_settled": "hat-trick"
+        },
+        {
+          "fixture": "Casa Pia v Benfica",
+          "market": "Match Result",
+          "selection": "Benfica",
+          "odds": null,
+          "result": "won",
+          "how_settled": "0-7"
+        },
+        {
+          "fixture": "Casa Pia v Benfica",
+          "market": "Under 3.5 Goals",
+          "selection": "Under",
+          "odds": null,
+          "result": "lost",
+          "how_settled": "7 goals"
+        }
+      ],
+      "planned": true,
+      "stake": 6.8,
+      "odds": 3.5,
+      "boost": null,
+      "conditions": null,
+      "status": "lost",
+      "return": 0.0,
+      "slip_confirmed": true,
+      "notes": "Contradicting legs: in-form striker thesis vs unders leg. Cut the contradicting leg next time. Stake drift (£6.80 vs £5 planned)."
+    },
+    {
+      "id": 7,
+      "era": 1,
+      "date": "2026-08-21",
+      "type": "builder",
+      "structure": "3-leg builder",
+      "fixture": "Arsenal v Coventry",
+      "legs": [
+        {
+          "fixture": "Arsenal v Coventry",
+          "market": "Match Result",
+          "selection": "Arsenal",
+          "odds": null,
+          "result": "won",
+          "how_settled": "3-0; Early Payout at 2-0"
+        },
+        {
+          "fixture": "Arsenal v Coventry",
+          "market": "Team Over 1 Goals",
+          "selection": "Arsenal over 1",
+          "odds": null,
+          "result": "won"
+        },
+        {
+          "fixture": "Arsenal v Coventry",
+          "market": "3+ Shots",
+          "selection": "Saka",
+          "odds": null,
+          "result": "won",
+          "how_settled": "exactly 3"
+        }
+      ],
+      "planned": true,
+      "stake": 10.0,
+      "odds": 2.25,
+      "boost": "50% winnings boost (+£6.25)",
+      "conditions": null,
+      "status": "won",
+      "return": 28.75,
+      "slip_confirmed": true,
+      "notes": "No-named-scorer version was right call with striker selection uncertain."
+    },
+    {
+      "id": 8,
+      "era": 1,
+      "date": "2026-08-22",
+      "type": "builder",
+      "structure": "3-leg builder",
+      "fixture": "Hull v Man Utd",
+      "legs": [
+        {
+          "fixture": "Hull v Man Utd",
+          "market": "Match Result",
+          "selection": "Man Utd",
+          "odds": null,
+          "result": "lost",
+          "how_settled": "Utd failed to win"
+        },
+        {
+          "fixture": "Hull v Man Utd",
+          "market": "Score or Assist",
+          "selection": "Mbeumo",
+          "odds": null,
+          "result": null
+        },
+        {
+          "fixture": "Hull v Man Utd",
+          "market": "2+ Fouls Committed",
+          "selection": "McBurnie",
+          "odds": null,
+          "result": null
+        }
+      ],
+      "planned": true,
+      "stake": 10.0,
+      "odds": 4.2,
+      "boost": null,
+      "conditions": "both player legs sub-on-play-on",
+      "status": "lost",
+      "return": 0.0,
+      "slip_confirmed": true,
+      "notes": "Cross-dimension legs doubled the price vs same-direction stack (2.00 -> 4.20). The ~67% anchor leg failed — variance."
+    },
+    {
+      "id": 9,
+      "era": 1,
+      "date": "2026-08-22",
+      "type": "acca",
+      "structure": "treble",
+      "legs": [
+        {
+          "fixture": "Leverkusen (home)",
+          "market": "Match Result (90 mins)",
+          "selection": "Leverkusen",
+          "odds": 1.11,
+          "result": null
+        },
+        {
+          "fixture": "Luton",
+          "market": "Match Result",
+          "selection": "Luton",
+          "odds": 1.6,
+          "result": null
+        },
+        {
+          "fixture": "Leicester",
+          "market": "Match Result",
+          "selection": "Leicester",
+          "odds": 1.53,
+          "result": null
+        }
+      ],
+      "planned": true,
+      "stake": 10.0,
+      "odds": 2.72,
+      "boost": "+5% acca boost",
+      "conditions": null,
+      "status": "lost",
+      "return": 0.0,
+      "slip_confirmed": true,
+      "notes": "Rebuilt after two phantom legs found in verification (Frankfurt, Celtic fixtures didn't exist that day). Stake drift £10 vs £7.50 planned — second occurrence."
+    },
+    {
+      "id": 10,
+      "era": 1,
+      "date": "2026-08-22",
+      "type": "acca",
+      "structure": "handicap treble (longshot)",
+      "legs": [
+        {
+          "fixture": "Real Madrid",
+          "market": "Handicap Result -1",
+          "selection": "Real Madrid -1",
+          "odds": 2.2,
+          "result": null
+        },
+        {
+          "fixture": "Athletic Club",
+          "market": "Match Result",
+          "selection": "Athletic",
+          "odds": 1.72,
+          "result": null
+        },
+        {
+          "fixture": "West Ham",
+          "market": "Handicap Result -1",
+          "selection": "West Ham -1",
+          "odds": 2.05,
+          "result": null
+        }
+      ],
+      "planned": true,
+      "stake": 3.75,
+      "odds": 7.79,
+      "boost": null,
+      "conditions": null,
+      "status": "lost",
+      "return": 0.0,
+      "slip_confirmed": true,
+      "notes": "Expand odds-per-leg not leg-count (rule 15 origin). Stake drift £3.75 vs £2.50 — third occurrence."
+    },
+    {
+      "id": 11,
+      "era": 1,
+      "date": "2026-08-22",
+      "type": "builder",
+      "structure": "promo builder",
+      "fixture": "Brentford v Spurs",
+      "legs": [
+        {
+          "fixture": "Brentford v Spurs",
+          "market": "BTTS",
+          "selection": "Yes",
+          "odds": null,
+          "result": null
+        },
+        {
+          "fixture": "Brentford v Spurs",
+          "market": "Over 1.5 Goals",
+          "selection": "Over",
+          "odds": null,
+          "result": null
+        }
+      ],
+      "planned": true,
+      "stake": 10.0,
+      "odds": 2.6,
+      "boost": "Bet & Get £5 free bets (win-or-lose)",
+      "conditions": "only if offer showed after opt-in",
+      "status": "lost",
+      "return": 0.0,
+      "slip_confirmed": true,
+      "notes": "Winner-agnostic promo build; documented cap exception. £5 free bets due within 72h."
+    },
+    {
+      "id": 12,
+      "era": 1,
+      "date": "2026-08-22",
+      "type": "builder",
+      "structure": "builder",
+      "fixture": "Brentford v Spurs",
+      "legs": [],
+      "planned": false,
+      "stake": 10.0,
+      "odds": null,
+      "boost": null,
+      "conditions": null,
+      "status": "cashed_out",
+      "return": 10.0,
+      "slip_confirmed": true,
+      "notes": "UNPLANNED second builder on same game (rule 12 violation). Cashed out at stake."
+    },
+    {
+      "id": 13,
+      "era": 1,
+      "date": "2026-08-22",
+      "type": "single",
+      "structure": "single (Super Boost)",
+      "legs": [
+        {
+          "fixture": "Man Utd",
+          "market": "Super Boost",
+          "selection": "Man Utd",
+          "odds": 2.0,
+          "result": "lost"
+        }
+      ],
+      "planned": false,
+      "stake": 10.0,
+      "odds": 2.0,
+      "boost": "Super Boost",
+      "conditions": null,
+      "status": "lost",
+      "return": 0.0,
+      "slip_confirmed": true,
+      "notes": "UNPLANNED — plan said boost OR Brentford promo, not both."
+    },
+    {
+      "id": 14,
+      "era": 1,
+      "date": "2026-08-22",
+      "type": "single",
+      "structure": "single (horse racing)",
+      "legs": [
+        {
+          "fixture": "horse racing",
+          "market": "Win",
+          "selection": "Geryon",
+          "odds": null,
+          "result": "lost"
+        }
+      ],
+      "planned": false,
+      "stake": 10.0,
+      "odds": null,
+      "boost": null,
+      "conditions": null,
+      "status": "lost",
+      "return": 0.0,
+      "slip_confirmed": true,
+      "notes": "UNPLANNED — outside the system entirely, no research."
+    },
+    {
+      "id": 15,
+      "era": 2,
+      "date": "2026-08-27",
+      "type": "acca",
+      "structure": "treble",
+      "legs": [
+        {
+          "fixture": "Chelsea v Luton (Carabao Cup R2)",
+          "kickoff": "2026-08-27T19:30 UK",
+          "market": "Match Result (90 mins)",
+          "selection": "Chelsea",
+          "odds": 1.25,
+          "result": "pending"
+        },
+        {
+          "fixture": "Fulham v AFC Wimbledon (Carabao Cup R2)",
+          "kickoff": "2026-08-27T20:00 UK",
+          "market": "Match Result (90 mins)",
+          "selection": "Fulham",
+          "odds": 1.25,
+          "result": "pending"
+        },
+        {
+          "fixture": "AGF Aarhus v Benfica (UEL playoff leg 2)",
+          "kickoff": "2026-08-27T19:00 UK approx",
+          "market": "Match Result (90 mins)",
+          "selection": "Benfica",
+          "odds": 1.47,
+          "result": "pending"
+        }
+      ],
+      "planned": true,
+      "stake": 0.0,
+      "odds": 2.35,
+      "boost": "check acca boost before placing",
+      "conditions": "PAPER PICK — card was finalized after kickoff on the system's build day; £0 staked. Settle for calibration only. Odds are research estimates until slip-confirmed. Place before ~19:00 UK.",
+      "status": "recommended",
+      "return": null,
+      "slip_confirmed": false,
+      "notes": "PAPER (not placeable — produced ~21:00 UK, games underway). Class-gap treble, all 90-min markets. Benfica leg carries game-state risk (draw also qualifies them). Full reasoning: picks/2026-08-27.md"
+    },
+    {
+      "id": 16,
+      "era": 2,
+      "date": "2026-08-27",
+      "type": "builder",
+      "structure": "3-leg builder",
+      "fixture": "Chelsea v Luton (Carabao Cup R2)",
+      "legs": [
+        {
+          "fixture": "Chelsea v Luton",
+          "kickoff": "2026-08-27T19:30 UK",
+          "market": "Match Result (90 mins)",
+          "selection": "Chelsea",
+          "odds": 1.25,
+          "result": "pending"
+        },
+        {
+          "fixture": "Chelsea v Luton",
+          "market": "Score or Assist",
+          "selection": "Cole Palmer",
+          "odds": 1.75,
+          "result": "pending"
+        },
+        {
+          "fixture": "Chelsea v Luton",
+          "market": "Chelsea Over 2.5 Goals",
+          "selection": "Over",
+          "odds": 1.85,
+          "result": "pending"
+        }
+      ],
+      "planned": true,
+      "stake": 0.0,
+      "odds": 3.8,
+      "boost": null,
+      "conditions": "PAPER PICK — card was finalized after kickoff on the system's build day; £0 staked. Settle for calibration only. PALMER MUST START (team sheets ~18:30) — not starting means bet off, no substitute pick. One bet on this game, no in-play additions.",
+      "status": "recommended",
+      "return": null,
+      "slip_confirmed": false,
+      "notes": "PAPER (not placeable — produced ~21:00 UK, games underway). Result + player + team-goals dimensions, one story, no contradicting leg. Full reasoning: picks/2026-08-27.md"
+    }
+  ]
+}

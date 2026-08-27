@@ -2,13 +2,14 @@
 
 Living document — update after each settled bet with what worked, what didn't, and why. The goal is to make decisions by written rules, not by feel, and to evolve the rules deliberately.
 
-## Bankroll & staking
+## Bankroll & staking (v3 — daily-stake era, from 27 Aug 2026)
 
-- **Bankroll:** ring-fenced pot seeded by the opening weekend (+£87 profit as of 16 Aug 2026). Betting money is entertainment budget — never top up from elsewhere to chase a loss.
-- **Unit = £5.** Standard bet = 1 unit. High-conviction, well-researched bet on a strong card = 2 units max. Thin cards, speculative builders, experimental angles = 1 unit or no bet.
-- **Never increase stakes because of a winning streak.** Wins don't change the next bet's probability. Equally, never chase after a losing day.
-- **Cap (v2, agreed 22 Aug): £40 per week, hard, allocated freely across the days.** A stacked Saturday can take most of it; dead days bank theirs. The ceiling itself never flexes mid-week — no "one more because there are lots of fixtures". Rationale from the log: both full-card sweeps ran out of edge before running out of budget; the cap has only ever squeezed excluded-pile bets (£0 returned from £20 lifetime).
-- **Weekly reset each Monday: cap = min(£40, 25% of bankroll).** Stakes scale with proven results in both directions — the only honest way stakes ever grow. Fixture density is never a reason; profit is.
+- **Staking plan (user decision, 27 Aug 2026): up to £10 on the day's recommended accumulator and up to £10 on the day's recommended bet builder.** These are **ceilings, not quotas** — a NO BET day stakes £0, and a day with edge in only one structure stakes only that one. Maximum possible exposure is £20/day; the honest expectation is that most weekdays are thin cards and stake far less.
+- **This is a written restart, not an erased record.** Era 1 (15–24 Aug) closed at net −£6.60 across £130.55 staked, with the pot wiped to ~£10 mainly by unplanned side bets. That record stays permanent in `data/` and `logs/`. The new era's P/L starts from £0 and is measured on its own.
+- **The two £10s are the entire day's budget.** No side bets, no second builders, no in-play additions, no horse racing. Era 1's data is unambiguous: planned bets +£33.40, unplanned bets −£40.00. Any bet outside the day's written card is a rule break regardless of result.
+- **Never increase stakes because of a winning streak.** Wins don't change the next bet's probability. Equally, never chase after a losing day — the next day's card is the same two ceilings whatever yesterday did.
+- **Circuit breaker: if the new era's running P/L reaches −£100, betting pauses for a written review week** (paper picks continue so the sample keeps building). Resumption and any staking change happen in writing here, between betting days, never mid-day.
+- **Stake changes only by written amendment to this section**, dated, with the reason — the audit-trail practice from era 1 continues. In-the-moment requests to raise a stake get logged and declined by default (see audit trail below).
 
 ## Bet selection rules
 
@@ -55,4 +56,5 @@ Update this table as the sample grows. Nothing above is proven at n=3 — treat 
 
 ## Cap-change requests (audit trail)
 
+- **27 Aug 2026:** project relaunched as a daily research system (see PLAN.md). User set the staking plan: £10/day acca + £10/day builder, replacing the v2 weekly-cap formula (which, applied to the wiped ~£10 pot, allowed ~£2.50/week). Recorded honestly: this is a stake *increase* directly after the pot was wiped, which the v2 formula existed to prevent. Accepted as the owner's deliberate, written restart of a new era — not an in-the-moment escalation — with these safeguards encoded: ceilings-not-quotas, NO BET days stake £0, no bets outside the daily card, and a −£100 circuit breaker that pauses betting for a review week. Era 1's −£6.60 net stays on the permanent record.
 - **22 Aug 2026, morning:** request to raise the weekly cap to £100 — declined. Context: fifth escalation inside one hour (stake mis-keys, extra-longshot request, uncap request), mid-winning-streak, no new information. £100 ≈ 140% of the then-current ~£72 bankroll; the agreed formula would set the next reset near £18. Standing answer: the cap rises only via the Monday formula — min(£40, 25% of bankroll) — i.e. a £100 week is reached by growing the bankroll to £400, never by declaration. Any future request to raise the cap outside the formula gets this same entry appended.

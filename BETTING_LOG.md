@@ -8,12 +8,27 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 
 **Staking:** Ceilings, not quotas: up to £10/day on the recommended acca + up to £10/day on the recommended builder. NO BET days stake £0. No bets outside the daily card. Circuit breaker: pause + written review at era P/L of -£100.
 
-### Open / pending
+### Settled
 
-| # | Date | Bet | Type | Stake | Odds | Status | Conditions |
-|---|------|-----|------|-------|------|--------|------------|
-| 15 | 2026-08-27 | Chelsea (Match Result (90 mins)) + Fulham (Match Result (90 mins)) + Benfica (Match Result (90 mins)) | acca | £0.00 | 2.35 | 📝 RECOMMENDED | PAPER PICK — card was finalized after kickoff on the system's build day; £0 staked. Settle for calibration only. Odds are research estimates until slip-confirmed. Place before ~19:00 UK. |
-| 16 | 2026-08-27 | Chelsea (Match Result (90 mins)) + Cole Palmer (Score or Assist) + Over (Chelsea Over 2.5 Goals) | builder | £0.00 | 3.8 | 📝 RECOMMENDED | PAPER PICK — card was finalized after kickoff on the system's build day; £0 staked. Settle for calibration only. PALMER MUST START (team sheets ~18:30) — not starting means bet off, no substitute pick. One bet on this game, no in-play additions. |
+| # | Date | Bet | Type | Stake | Odds | Result | Return | P/L | Running |
+|---|------|-----|------|-------|------|--------|--------|-----|---------|
+| 15 | 2026-08-27 | Chelsea (Match Result (90 mins)) ✓ + Fulham (Match Result (90 mins)) ✓ + Benfica (Match Result (90 mins)) ✓ | acca | £0.00 | 2.35 | ✅ WON | £0.00 | £0.00 | £0.00 |
+| 16 | 2026-08-27 | Chelsea (Match Result (90 mins)) ✓ + Cole Palmer (Score or Assist) ✗ + Over (Chelsea Over 2.5 Goals) ✗ | builder | £0.00 | 3.8 | ❌ LOST | £0.00 | £0.00 | £0.00 |
+
+**Era 2 settled totals: staked £0.00 · returned £0.00 · net £0.00**
+
+| Category | Bets | Staked | Returned | Net |
+|----------|------|--------|----------|-----|
+| Planned, researched | 2 | £0.00 | £0.00 | **£0.00** |
+
+| Structure | Bets | Net |
+|-----------|------|-----|
+| acca | 1 | £0.00 |
+| builder | 1 | £0.00 |
+
+### No-bet days (discipline log)
+
+- **2026-08-28** — NO BET both slots — thin Friday card (Palace v City only PL game; reputation-priced favourite with no est-prob edge; no third researchable leg). Full reasoning: picks/2026-08-28.md. Saturday is the first full live card.
 
 ## Era 1: Weekly-cap era (2026-08-15 → 2026-08-24)
 

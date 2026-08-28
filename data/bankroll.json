@@ -19,9 +19,9 @@
       "start": "2026-08-27",
       "end": null,
       "staking": "Ceilings, not quotas: up to \u00a310/day on the recommended acca + up to \u00a310/day on the recommended builder. NO BET days stake \u00a30. No bets outside the daily card. Circuit breaker: pause + written review at era P/L of -\u00a3100.",
-      "staked": 0,
+      "staked": 0.0,
       "returned": 0,
-      "net": 0,
+      "net": 0.0,
       "status": "open",
       "note": "User-directed written restart, 27 Aug 2026 (see STRATEGY.md audit trail). Era P/L measured from \u00a30."
     }

@@ -8,31 +8,27 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 
 **Staking:** Ceilings, not quotas: up to £10/day on the recommended acca + up to £10/day on the recommended builder. NO BET days stake £0. No bets outside the daily card. Circuit breaker: pause + written review at era P/L of -£100.
 
-### Open / pending
-
-| # | Date | Bet | Type | Stake | Odds | Status | Conditions |
-|---|------|-----|------|-------|------|--------|------------|
-| 18 | 2026-08-29 | Leverkusen (Match Result (Early Payout)) + Dortmund (Match Result (Early Payout)) | acca | £10.00 | 1.8 | 📝 RECOMMENDED | Odds are research estimates until slip-confirmed. Use Early Payout markets at equal price. Place before 14:30 UK (with the builder, before 12:30). Two legs deliberate — no third leg passed the value test. |
-| 20 | 2026-08-29 | Dominik Szoboszlai (Player Shots on Target Over 0.5 (Super Boost 1.57 -> 2.00)) | single | £10.00 | 2.0 | 📝 RECOMMENDED | Promo exception per rule 14, written before placing: boosted price (2.00) exceeds our fair price (~1.54), not merely the margin price. Szoboszlai nailed starter + penalty duty; bet365 voids if he takes no part. Place before 12:30. |
-| 21 | 2026-08-29 | Leverkusen (Match Result) + Dortmund (Match Result) + Wolves (Match Result) + Liverpool (Match Result) | acca | £0.00 | 4.03 | 📝 RECOMMENDED | PAPER ONLY — user-proposed leg-count experiment (29 Aug). Tracked daily; goes live only via a written rule change if weeks of evidence support it. |
-
 ### Settled
 
 | # | Date | Bet | Type | Stake | Odds | Result | Return | P/L | Running |
 |---|------|-----|------|-------|------|--------|--------|-----|---------|
 | 15 | 2026-08-27 | Chelsea (Match Result (90 mins)) ✓ + Fulham (Match Result (90 mins)) ✓ + Benfica (Match Result (90 mins)) ✓ | acca | £0.00 | 2.35 | ✅ WON | £0.00 | £0.00 | £0.00 |
 | 16 | 2026-08-27 | Chelsea (Match Result (90 mins)) ✓ + Cole Palmer (Score or Assist) ✗ + Over (Chelsea Over 2.5 Goals) ✗ | builder | £0.00 | 3.8 | ❌ LOST | £0.00 | £0.00 | £0.00 |
+| 18 | 2026-08-29 | Leverkusen (Match Result (Early Payout)) ✗ + Dortmund (Match Result (Early Payout)) ✓ | acca | £0.00 | 1.8 | ❌ LOST | £0.00 | £0.00 | £0.00 |
+| 20 | 2026-08-29 | Dominik Szoboszlai (Player Shots on Target Over 0.5 (Super Boost 1.57 -> 2.00)) ✗ | single | £0.00 | 2.0 | ❌ LOST | £0.00 | £0.00 | £0.00 |
+| 21 | 2026-08-29 | Leverkusen (Match Result) ✗ + Dortmund (Match Result) ✓ + Wolves (Match Result) ✓ + Liverpool (Match Result) ✗ | acca | £0.00 | 4.03 | ❌ LOST | £0.00 | £0.00 | £0.00 |
 
 **Era 2 settled totals: staked £0.00 · returned £0.00 · net £0.00**
 
 | Category | Bets | Staked | Returned | Net |
 |----------|------|--------|----------|-----|
-| Planned, researched | 2 | £0.00 | £0.00 | **£0.00** |
+| Planned, researched | 5 | £0.00 | £0.00 | **£0.00** |
 
 | Structure | Bets | Net |
 |-----------|------|-----|
-| acca | 1 | £0.00 |
+| acca | 3 | £0.00 |
 | builder | 1 | £0.00 |
+| single | 1 | £0.00 |
 
 ### No-bet days (discipline log)
 

@@ -650,7 +650,8 @@
           "odds": 1.35,
           "est_prob": 0.76,
           "thesis": "class_gap",
-          "result": "pending"
+          "result": "lost",
+          "how_settled": "Elversberg 3-2 Leverkusen — 2-0 down inside 10 min (Petkov, Campbell), Mokwa 3rd; late Schick/Kofane not enough. Never 2 up, EP irrelevant."
         },
         {
           "fixture": "Dortmund v Hamburg (Bundesliga)",
@@ -660,18 +661,19 @@
           "odds": 1.33,
           "est_prob": 0.77,
           "thesis": "class_gap",
-          "result": "pending"
+          "result": "won",
+          "how_settled": "Dortmund 2-0 Hamburg"
         }
       ],
       "planned": true,
-      "stake": 10.0,
+      "stake": 0.0,
       "odds": 1.8,
       "boost": "check acca boost / Bet Boosts",
       "conditions": "Odds are research estimates until slip-confirmed. Use Early Payout markets at equal price. Place before 14:30 UK (with the builder, before 12:30). Two legs deliberate — no third leg passed the value test.",
-      "status": "recommended",
-      "return": null,
+      "status": "lost",
+      "return": 0.0,
       "slip_confirmed": false,
-      "notes": "First live acca of era 2. Combined est 0.585 vs implied 0.556. Full reasoning: picks/2026-08-29.md"
+      "notes": "PAPER (placement never confirmed) — LOST. The flagged risk (promoted side's first top-flight home game) was the exact failure mode. First live acca of era 2. Combined est 0.585 vs implied 0.556. Full reasoning: picks/2026-08-29.md"
     },
     {
       "id": 19,
@@ -729,18 +731,19 @@
           "odds": 2.0,
           "est_prob": 0.65,
           "thesis": "promo",
-          "result": "pending"
+          "result": "lost",
+          "how_settled": "Played well in 2-2 draw but 0 shots on target — Liverpool's 5 SOT: Van Dijk, Wirtz, Isak, Tsimikas, Munoz"
         }
       ],
       "planned": true,
-      "stake": 10.0,
+      "stake": 0.0,
       "odds": 2.0,
       "boost": "Super Boost 1.57 -> 2.00",
       "conditions": "Promo exception per rule 14, written before placing: boosted price (2.00) exceeds our fair price (~1.54), not merely the margin price. Szoboszlai nailed starter + penalty duty; bet365 voids if he takes no part. Place before 12:30.",
-      "status": "recommended",
-      "return": null,
+      "status": "lost",
+      "return": 0.0,
       "slip_confirmed": false,
-      "notes": "bet365's own 1.57 implies ~64% incl. margin; 2.00 pays 50% on a ~65% event — ~+30% EV, the only reliably +EV product on the book. Fills the builder slot vacated by the skipped Wolves builder; day exposure stays £10+£10."
+      "notes": "PAPER (placement never confirmed) — LOST. Value process was right (+EV at 2.00); 65% events lose 35% of the time. bet365's own 1.57 implies ~64% incl. margin; 2.00 pays 50% on a ~65% event — ~+30% EV, the only reliably +EV product on the book. Fills the builder slot vacated by the skipped Wolves builder; day exposure stays £10+£10."
     },
     {
       "id": 21,
@@ -757,7 +760,8 @@
           "odds": 1.35,
           "est_prob": 0.76,
           "thesis": "class_gap",
-          "result": "pending"
+          "result": "lost",
+          "how_settled": "Elversberg 3-2 Leverkusen"
         },
         {
           "fixture": "Dortmund v Hamburg",
@@ -767,7 +771,8 @@
           "odds": 1.33,
           "est_prob": 0.77,
           "thesis": "class_gap",
-          "result": "pending"
+          "result": "won",
+          "how_settled": "Dortmund 2-0 Hamburg"
         },
         {
           "fixture": "Wolves v Stoke",
@@ -777,7 +782,8 @@
           "odds": 1.55,
           "est_prob": 0.65,
           "thesis": "form",
-          "result": "pending"
+          "result": "won",
+          "how_settled": "Wolves 4-1 Stoke"
         },
         {
           "fixture": "Liverpool v Nottingham Forest",
@@ -787,7 +793,8 @@
           "odds": 1.45,
           "est_prob": 0.65,
           "thesis": "form",
-          "result": "pending"
+          "result": "lost",
+          "how_settled": "Liverpool 2-2 Forest"
         }
       ],
       "planned": true,
@@ -795,10 +802,10 @@
       "odds": 4.03,
       "boost": null,
       "conditions": "PAPER ONLY — user-proposed leg-count experiment (29 Aug). Tracked daily; goes live only via a written rule change if weeks of evidence support it.",
-      "status": "recommended",
-      "return": null,
+      "status": "lost",
+      "return": 0.0,
       "slip_confirmed": true,
-      "notes": "PAPER stretch line: the 4 best legs on the board including two that FAILED the value test (Liverpool, and Wolves at current price) — which is the point of the experiment. Would return ~£40.30 on £10."
+      "notes": "Experiment day 1: LOST (2 of 4 legs). PAPER stretch line: the 4 best legs on the board including two that FAILED the value test (Liverpool, and Wolves at current price) — which is the point of the experiment. Would return ~£40.30 on £10."
     }
   ]
 }

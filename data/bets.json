@@ -689,7 +689,8 @@
           "odds": 1.55,
           "est_prob": 0.65,
           "thesis": "form",
-          "result": "pending"
+          "result": "void",
+          "how_settled": "not placed — price condition failed"
         },
         {
           "fixture": "Wolves v Stoke",
@@ -698,18 +699,19 @@
           "odds": 1.62,
           "est_prob": 0.64,
           "thesis": "texture",
-          "result": "pending"
+          "result": "void",
+          "how_settled": "not placed — price condition failed"
         }
       ],
       "planned": true,
-      "stake": 10.0,
-      "odds": 2.2,
+      "stake": 0.0,
+      "odds": 1.8,
       "boost": null,
       "conditions": "Place before 12:30 UK. If the builder prices below ~2.0, skip — the value is gone. Team-level legs only (no verified scorer depth on Peixoto's Wolves). One bet on this game.",
-      "status": "recommended",
+      "status": "no_bet",
       "return": null,
       "slip_confirmed": false,
-      "notes": "Value spot: bet365 1.55 on Wolves vs ~1.42 consensus (top of market = positive expected CLV); Stoke conceded 5 in two straight defeats. Full reasoning: picks/2026-08-29.md"
+      "notes": "SKIPPED AT THE TILL per pre-written condition: bet365 priced the builder 1.80 (slip screenshot, 08:30) vs our 2.0 minimum — the engine crushed the win/goals correlation (1.55 x 1.62 = 2.51 raw -> 1.80 offered). Rule fired exactly as designed. Pricing lesson: assume a harsher correlation crush on same-team result+goals pairs; our ~2.2 builder estimate was optimistic. Value spot: bet365 1.55 on Wolves vs ~1.42 consensus (top of market = positive expected CLV); Stoke conceded 5 in two straight defeats. Full reasoning: picks/2026-08-29.md"
     }
   ]
 }

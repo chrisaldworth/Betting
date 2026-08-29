@@ -13,7 +13,6 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 | # | Date | Bet | Type | Stake | Odds | Status | Conditions |
 |---|------|-----|------|-------|------|--------|------------|
 | 18 | 2026-08-29 | Leverkusen (Match Result (Early Payout)) + Dortmund (Match Result (Early Payout)) | acca | £10.00 | 1.8 | 📝 RECOMMENDED | Odds are research estimates until slip-confirmed. Use Early Payout markets at equal price. Place before 14:30 UK (with the builder, before 12:30). Two legs deliberate — no third leg passed the value test. |
-| 19 | 2026-08-29 | Wolves (Match Result) + Over (Wolves Over 1.5 Goals) | builder | £10.00 | 2.2 | 📝 RECOMMENDED | Place before 12:30 UK. If the builder prices below ~2.0, skip — the value is gone. Team-level legs only (no verified scorer depth on Peixoto's Wolves). One bet on this game. |
 
 ### Settled
 
@@ -36,6 +35,7 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 ### No-bet days (discipline log)
 
 - **2026-08-28** — NO BET both slots — thin Friday card (Palace v City only PL game; reputation-priced favourite with no est-prob edge; no third researchable leg). Full reasoning: picks/2026-08-28.md. Saturday is the first full live card.
+- **2026-08-29** — SKIPPED AT THE TILL per pre-written condition: bet365 priced the builder 1.80 (slip screenshot, 08:30) vs our 2.0 minimum — the engine crushed the win/goals correlation (1.55 x 1.62 = 2.51 raw -> 1.80 offered). Rule fired exactly as designed. Pricing lesson: assume a harsher correlation crush on same-team result+goals pairs; our ~2.2 builder estimate was optimistic. Value spot: bet365 1.55 on Wolves vs ~1.42 consensus (top of market = positive expected CLV); Stoke conceded 5 in two straight defeats. Full reasoning: picks/2026-08-29.md
 
 ## Era 1: Weekly-cap era (2026-08-15 → 2026-08-24)
 

@@ -8,6 +8,13 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 
 **Staking:** Ceilings, not quotas: up to £10/day on the recommended acca + up to £10/day on the recommended builder. NO BET days stake £0. No bets outside the daily card. Circuit breaker: pause + written review at era P/L of -£100.
 
+### Open / pending
+
+| # | Date | Bet | Type | Stake | Odds | Status | Conditions |
+|---|------|-----|------|-------|------|--------|------------|
+| 18 | 2026-08-29 | Leverkusen (Match Result (Early Payout)) + Dortmund (Match Result (Early Payout)) | acca | £10.00 | 1.8 | 📝 RECOMMENDED | Odds are research estimates until slip-confirmed. Use Early Payout markets at equal price. Place before 14:30 UK (with the builder, before 12:30). Two legs deliberate — no third leg passed the value test. |
+| 19 | 2026-08-29 | Wolves (Match Result) + Over (Wolves Over 1.5 Goals) | builder | £10.00 | 2.2 | 📝 RECOMMENDED | Place before 12:30 UK. If the builder prices below ~2.0, skip — the value is gone. Team-level legs only (no verified scorer depth on Peixoto's Wolves). One bet on this game. |
+
 ### Settled
 
 | # | Date | Bet | Type | Stake | Odds | Result | Return | P/L | Running |

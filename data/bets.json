@@ -712,6 +712,35 @@
       "return": null,
       "slip_confirmed": false,
       "notes": "SKIPPED AT THE TILL per pre-written condition: bet365 priced the builder 1.80 (slip screenshot, 08:30) vs our 2.0 minimum — the engine crushed the win/goals correlation (1.55 x 1.62 = 2.51 raw -> 1.80 offered). Rule fired exactly as designed. Pricing lesson: assume a harsher correlation crush on same-team result+goals pairs; our ~2.2 builder estimate was optimistic. Value spot: bet365 1.55 on Wolves vs ~1.42 consensus (top of market = positive expected CLV); Stoke conceded 5 in two straight defeats. Full reasoning: picks/2026-08-29.md"
+    },
+    {
+      "id": 20,
+      "era": 2,
+      "date": "2026-08-29",
+      "type": "single",
+      "structure": "Super Boost single (promo exception, fills the closed builder slot)",
+      "fixture": "Liverpool v Nottingham Forest (12:30)",
+      "legs": [
+        {
+          "fixture": "Liverpool v Nottingham Forest",
+          "kickoff": "2026-08-29T12:30 UK",
+          "market": "Player Shots on Target Over 0.5 (Super Boost 1.57 -> 2.00)",
+          "selection": "Dominik Szoboszlai",
+          "odds": 2.0,
+          "est_prob": 0.65,
+          "thesis": "promo",
+          "result": "pending"
+        }
+      ],
+      "planned": true,
+      "stake": 10.0,
+      "odds": 2.0,
+      "boost": "Super Boost 1.57 -> 2.00",
+      "conditions": "Promo exception per rule 14, written before placing: boosted price (2.00) exceeds our fair price (~1.54), not merely the margin price. Szoboszlai nailed starter + penalty duty; bet365 voids if he takes no part. Place before 12:30.",
+      "status": "recommended",
+      "return": null,
+      "slip_confirmed": false,
+      "notes": "bet365's own 1.57 implies ~64% incl. margin; 2.00 pays 50% on a ~65% event — ~+30% EV, the only reliably +EV product on the book. Fills the builder slot vacated by the skipped Wolves builder; day exposure stays £10+£10."
     }
   ]
 }

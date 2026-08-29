@@ -14,6 +14,7 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 |---|------|-----|------|-------|------|--------|------------|
 | 18 | 2026-08-29 | Leverkusen (Match Result (Early Payout)) + Dortmund (Match Result (Early Payout)) | acca | £10.00 | 1.8 | 📝 RECOMMENDED | Odds are research estimates until slip-confirmed. Use Early Payout markets at equal price. Place before 14:30 UK (with the builder, before 12:30). Two legs deliberate — no third leg passed the value test. |
 | 20 | 2026-08-29 | Dominik Szoboszlai (Player Shots on Target Over 0.5 (Super Boost 1.57 -> 2.00)) | single | £10.00 | 2.0 | 📝 RECOMMENDED | Promo exception per rule 14, written before placing: boosted price (2.00) exceeds our fair price (~1.54), not merely the margin price. Szoboszlai nailed starter + penalty duty; bet365 voids if he takes no part. Place before 12:30. |
+| 21 | 2026-08-29 | Leverkusen (Match Result) + Dortmund (Match Result) + Wolves (Match Result) + Liverpool (Match Result) | acca | £0.00 | 4.03 | 📝 RECOMMENDED | PAPER ONLY — user-proposed leg-count experiment (29 Aug). Tracked daily; goes live only via a written rule change if weeks of evidence support it. |
 
 ### Settled
 

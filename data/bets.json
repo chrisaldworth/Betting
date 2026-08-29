@@ -741,6 +741,64 @@
       "return": null,
       "slip_confirmed": false,
       "notes": "bet365's own 1.57 implies ~64% incl. margin; 2.00 pays 50% on a ~65% event — ~+30% EV, the only reliably +EV product on the book. Fills the builder slot vacated by the skipped Wolves builder; day exposure stays £10+£10."
+    },
+    {
+      "id": 21,
+      "era": 2,
+      "date": "2026-08-29",
+      "type": "acca",
+      "structure": "PAPER 4-fold stretch line (leg-count experiment, never live money)",
+      "legs": [
+        {
+          "fixture": "Elversberg v Leverkusen",
+          "kickoff": "2026-08-29T14:30 UK",
+          "market": "Match Result",
+          "selection": "Leverkusen",
+          "odds": 1.35,
+          "est_prob": 0.76,
+          "thesis": "class_gap",
+          "result": "pending"
+        },
+        {
+          "fixture": "Dortmund v Hamburg",
+          "kickoff": "2026-08-29T17:30 UK",
+          "market": "Match Result",
+          "selection": "Dortmund",
+          "odds": 1.33,
+          "est_prob": 0.77,
+          "thesis": "class_gap",
+          "result": "pending"
+        },
+        {
+          "fixture": "Wolves v Stoke",
+          "kickoff": "2026-08-29T12:30 UK",
+          "market": "Match Result",
+          "selection": "Wolves",
+          "odds": 1.55,
+          "est_prob": 0.65,
+          "thesis": "form",
+          "result": "pending"
+        },
+        {
+          "fixture": "Liverpool v Nottingham Forest",
+          "kickoff": "2026-08-29T12:30 UK",
+          "market": "Match Result",
+          "selection": "Liverpool",
+          "odds": 1.45,
+          "est_prob": 0.65,
+          "thesis": "form",
+          "result": "pending"
+        }
+      ],
+      "planned": true,
+      "stake": 0.0,
+      "odds": 4.03,
+      "boost": null,
+      "conditions": "PAPER ONLY — user-proposed leg-count experiment (29 Aug). Tracked daily; goes live only via a written rule change if weeks of evidence support it.",
+      "status": "recommended",
+      "return": null,
+      "slip_confirmed": true,
+      "notes": "PAPER stretch line: the 4 best legs on the board including two that FAILED the value test (Liverpool, and Wolves at current price) — which is the point of the experiment. Would return ~£40.30 on £10."
     }
   ]
 }

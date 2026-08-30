@@ -8,6 +8,13 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 
 **Staking:** Ceilings, not quotas: up to £10/day on the recommended acca + up to £10/day on the recommended builder. NO BET days stake £0. No bets outside the daily card. Circuit breaker: pause + written review at era P/L of -£100.
 
+### Open / pending
+
+| # | Date | Bet | Type | Stake | Odds | Status | Conditions |
+|---|------|-----|------|-------|------|--------|------------|
+| 23 | 2026-08-30 | Brighton or Draw (Double Chance) + Yes (Both Teams To Score) | builder | £10.00 | 2.9 | 📝 RECOMMENDED | BINDING: (1) builder must price >= 2.80 at the till, else skip; (2) if Palmer is in Chelsea's starting XI (~13:00 team news), bet OFF; (3) one bet on this game. Place before 14:00. |
+| 24 | 2026-08-30 | Man Utd (Match Result) + Chelsea (Match Result) + Freiburg (Match Result) + Augsburg (Match Result) | acca | £0.00 | 11.0 | 📝 RECOMMENDED | PAPER ONLY — leg-count experiment. Never live money. |
+
 ### Settled
 
 | # | Date | Bet | Type | Stake | Odds | Result | Return | P/L | Running |
@@ -34,6 +41,7 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 
 - **2026-08-28** — NO BET both slots — thin Friday card (Palace v City only PL game; reputation-priced favourite with no est-prob edge; no third researchable leg). Full reasoning: picks/2026-08-28.md. Saturday is the first full live card.
 - **2026-08-29** — SKIPPED AT THE TILL per pre-written condition: bet365 priced the builder 1.80 (slip screenshot, 08:30) vs our 2.0 minimum — the engine crushed the win/goals correlation (1.55 x 1.62 = 2.51 raw -> 1.80 offered). Rule fired exactly as designed. Pricing lesson: assume a harsher correlation crush on same-team result+goals pairs; our ~2.2 builder estimate was optimistic. Value spot: bet365 1.55 on Wolves vs ~1.42 consensus (top of market = positive expected CLV); Stoke conceded 5 in two straight defeats. Full reasoning: picks/2026-08-29.md
+- **2026-08-30** — NO BET acca: Man Utd 1.42 v Ipswich is the rule-6 reputation trap (lost to Hull; Ipswich in form); Chelsea 1.85 fails value with Palmer reportedly out vs in-form Brighton; no other researched legs. picks/2026-08-30.md
 
 ## Era 1: Weekly-cap era (2026-08-15 → 2026-08-24)
 

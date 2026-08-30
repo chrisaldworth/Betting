@@ -806,6 +806,117 @@
       "return": 0.0,
       "slip_confirmed": true,
       "notes": "Experiment day 1: LOST (2 of 4 legs). PAPER stretch line: the 4 best legs on the board including two that FAILED the value test (Liverpool, and Wolves at current price) — which is the point of the experiment. Would return ~£40.30 on £10."
+    },
+    {
+      "id": 22,
+      "era": 2,
+      "date": "2026-08-30",
+      "type": "acca",
+      "structure": "no-bet day (acca slot)",
+      "legs": [],
+      "planned": true,
+      "stake": 0.0,
+      "odds": null,
+      "boost": null,
+      "conditions": null,
+      "status": "no_bet",
+      "return": null,
+      "slip_confirmed": true,
+      "notes": "NO BET acca: Man Utd 1.42 v Ipswich is the rule-6 reputation trap (lost to Hull; Ipswich in form); Chelsea 1.85 fails value with Palmer reportedly out vs in-form Brighton; no other researched legs. picks/2026-08-30.md"
+    },
+    {
+      "id": 23,
+      "era": 2,
+      "date": "2026-08-30",
+      "type": "builder",
+      "structure": "2-leg builder (conditional)",
+      "fixture": "Chelsea v Brighton (14:00)",
+      "legs": [
+        {
+          "fixture": "Chelsea v Brighton",
+          "kickoff": "2026-08-30T14:00 UK",
+          "market": "Double Chance",
+          "selection": "Brighton or Draw",
+          "odds": 1.9,
+          "est_prob": 0.54,
+          "thesis": "form",
+          "result": "pending"
+        },
+        {
+          "fixture": "Chelsea v Brighton",
+          "market": "Both Teams To Score",
+          "selection": "Yes",
+          "odds": 1.65,
+          "est_prob": 0.62,
+          "thesis": "texture",
+          "result": "pending"
+        }
+      ],
+      "planned": true,
+      "stake": 10.0,
+      "odds": 2.9,
+      "boost": null,
+      "conditions": "BINDING: (1) builder must price >= 2.80 at the till, else skip; (2) if Palmer is in Chelsea's starting XI (~13:00 team news), bet OFF; (3) one bet on this game. Place before 14:00.",
+      "status": "recommended",
+      "return": null,
+      "slip_confirmed": false,
+      "notes": "Brighton lean: 5 wins in 6 (4-0 v Villa), won 4 of last 5 H2H; Chelsea reportedly without Palmer. Both sides scoring. picks/2026-08-30.md"
+    },
+    {
+      "id": 24,
+      "era": 2,
+      "date": "2026-08-30",
+      "type": "acca",
+      "structure": "PAPER 4-fold stretch line (experiment day 2)",
+      "legs": [
+        {
+          "fixture": "Man Utd v Ipswich",
+          "kickoff": "2026-08-30T16:30 UK",
+          "market": "Match Result",
+          "selection": "Man Utd",
+          "odds": 1.42,
+          "est_prob": 0.62,
+          "thesis": "class_gap",
+          "result": "pending"
+        },
+        {
+          "fixture": "Chelsea v Brighton",
+          "kickoff": "2026-08-30T14:00 UK",
+          "market": "Match Result",
+          "selection": "Chelsea",
+          "odds": 1.85,
+          "est_prob": 0.46,
+          "thesis": "form",
+          "result": "pending"
+        },
+        {
+          "fixture": "Freiburg v Werder Bremen",
+          "market": "Match Result",
+          "selection": "Freiburg",
+          "odds": 2.0,
+          "est_prob": 0.48,
+          "thesis": "form",
+          "result": "pending"
+        },
+        {
+          "fixture": "Augsburg v Schalke",
+          "market": "Match Result",
+          "selection": "Augsburg",
+          "odds": 2.1,
+          "est_prob": 0.45,
+          "thesis": "form",
+          "result": "pending"
+        }
+      ],
+      "planned": true,
+      "stake": 0.0,
+      "odds": 11.0,
+      "boost": null,
+      "conditions": "PAPER ONLY — leg-count experiment. Never live money.",
+      "status": "recommended",
+      "return": null,
+      "slip_confirmed": true,
+      "notes": "Two legs fail the value test, two unresearched (German odds are estimates) — by design. Experiment record entering today: 0-1."
     }
   ]
 }

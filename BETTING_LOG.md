@@ -8,14 +8,6 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 
 **Staking:** Ceilings, not quotas: up to £10/day on the recommended acca + up to £10/day on the recommended builder. NO BET days stake £0. No bets outside the daily card. Circuit breaker: pause + written review at era P/L of -£100.
 
-### Open / pending
-
-| # | Date | Bet | Type | Stake | Odds | Status | Conditions |
-|---|------|-----|------|-------|------|--------|------------|
-| 23 | 2026-08-30 | Brighton or Draw (Double Chance) + Yes (Both Teams To Score) | builder | £10.00 | 2.9 | 📝 RECOMMENDED | BINDING: (1) builder must price >= 2.80 at the till, else skip; (2) if Palmer is in Chelsea's starting XI (~13:00 team news), bet OFF; (3) one bet on this game. Place before 14:00. EITHER/OR with the Rogers Super Boost (rule 12, one bet per game): if these conditions fail, the Rogers boost @3.00 may take this slot as fallback (marginal value; Rogers must start). |
-| 24 | 2026-08-30 | Man Utd (Match Result) + Chelsea (Match Result) + Freiburg (Match Result) + Augsburg (Match Result) | acca | £0.00 | 11.0 | 📝 RECOMMENDED | PAPER ONLY — leg-count experiment. Never live money. |
-| 25 | 2026-08-30 | Over (Over 2.5 Goals) + Yes (Both Teams To Score) | builder | £10.00 | 2.9 | 📝 RECOMMENDED | BINDING: (1) the money-back offer must show for the account after opt-in — no offer, no bet (game stays ruled out on merit); (2) builder must price >= 2.20 and meet the promo's min-odds terms; (3) winner-agnostic legs only — we take no side in a game we called a trap; (4) fills the vacant acca slot's £10. Place before 16:30. |
-
 ### Settled
 
 | # | Date | Bet | Type | Stake | Odds | Result | Return | P/L | Running |
@@ -25,17 +17,19 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 | 18 | 2026-08-29 | Leverkusen (Match Result (Early Payout)) ✗ + Dortmund (Match Result (Early Payout)) ✓ | acca | £0.00 | 1.8 | ❌ LOST | £0.00 | £0.00 | £0.00 |
 | 20 | 2026-08-29 | Dominik Szoboszlai (Player Shots on Target Over 0.5 (Super Boost 1.57 -> 2.00)) ✗ | single | £0.00 | 2.0 | ❌ LOST | £0.00 | £0.00 | £0.00 |
 | 21 | 2026-08-29 | Leverkusen (Match Result) ✗ + Dortmund (Match Result) ✓ + Wolves (Match Result) ✓ + Liverpool (Match Result) ✗ | acca | £0.00 | 4.03 | ❌ LOST | £0.00 | £0.00 | £0.00 |
+| 24 | 2026-08-30 | Man Utd (Match Result) ✓ + Chelsea (Match Result) ✓ + Freiburg (Match Result) ✓ + Augsburg (Match Result) ✓ | acca | £0.00 | 11.0 | ✅ WON | £0.00 | £0.00 | £0.00 |
+| 25 | 2026-08-30 | Over (Over 2.5 Goals) ✓ + Yes (Both Teams To Score) ✓ | builder | £0.00 | 2.9 | ✅ WON | £0.00 | £0.00 | £0.00 |
 
 **Era 2 settled totals: staked £0.00 · returned £0.00 · net £0.00**
 
 | Category | Bets | Staked | Returned | Net |
 |----------|------|--------|----------|-----|
-| Planned, researched | 5 | £0.00 | £0.00 | **£0.00** |
+| Planned, researched | 7 | £0.00 | £0.00 | **£0.00** |
 
 | Structure | Bets | Net |
 |-----------|------|-----|
-| acca | 3 | £0.00 |
-| builder | 1 | £0.00 |
+| acca | 4 | £0.00 |
+| builder | 2 | £0.00 |
 | single | 1 | £0.00 |
 
 ### No-bet days (discipline log)
@@ -43,6 +37,7 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 - **2026-08-28** — NO BET both slots — thin Friday card (Palace v City only PL game; reputation-priced favourite with no est-prob edge; no third researchable leg). Full reasoning: picks/2026-08-28.md. Saturday is the first full live card.
 - **2026-08-29** — SKIPPED AT THE TILL per pre-written condition: bet365 priced the builder 1.80 (slip screenshot, 08:30) vs our 2.0 minimum — the engine crushed the win/goals correlation (1.55 x 1.62 = 2.51 raw -> 1.80 offered). Rule fired exactly as designed. Pricing lesson: assume a harsher correlation crush on same-team result+goals pairs; our ~2.2 builder estimate was optimistic. Value spot: bet365 1.55 on Wolves vs ~1.42 consensus (top of market = positive expected CLV); Stoke conceded 5 in two straight defeats. Full reasoning: picks/2026-08-29.md
 - **2026-08-30** — NO BET acca: Man Utd 1.42 v Ipswich is the rule-6 reputation trap (lost to Hull; Ipswich in form); Chelsea 1.85 fails value with Palmer reportedly out vs in-form Brighton; no other researched legs. picks/2026-08-30.md
+- **2026-08-30** — CONDITION FIRED, BET OFF: Palmer started AND scored in Chelsea 4-3 Brighton — the 'Palmer out' previews were wrong. The condition saved a loss: Brighton DC would have LOST (BTTS won). Lesson: trust team sheets over previews; conditions exist for exactly this. Brighton lean: 5 wins in 6 (4-0 v Villa), won 4 of last 5 H2H; Chelsea reportedly without Palmer. Both sides scoring. picks/2026-08-30.md
 
 ## Era 1: Weekly-cap era (2026-08-15 → 2026-08-24)
 

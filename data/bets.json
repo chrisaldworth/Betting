@@ -840,7 +840,8 @@
           "odds": 1.9,
           "est_prob": 0.54,
           "thesis": "form",
-          "result": "pending"
+          "result": "void",
+          "how_settled": "bet OFF — Palmer condition fired"
         },
         {
           "fixture": "Chelsea v Brighton",
@@ -849,18 +850,19 @@
           "odds": 1.65,
           "est_prob": 0.62,
           "thesis": "texture",
-          "result": "pending"
+          "result": "void",
+          "how_settled": "bet OFF — Palmer condition fired"
         }
       ],
       "planned": true,
-      "stake": 10.0,
+      "stake": 0.0,
       "odds": 2.9,
       "boost": null,
       "conditions": "BINDING: (1) builder must price >= 2.80 at the till, else skip; (2) if Palmer is in Chelsea's starting XI (~13:00 team news), bet OFF; (3) one bet on this game. Place before 14:00. EITHER/OR with the Rogers Super Boost (rule 12, one bet per game): if these conditions fail, the Rogers boost @3.00 may take this slot as fallback (marginal value; Rogers must start).",
-      "status": "recommended",
+      "status": "no_bet",
       "return": null,
       "slip_confirmed": false,
-      "notes": "Brighton lean: 5 wins in 6 (4-0 v Villa), won 4 of last 5 H2H; Chelsea reportedly without Palmer. Both sides scoring. picks/2026-08-30.md"
+      "notes": "CONDITION FIRED, BET OFF: Palmer started AND scored in Chelsea 4-3 Brighton — the 'Palmer out' previews were wrong. The condition saved a loss: Brighton DC would have LOST (BTTS won). Lesson: trust team sheets over previews; conditions exist for exactly this. Brighton lean: 5 wins in 6 (4-0 v Villa), won 4 of last 5 H2H; Chelsea reportedly without Palmer. Both sides scoring. picks/2026-08-30.md"
     },
     {
       "id": 24,
@@ -877,7 +879,8 @@
           "odds": 1.42,
           "est_prob": 0.62,
           "thesis": "class_gap",
-          "result": "pending"
+          "result": "won",
+          "how_settled": "Man Utd 5-2 Ipswich"
         },
         {
           "fixture": "Chelsea v Brighton",
@@ -887,7 +890,8 @@
           "odds": 1.85,
           "est_prob": 0.46,
           "thesis": "form",
-          "result": "pending"
+          "result": "won",
+          "how_settled": "Chelsea 4-3 Brighton"
         },
         {
           "fixture": "Freiburg v Werder Bremen",
@@ -896,7 +900,8 @@
           "odds": 2.0,
           "est_prob": 0.48,
           "thesis": "form",
-          "result": "pending"
+          "result": "won",
+          "how_settled": "Freiburg 4-1 Bremen (Suzuki hat-trick)"
         },
         {
           "fixture": "Augsburg v Schalke",
@@ -905,7 +910,8 @@
           "odds": 2.1,
           "est_prob": 0.45,
           "thesis": "form",
-          "result": "pending"
+          "result": "won",
+          "how_settled": "Augsburg 1-0 Schalke"
         }
       ],
       "planned": true,
@@ -913,10 +919,10 @@
       "odds": 11.0,
       "boost": null,
       "conditions": "PAPER ONLY — leg-count experiment. Never live money.",
-      "status": "recommended",
-      "return": null,
+      "status": "won",
+      "return": 0.0,
       "slip_confirmed": true,
-      "notes": "Two legs fail the value test, two unresearched (German odds are estimates) — by design. Experiment record entering today: 0-1."
+      "notes": "PAPER WIN day 2 — all four legs landed; would have returned ~£110 on £10 at ~11.0. Record 1-1. One 11/1 hit in two days is luck-shaped at n=2; the Monday review will keep score honestly. Two legs fail the value test, two unresearched (German odds are estimates) — by design. Experiment record entering today: 0-1."
     },
     {
       "id": 25,
@@ -934,7 +940,8 @@
           "odds": 1.9,
           "est_prob": 0.55,
           "thesis": "texture",
-          "result": "pending"
+          "result": "won",
+          "how_settled": "Man Utd 5-2 Ipswich — 7 goals"
         },
         {
           "fixture": "Man Utd v Ipswich",
@@ -943,18 +950,19 @@
           "odds": 1.75,
           "est_prob": 0.6,
           "thesis": "promo",
-          "result": "pending"
+          "result": "won",
+          "how_settled": "Ipswich scored twice (Davis, Akpom)"
         }
       ],
       "planned": true,
-      "stake": 10.0,
+      "stake": 0.0,
       "odds": 2.9,
       "boost": "Bet-builder insurance: money back in free bets if it loses (opt-in required)",
       "conditions": "BINDING: (1) the money-back offer must show for the account after opt-in — no offer, no bet (game stays ruled out on merit); (2) builder must price >= 2.20 and meet the promo's min-odds terms; (3) winner-agnostic legs only — we take no side in a game we called a trap; (4) fills the vacant acca slot's £10. Place before 16:30.",
-      "status": "recommended",
-      "return": null,
+      "status": "won",
+      "return": 0.0,
       "slip_confirmed": false,
-      "notes": "Rule-14 promo exception, era-1's proven pattern (Brentford promo): insurance converts a fair-priced texture bet into +EV. Utd defence lost to Hull; Ipswich scoring both games but conceding. Written before placing."
+      "notes": "PAPER WIN (placement never confirmed) — would have returned ~£29 on £10 at ~2.9, with insurance never needed. Fernandes hat-trick. Rule-14 promo exception, era-1's proven pattern (Brentford promo): insurance converts a fair-priced texture bet into +EV. Utd defence lost to Hull; Ipswich scoring both games but conceding. Written before placing."
     }
   ]
 }

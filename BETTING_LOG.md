@@ -12,8 +12,9 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 
 | # | Date | Bet | Type | Stake | Odds | Status | Conditions |
 |---|------|-----|------|-------|------|--------|------------|
-| 23 | 2026-08-30 | Brighton or Draw (Double Chance) + Yes (Both Teams To Score) | builder | £10.00 | 2.9 | 📝 RECOMMENDED | BINDING: (1) builder must price >= 2.80 at the till, else skip; (2) if Palmer is in Chelsea's starting XI (~13:00 team news), bet OFF; (3) one bet on this game. Place before 14:00. |
+| 23 | 2026-08-30 | Brighton or Draw (Double Chance) + Yes (Both Teams To Score) | builder | £10.00 | 2.9 | 📝 RECOMMENDED | BINDING: (1) builder must price >= 2.80 at the till, else skip; (2) if Palmer is in Chelsea's starting XI (~13:00 team news), bet OFF; (3) one bet on this game. Place before 14:00. EITHER/OR with the Rogers Super Boost (rule 12, one bet per game): if these conditions fail, the Rogers boost @3.00 may take this slot as fallback (marginal value; Rogers must start). |
 | 24 | 2026-08-30 | Man Utd (Match Result) + Chelsea (Match Result) + Freiburg (Match Result) + Augsburg (Match Result) | acca | £0.00 | 11.0 | 📝 RECOMMENDED | PAPER ONLY — leg-count experiment. Never live money. |
+| 25 | 2026-08-30 | Over (Over 2.5 Goals) + Yes (Both Teams To Score) | builder | £10.00 | 2.9 | 📝 RECOMMENDED | BINDING: (1) the money-back offer must show for the account after opt-in — no offer, no bet (game stays ruled out on merit); (2) builder must price >= 2.20 and meet the promo's min-odds terms; (3) winner-agnostic legs only — we take no side in a game we called a trap; (4) fills the vacant acca slot's £10. Place before 16:30. |
 
 ### Settled
 

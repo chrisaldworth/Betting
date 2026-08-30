@@ -53,14 +53,14 @@ def validate(bets):
         if status in OPEN and b["date"] < date.today().isoformat():
             warnings.append(f"bet {bid}: dated {b['date']} but still {status} — settle it")
         if b["era"] == 2 and status not in {"no_bet"} and b.get("stake"):
-            by_day[b["date"]][b["type"]] += b["stake"]
+            if b["stake"] > 10.01:
+                warnings.append(f"bet {bid}: stake {money(b['stake'])} exceeds the £10 per-slot ceiling")
+            by_day[b["date"]]["total"] += b["stake"]
     for day, stakes in by_day.items():
-        for btype, total in stakes.items():
-            ceiling = 10.00
-            if total > ceiling + 0.01:
-                warnings.append(
-                    f"{day}: {btype} stakes total {money(total)} exceed the {money(ceiling)} daily ceiling"
-                )
+        if stakes["total"] > 20.01:
+            warnings.append(
+                f"{day}: day stakes total {money(stakes['total'])} exceed the £20 two-slot ceiling"
+            )
     return warnings
 
 

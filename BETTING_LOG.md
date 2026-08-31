@@ -8,6 +8,12 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 
 **Staking:** Ceilings, not quotas: up to £10/day on the recommended acca + up to £10/day on the recommended builder. NO BET days stake £0. No bets outside the daily card. Circuit breaker: pause + written review at era P/L of -£100.
 
+### Open / pending
+
+| # | Date | Bet | Type | Stake | Odds | Status | Conditions |
+|---|------|-----|------|-------|------|--------|------------|
+| 27 | 2026-08-31 | Arsenal -1 (Handicap Result -1) + Kai Havertz (Anytime Scorer) + Bukayo Saka (Anytime Scorer) | builder | £10.00 | 9.0 | 📝 RECOMMENDED | BINDING: (1) Havertz AND Saka both in the confirmed XI (~19:00) — either missing, bet off, no substitutes (rule 7; deadline-eve caution applies); (2) builder must price >= 7.0 at the till or skip (target ~£80 win needs ~9.0); (3) one bet on this game, no in-play additions. Fun/speculative: fills today's otherwise-unused builder slot at its £10 ceiling. |
+
 ### Settled
 
 | # | Date | Bet | Type | Stake | Odds | Result | Return | P/L | Running |
@@ -38,7 +44,7 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 - **2026-08-29** — SKIPPED AT THE TILL per pre-written condition: bet365 priced the builder 1.80 (slip screenshot, 08:30) vs our 2.0 minimum — the engine crushed the win/goals correlation (1.55 x 1.62 = 2.51 raw -> 1.80 offered). Rule fired exactly as designed. Pricing lesson: assume a harsher correlation crush on same-team result+goals pairs; our ~2.2 builder estimate was optimistic. Value spot: bet365 1.55 on Wolves vs ~1.42 consensus (top of market = positive expected CLV); Stoke conceded 5 in two straight defeats. Full reasoning: picks/2026-08-29.md
 - **2026-08-30** — NO BET acca: Man Utd 1.42 v Ipswich is the rule-6 reputation trap (lost to Hull; Ipswich in form); Chelsea 1.85 fails value with Palmer reportedly out vs in-form Brighton; no other researched legs. picks/2026-08-30.md
 - **2026-08-30** — CONDITION FIRED, BET OFF: Palmer started AND scored in Chelsea 4-3 Brighton — the 'Palmer out' previews were wrong. The condition saved a loss: Brighton DC would have LOST (BTTS won). Lesson: trust team sheets over previews; conditions exist for exactly this. Brighton lean: 5 wins in 6 (4-0 v Villa), won 4 of last 5 H2H; Chelsea reportedly without Palmer. Both sides scoring. picks/2026-08-30.md
-- **2026-08-31** — Bank holiday NO BET: no verifiable UK card, La Liga sources conflict on dates and offer Real Madrid at ~1.10 only; fewer than 4 verifiable games so the paper 4-fold also skips per its rule. Week 1 review in picks/2026-08-31.md.
+- **2026-08-31** — CORRECTION 17:00: the morning sweep MISSED Aston Villa v Arsenal (20:00 MNF) — a fixture-verification failure in the opposite direction to the phantom problem; logged as a process miss. Acca slot stays NO BET. Bank holiday NO BET: no verifiable UK card, La Liga sources conflict on dates and offer Real Madrid at ~1.10 only; fewer than 4 verifiable games so the paper 4-fold also skips per its rule. Week 1 review in picks/2026-08-31.md.
 
 ## Era 1: Weekly-cap era (2026-08-15 → 2026-08-24)
 

@@ -969,7 +969,7 @@
       "era": 2,
       "date": "2026-08-31",
       "type": "acca",
-      "structure": "no-bet day (both slots; no paper 4-fold)",
+      "structure": "no-bet day (acca slot; morning missed the MNF fixture)",
       "legs": [],
       "planned": true,
       "stake": 0.0,
@@ -979,7 +979,54 @@
       "status": "no_bet",
       "return": null,
       "slip_confirmed": true,
-      "notes": "Bank holiday NO BET: no verifiable UK card, La Liga sources conflict on dates and offer Real Madrid at ~1.10 only; fewer than 4 verifiable games so the paper 4-fold also skips per its rule. Week 1 review in picks/2026-08-31.md."
+      "notes": "CORRECTION 17:00: the morning sweep MISSED Aston Villa v Arsenal (20:00 MNF) — a fixture-verification failure in the opposite direction to the phantom problem; logged as a process miss. Acca slot stays NO BET. Bank holiday NO BET: no verifiable UK card, La Liga sources conflict on dates and offer Real Madrid at ~1.10 only; fewer than 4 verifiable games so the paper 4-fold also skips per its rule. Week 1 review in picks/2026-08-31.md."
+    },
+    {
+      "id": 27,
+      "era": 2,
+      "date": "2026-08-31",
+      "type": "builder",
+      "structure": "3-leg fun builder (speculative, within slot)",
+      "fixture": "Aston Villa v Arsenal (20:00 MNF)",
+      "legs": [
+        {
+          "fixture": "Aston Villa v Arsenal",
+          "kickoff": "2026-08-31T20:00 UK",
+          "market": "Handicap Result -1",
+          "selection": "Arsenal -1",
+          "odds": 2.05,
+          "est_prob": 0.47,
+          "thesis": "class_gap",
+          "result": "pending"
+        },
+        {
+          "fixture": "Aston Villa v Arsenal",
+          "market": "Anytime Scorer",
+          "selection": "Kai Havertz",
+          "odds": 2.1,
+          "est_prob": 0.45,
+          "thesis": "form",
+          "result": "pending"
+        },
+        {
+          "fixture": "Aston Villa v Arsenal",
+          "market": "Anytime Scorer",
+          "selection": "Bukayo Saka",
+          "odds": 2.6,
+          "est_prob": 0.4,
+          "thesis": "form",
+          "result": "pending"
+        }
+      ],
+      "planned": true,
+      "stake": 10.0,
+      "odds": 9.0,
+      "boost": null,
+      "conditions": "BINDING: (1) Havertz AND Saka both in the confirmed XI (~19:00) — either missing, bet off, no substitutes (rule 7; deadline-eve caution applies); (2) builder must price >= 7.0 at the till or skip (target ~£80 win needs ~9.0); (3) one bet on this game, no in-play additions. Fun/speculative: fills today's otherwise-unused builder slot at its £10 ceiling.",
+      "status": "recommended",
+      "return": null,
+      "slip_confirmed": false,
+      "notes": "User-requested fun builder targeting ~£80 win. Honest label: roughly fairly priced entertainment, not an edge bet (joint est ~11-14% vs ~11% implied at 9.0). Story: champions blow out a broken Villa (0 pts, lost 4-0 at Brighton, five out incl. Gomes suspended, three debutants likely incl. a new GK). Both scorers netted in the 3-0 v Coventry."
     }
   ]
 }

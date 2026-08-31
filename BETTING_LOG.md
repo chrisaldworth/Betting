@@ -8,12 +8,6 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 
 **Staking:** Ceilings, not quotas: up to £10/day on the recommended acca + up to £10/day on the recommended builder. NO BET days stake £0. No bets outside the daily card. Circuit breaker: pause + written review at era P/L of -£100.
 
-### Open / pending
-
-| # | Date | Bet | Type | Stake | Odds | Status | Conditions |
-|---|------|-----|------|-------|------|--------|------------|
-| 27 | 2026-08-31 | Arsenal -1 (Handicap Result -1) + Kai Havertz (Anytime Scorer) + Bukayo Saka (Anytime Scorer) | builder | £10.00 | 9.0 | 📝 RECOMMENDED | UPDATED 18:15 from user's slip: (1) swap 'Winning Margin: exactly 2' for Handicap Arsenal -1 (win by 2+) — the slip's 26.0 is the exact-margin trap, not the recommended build; (2) place with the £10 BET CREDITS (winnings-only ~£80 at ~9.0, zero cash risk) — rule 14's designated use for free bets; (3) apply the 25% winnings boost; (4) Havertz AND Saka both in the ~19:00 starting XI or bet off; (5) till price >= 7.0 after the leg swap; one bet on the game. |
-
 ### Settled
 
 | # | Date | Bet | Type | Stake | Odds | Result | Return | P/L | Running |
@@ -25,17 +19,18 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 | 21 | 2026-08-29 | Leverkusen (Match Result) ✗ + Dortmund (Match Result) ✓ + Wolves (Match Result) ✓ + Liverpool (Match Result) ✗ | acca | £0.00 | 4.03 | ❌ LOST | £0.00 | £0.00 | £0.00 |
 | 24 | 2026-08-30 | Man Utd (Match Result) ✓ + Chelsea (Match Result) ✓ + Freiburg (Match Result) ✓ + Augsburg (Match Result) ✓ | acca | £0.00 | 11.0 | ✅ WON | £0.00 | £0.00 | £0.00 |
 | 25 | 2026-08-30 | Over (Over 2.5 Goals) ✓ + Yes (Both Teams To Score) ✓ | builder | £0.00 | 2.9 | ✅ WON | £0.00 | £0.00 | £0.00 |
+| 27 | 2026-08-31 | Arsenal -1 (Handicap Result -1) ✗ + Kai Havertz (Anytime Scorer) ✗ + Bukayo Saka (Anytime Scorer) ✓ | builder | £0.00 | 9.0 | ❌ LOST | £0.00 | £0.00 | £0.00 |
 
 **Era 2 settled totals: staked £0.00 · returned £0.00 · net £0.00**
 
 | Category | Bets | Staked | Returned | Net |
 |----------|------|--------|----------|-----|
-| Planned, researched | 7 | £0.00 | £0.00 | **£0.00** |
+| Planned, researched | 8 | £0.00 | £0.00 | **£0.00** |
 
 | Structure | Bets | Net |
 |-----------|------|-----|
 | acca | 4 | £0.00 |
-| builder | 2 | £0.00 |
+| builder | 3 | £0.00 |
 | single | 1 | £0.00 |
 
 ### No-bet days (discipline log)

@@ -997,7 +997,8 @@
           "odds": 2.05,
           "est_prob": 0.47,
           "thesis": "class_gap",
-          "result": "pending"
+          "result": "lost",
+          "how_settled": "Villa 0-1 Arsenal — won by 1, not 2+"
         },
         {
           "fixture": "Aston Villa v Arsenal",
@@ -1006,7 +1007,9 @@
           "odds": 2.1,
           "est_prob": 0.45,
           "thesis": "form",
-          "result": "pending"
+          "result": "lost",
+          "how_settled": "Havertz played, denied 1-on-1 by Suzuki 74'",
+          "clv": null
         },
         {
           "fixture": "Aston Villa v Arsenal",
@@ -1015,18 +1018,19 @@
           "odds": 2.6,
           "est_prob": 0.4,
           "thesis": "form",
-          "result": "pending"
+          "result": "won",
+          "how_settled": "Saka scored the winner"
         }
       ],
       "planned": true,
-      "stake": 10.0,
+      "stake": 0.0,
       "odds": 9.0,
       "boost": "25% winnings boost available; place with £10 bet credits",
       "conditions": "UPDATED 18:15 from user's slip: (1) swap 'Winning Margin: exactly 2' for Handicap Arsenal -1 (win by 2+) — the slip's 26.0 is the exact-margin trap, not the recommended build; (2) place with the £10 BET CREDITS (winnings-only ~£80 at ~9.0, zero cash risk) — rule 14's designated use for free bets; (3) apply the 25% winnings boost; (4) Havertz AND Saka both in the ~19:00 starting XI or bet off; (5) till price >= 7.0 after the leg swap; one bet on the game.",
-      "status": "recommended",
-      "return": null,
+      "status": "lost",
+      "return": 0.0,
       "slip_confirmed": false,
-      "notes": "User-requested fun builder targeting ~£80 win. Honest label: roughly fairly priced entertainment, not an edge bet (joint est ~11-14% vs ~11% implied at 9.0). Story: champions blow out a broken Villa (0 pts, lost 4-0 at Brighton, five out incl. Gomes suspended, three debutants likely incl. a new GK). Both scorers netted in the 3-0 v Coventry."
+      "notes": "PAPER LOST (final placement never confirmed; user's 18:16 slip showed the 2-scorer pair at 7.25 — that version lost too on Havertz; the earlier 26.0 exact-margin slip would also have lost). Saka leg landed. CLV: near-close builder price 7.25 for the scorer pair captured from user's slip; leg-level closing prices unavailable. User-requested fun builder targeting ~£80 win. Honest label: roughly fairly priced entertainment, not an edge bet (joint est ~11-14% vs ~11% implied at 9.0). Story: champions blow out a broken Villa (0 pts, lost 4-0 at Brighton, five out incl. Gomes suspended, three debutants likely incl. a new GK). Both scorers netted in the 3-0 v Coventry."
     }
   ]
 }

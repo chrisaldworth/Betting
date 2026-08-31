@@ -12,7 +12,7 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 
 | # | Date | Bet | Type | Stake | Odds | Status | Conditions |
 |---|------|-----|------|-------|------|--------|------------|
-| 27 | 2026-08-31 | Arsenal -1 (Handicap Result -1) + Kai Havertz (Anytime Scorer) + Bukayo Saka (Anytime Scorer) | builder | £10.00 | 9.0 | 📝 RECOMMENDED | BINDING: (1) Havertz AND Saka both in the confirmed XI (~19:00) — either missing, bet off, no substitutes (rule 7; deadline-eve caution applies); (2) builder must price >= 7.0 at the till or skip (target ~£80 win needs ~9.0); (3) one bet on this game, no in-play additions. Fun/speculative: fills today's otherwise-unused builder slot at its £10 ceiling. |
+| 27 | 2026-08-31 | Arsenal -1 (Handicap Result -1) + Kai Havertz (Anytime Scorer) + Bukayo Saka (Anytime Scorer) | builder | £10.00 | 9.0 | 📝 RECOMMENDED | UPDATED 18:15 from user's slip: (1) swap 'Winning Margin: exactly 2' for Handicap Arsenal -1 (win by 2+) — the slip's 26.0 is the exact-margin trap, not the recommended build; (2) place with the £10 BET CREDITS (winnings-only ~£80 at ~9.0, zero cash risk) — rule 14's designated use for free bets; (3) apply the 25% winnings boost; (4) Havertz AND Saka both in the ~19:00 starting XI or bet off; (5) till price >= 7.0 after the leg swap; one bet on the game. |
 
 ### Settled
 

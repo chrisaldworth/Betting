@@ -963,6 +963,23 @@
       "return": 0.0,
       "slip_confirmed": false,
       "notes": "PAPER WIN (placement never confirmed) — would have returned ~£29 on £10 at ~2.9, with insurance never needed. Fernandes hat-trick. Rule-14 promo exception, era-1's proven pattern (Brentford promo): insurance converts a fair-priced texture bet into +EV. Utd defence lost to Hull; Ipswich scoring both games but conceding. Written before placing."
+    },
+    {
+      "id": 26,
+      "era": 2,
+      "date": "2026-08-31",
+      "type": "acca",
+      "structure": "no-bet day (both slots; no paper 4-fold)",
+      "legs": [],
+      "planned": true,
+      "stake": 0.0,
+      "odds": null,
+      "boost": null,
+      "conditions": null,
+      "status": "no_bet",
+      "return": null,
+      "slip_confirmed": true,
+      "notes": "Bank holiday NO BET: no verifiable UK card, La Liga sources conflict on dates and offer Real Madrid at ~1.10 only; fewer than 4 verifiable games so the paper 4-fold also skips per its rule. Week 1 review in picks/2026-08-31.md."
     }
   ]
 }

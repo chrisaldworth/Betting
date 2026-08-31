@@ -39,6 +39,11 @@ Living document — update after each settled bet with what worked, what didn't,
 | Ruling games OUT is as valuable as picking games in | Avoided Rangers trap, Burnley–West Ham coin flip, PSV wobble | Medium |
 | Player-prop legs carry lineup risk; bet365 voids them (doesn't lose them) | Nunes didn't play → leg void, builder repriced 8/1 → 6.00 | High (it's a rule, now verified) |
 | Unplanned side bets are the profit leak | Planned bets +£55.20; unplanned bets −£20.00 | Medium — the mechanism is structural, not luck |
+| Written conditions (price floor, team-sheet) prevent bad bets | Week 1 era 2: Wolves 1.80 skip (correct process), Palmer condition saved a would-be loss | High (n=2, both fired correctly) |
+| bet365's builder engine crushes same-team result+goals pairs hard | Wolves: 1.55 x 1.62 = 2.51 raw → 1.80 offered | High (measured) |
+| Promoted side's first top-flight home game is a trap for away favourites | Elversberg 3-2 Leverkusen (2-0 inside 10 min) | Low (n=1) — watch, don't rule yet |
+| Our trap-check may be over-pessimistic on favourites | Both week-1 trap calls wrong: Utd won 5-2 (est 62 vs 70), Chelsea won 4-3 (est 46 vs 54); all three "no value" 4-fold legs won | Low (n=5) — week 2's key calibration question |
+| Class-gap legs remain the most reliable leg type | 5/7 landed in week 1 era 2 (fails: Elversberg trap, — ) | Low-medium, consistent with era 1 |
 
 Update this table as the sample grows. Nothing above is proven at n=3 — treat every insight as a hypothesis.
 

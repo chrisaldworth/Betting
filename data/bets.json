@@ -1031,6 +1031,23 @@
       "return": 0.0,
       "slip_confirmed": false,
       "notes": "PAPER LOST (final placement never confirmed; user's 18:16 slip showed the 2-scorer pair at 7.25 — that version lost too on Havertz; the earlier 26.0 exact-margin slip would also have lost). Saka leg landed. CLV: near-close builder price 7.25 for the scorer pair captured from user's slip; leg-level closing prices unavailable. User-requested fun builder targeting ~£80 win. Honest label: roughly fairly priced entertainment, not an edge bet (joint est ~11-14% vs ~11% implied at 9.0). Story: champions blow out a broken Villa (0 pts, lost 4-0 at Brighton, five out incl. Gomes suspended, three debutants likely incl. a new GK). Both scorers netted in the 3-0 v Coventry."
+    },
+    {
+      "id": 28,
+      "era": 2,
+      "date": "2026-09-01",
+      "type": "acca",
+      "structure": "no-bet day (both slots; no paper 4-fold)",
+      "legs": [],
+      "planned": true,
+      "stake": 0.0,
+      "odds": null,
+      "boost": null,
+      "conditions": null,
+      "status": "no_bet",
+      "return": null,
+      "slip_confirmed": true,
+      "notes": "Transfer deadline day, midweek lull before the international break — no verifiable fixtures in any covered league (fewer than 4 researchable games, so the paper 4-fold also skips). Watch instead: deadline-day moves reshape squads; Wednesday-onward cards inherit new team-news risk until XIs settle."
     }
   ]
 }

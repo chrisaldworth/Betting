@@ -1048,6 +1048,23 @@
       "return": null,
       "slip_confirmed": true,
       "notes": "Transfer deadline day, midweek lull before the international break — no verifiable fixtures in any covered league (fewer than 4 researchable games, so the paper 4-fold also skips). Watch instead: deadline-day moves reshape squads; Wednesday-onward cards inherit new team-news risk until XIs settle."
+    },
+    {
+      "id": 29,
+      "era": 2,
+      "date": "2026-09-02",
+      "type": "acca",
+      "structure": "no-bet day (both slots; no paper 4-fold)",
+      "legs": [],
+      "planned": true,
+      "stake": 0.0,
+      "odds": null,
+      "boost": null,
+      "conditions": null,
+      "status": "no_bet",
+      "return": null,
+      "slip_confirmed": true,
+      "notes": "International-break lull: no verifiable club card in any covered league; anything on is EFL Trophy-grade, auto-excluded per era-1 precedent (nothing researchable, nothing bet). Fewer than 4 researchable games -> paper 4-fold skips."
     }
   ]
 }

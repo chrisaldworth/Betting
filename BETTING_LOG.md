@@ -42,6 +42,7 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 - **2026-08-31** — CORRECTION 17:00: the morning sweep MISSED Aston Villa v Arsenal (20:00 MNF) — a fixture-verification failure in the opposite direction to the phantom problem; logged as a process miss. Acca slot stays NO BET. Bank holiday NO BET: no verifiable UK card, La Liga sources conflict on dates and offer Real Madrid at ~1.10 only; fewer than 4 verifiable games so the paper 4-fold also skips per its rule. Week 1 review in picks/2026-08-31.md.
 - **2026-09-01** — Transfer deadline day, midweek lull before the international break — no verifiable fixtures in any covered league (fewer than 4 researchable games, so the paper 4-fold also skips). Watch instead: deadline-day moves reshape squads; Wednesday-onward cards inherit new team-news risk until XIs settle.
 - **2026-09-02** — International-break lull: no verifiable club card in any covered league; anything on is EFL Trophy-grade, auto-excluded per era-1 precedent (nothing researchable, nothing bet). Fewer than 4 researchable games -> paper 4-fold skips.
+- **2026-09-03** — International break: no fixtures verifiable to the two-source standard tonight; qualifiers default to watch-not-bet regardless (draw-heavy, rotation-riddled, thin research). Paper 4-fold skips (fewer than 4 researchable games).
 
 ## Era 1: Weekly-cap era (2026-08-15 → 2026-08-24)
 

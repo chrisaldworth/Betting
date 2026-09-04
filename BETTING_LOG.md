@@ -8,6 +8,13 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 
 **Staking:** Ceilings, not quotas: up to £10/day on the recommended acca + up to £10/day on the recommended builder. NO BET days stake £0. No bets outside the daily card. Circuit breaker: pause + written review at era P/L of -£100.
 
+### Open / pending
+
+| # | Date | Bet | Type | Stake | Odds | Status | Conditions |
+|---|------|-----|------|-------|------|--------|------------|
+| 31 | 2026-09-04 | Yes (Both Teams to Score) + Over 2.5 (Total Goals) | builder | £10.00 | 2.1 | 📝 RECOMMENDED | (1) Builder must price >= 2.00 in the till (raw ~2.67; heavy correlation crush expected on BTTS+overs) - below 2.00, skip. (2) One bet on this game, no in-play additions. (3) Place before 20:00 UK. (4) No player legs today - Liverpool XI unsettled (Barcola debut possible, Ekitike/Chiesa/Gomez out). |
+| 32 | 2026-09-04 | Liverpool (Match Result) + PSG (Match Result) + Real Madrid (Match Result) + Stuttgart (Match Result) | acca | £0.00 | 5.26 | 📝 RECOMMENDED | PAPER ONLY - never live money without a written rule change. Settled nightly like any bet. |
+
 ### Settled
 
 | # | Date | Bet | Type | Stake | Odds | Result | Return | P/L | Running |

@@ -14,11 +14,11 @@
           "market": "e.g. Match Result, -0.5 Asian Handicap, Anytime Scorer",
           "selection": "the pick",
           "odds": "decimal, from the slip when placed; research estimate before",
-          "est_prob": "our honest pre-price probability estimate (0-1), set at research time — the calibration record",
-          "thesis": "class_gap | form | motivation | texture | promo — why this leg was picked",
+          "est_prob": "our honest pre-price probability estimate (0-1), set at research time \u2014 the calibration record",
+          "thesis": "class_gap | form | motivation | texture | promo \u2014 why this leg was picked",
           "result": "won | lost | void | pending",
           "how_settled": "score/stat that settled it, filled at settlement",
-          "clv": "closing (pre-kickoff) odds for this selection, captured at settlement — for closing-line value"
+          "clv": "closing (pre-kickoff) odds for this selection, captured at settlement \u2014 for closing-line value"
         }
       ],
       "planned": "true if written here before placing (rule 11); false = rule break",
@@ -29,7 +29,7 @@
       "status": "recommended | placed | won | lost | void | cashed_out | no_bet",
       "return": "GBP actually returned per slip (0 if lost); provisional_return until slip-confirmed",
       "slip_confirmed": "true once user confirmed odds/stake/return from the bet365 slip",
-      "clv": "closing odds for the same selections, when captured — for closing-line-value tracking",
+      "clv": "closing odds for the same selections, when captured \u2014 for closing-line-value tracking",
       "notes": "reasoning summary / settlement notes / lesson"
     }
   },
@@ -162,7 +162,7 @@
       "status": "won",
       "return": 56.8,
       "slip_confirmed": true,
-      "notes": "Partial cash-out £10 in-play locked stake back; remaining £7.80 won £46.80. bet365 voids (not loses) unplayed player legs."
+      "notes": "Partial cash-out \u00a310 in-play locked stake back; remaining \u00a37.80 won \u00a346.80. bet365 voids (not loses) unplayed player legs."
     },
     {
       "id": 4,
@@ -180,7 +180,7 @@
       "status": "lost",
       "return": 0.0,
       "slip_confirmed": true,
-      "notes": "UNPLANNED second builder on same game — rule 12 violation; doubled exposure with no new information."
+      "notes": "UNPLANNED second builder on same game \u2014 rule 12 violation; doubled exposure with no new information."
     },
     {
       "id": 5,
@@ -222,7 +222,7 @@
       "status": "lost",
       "return": 0.0,
       "slip_confirmed": true,
-      "notes": "Draws kill accas — two 2-2s. Origin of rule 4 (DNB/-0.5 above ~1.45)."
+      "notes": "Draws kill accas \u2014 two 2-2s. Origin of rule 4 (DNB/-0.5 above ~1.45)."
     },
     {
       "id": 6,
@@ -265,7 +265,7 @@
       "status": "lost",
       "return": 0.0,
       "slip_confirmed": true,
-      "notes": "Contradicting legs: in-form striker thesis vs unders leg. Cut the contradicting leg next time. Stake drift (£6.80 vs £5 planned)."
+      "notes": "Contradicting legs: in-form striker thesis vs unders leg. Cut the contradicting leg next time. Stake drift (\u00a36.80 vs \u00a35 planned)."
     },
     {
       "id": 7,
@@ -302,7 +302,7 @@
       "planned": true,
       "stake": 10.0,
       "odds": 2.25,
-      "boost": "50% winnings boost (+£6.25)",
+      "boost": "50% winnings boost (+\u00a36.25)",
       "conditions": null,
       "status": "won",
       "return": 28.75,
@@ -348,7 +348,7 @@
       "status": "lost",
       "return": 0.0,
       "slip_confirmed": true,
-      "notes": "Cross-dimension legs doubled the price vs same-direction stack (2.00 -> 4.20). The ~67% anchor leg failed — variance."
+      "notes": "Cross-dimension legs doubled the price vs same-direction stack (2.00 -> 4.20). The ~67% anchor leg failed \u2014 variance."
     },
     {
       "id": 9,
@@ -387,7 +387,7 @@
       "status": "lost",
       "return": 0.0,
       "slip_confirmed": true,
-      "notes": "Rebuilt after two phantom legs found in verification (Frankfurt, Celtic fixtures didn't exist that day). Stake drift £10 vs £7.50 planned — second occurrence."
+      "notes": "Rebuilt after two phantom legs found in verification (Frankfurt, Celtic fixtures didn't exist that day). Stake drift \u00a310 vs \u00a37.50 planned \u2014 second occurrence."
     },
     {
       "id": 10,
@@ -426,7 +426,7 @@
       "status": "lost",
       "return": 0.0,
       "slip_confirmed": true,
-      "notes": "Expand odds-per-leg not leg-count (rule 15 origin). Stake drift £3.75 vs £2.50 — third occurrence."
+      "notes": "Expand odds-per-leg not leg-count (rule 15 origin). Stake drift \u00a33.75 vs \u00a32.50 \u2014 third occurrence."
     },
     {
       "id": 11,
@@ -454,12 +454,12 @@
       "planned": true,
       "stake": 10.0,
       "odds": 2.6,
-      "boost": "Bet & Get £5 free bets (win-or-lose)",
+      "boost": "Bet & Get \u00a35 free bets (win-or-lose)",
       "conditions": "only if offer showed after opt-in",
       "status": "lost",
       "return": 0.0,
       "slip_confirmed": true,
-      "notes": "Winner-agnostic promo build; documented cap exception. £5 free bets due within 72h."
+      "notes": "Winner-agnostic promo build; documented cap exception. \u00a35 free bets due within 72h."
     },
     {
       "id": 12,
@@ -502,7 +502,7 @@
       "status": "lost",
       "return": 0.0,
       "slip_confirmed": true,
-      "notes": "UNPLANNED — plan said boost OR Brentford promo, not both."
+      "notes": "UNPLANNED \u2014 plan said boost OR Brentford promo, not both."
     },
     {
       "id": 14,
@@ -527,7 +527,7 @@
       "status": "lost",
       "return": 0.0,
       "slip_confirmed": true,
-      "notes": "UNPLANNED — outside the system entirely, no research."
+      "notes": "UNPLANNED \u2014 outside the system entirely, no research."
     },
     {
       "id": 15,
@@ -552,7 +552,7 @@
           "selection": "Fulham",
           "odds": 1.25,
           "result": "won",
-          "how_settled": "Fulham 3-0 AFC Wimbledon (Smith Rowe, Muniz, García)"
+          "how_settled": "Fulham 3-0 AFC Wimbledon (Smith Rowe, Muniz, Garc\u00eda)"
         },
         {
           "fixture": "AGF Aarhus v Benfica (UEL playoff leg 2)",
@@ -568,11 +568,11 @@
       "stake": 0.0,
       "odds": 2.35,
       "boost": "check acca boost before placing",
-      "conditions": "PAPER PICK — card was finalized after kickoff on the system's build day; £0 staked. Settle for calibration only. Odds are research estimates until slip-confirmed. Place before ~19:00 UK.",
+      "conditions": "PAPER PICK \u2014 card was finalized after kickoff on the system's build day; \u00a30 staked. Settle for calibration only. Odds are research estimates until slip-confirmed. Place before ~19:00 UK.",
       "status": "won",
       "return": 0.0,
       "slip_confirmed": false,
-      "notes": "PAPER WIN — would have returned ~£23.50 on £10 at 2.35. PAPER (not placeable — produced ~21:00 UK, games underway). Class-gap treble, all 90-min markets. Benfica leg carries game-state risk (draw also qualifies them). Full reasoning: picks/2026-08-27.md"
+      "notes": "PAPER WIN \u2014 would have returned ~\u00a323.50 on \u00a310 at 2.35. PAPER (not placeable \u2014 produced ~21:00 UK, games underway). Class-gap treble, all 90-min markets. Benfica leg carries game-state risk (draw also qualifies them). Full reasoning: picks/2026-08-27.md"
     },
     {
       "id": 16,
@@ -612,11 +612,11 @@
       "stake": 0.0,
       "odds": 3.8,
       "boost": null,
-      "conditions": "PAPER PICK — card was finalized after kickoff on the system's build day; £0 staked. Settle for calibration only. PALMER MUST START (team sheets ~18:30) — not starting means bet off, no substitute pick. One bet on this game, no in-play additions.",
+      "conditions": "PAPER PICK \u2014 card was finalized after kickoff on the system's build day; \u00a30 staked. Settle for calibration only. PALMER MUST START (team sheets ~18:30) \u2014 not starting means bet off, no substitute pick. One bet on this game, no in-play additions.",
       "status": "lost",
       "return": 0.0,
       "slip_confirmed": false,
-      "notes": "PAPER LOSS — the two value legs both failed in a rotated 2-0; anchor leg won. PAPER (not placeable — produced ~21:00 UK, games underway). Result + player + team-goals dimensions, one story, no contradicting leg. Full reasoning: picks/2026-08-27.md"
+      "notes": "PAPER LOSS \u2014 the two value legs both failed in a rotated 2-0; anchor leg won. PAPER (not placeable \u2014 produced ~21:00 UK, games underway). Result + player + team-goals dimensions, one story, no contradicting leg. Full reasoning: picks/2026-08-27.md"
     },
     {
       "id": 17,
@@ -633,7 +633,7 @@
       "status": "no_bet",
       "return": null,
       "slip_confirmed": true,
-      "notes": "NO BET both slots — thin Friday card (Palace v City only PL game; reputation-priced favourite with no est-prob edge; no third researchable leg). Full reasoning: picks/2026-08-28.md. Saturday is the first full live card."
+      "notes": "NO BET both slots \u2014 thin Friday card (Palace v City only PL game; reputation-priced favourite with no est-prob edge; no third researchable leg). Full reasoning: picks/2026-08-28.md. Saturday is the first full live card."
     },
     {
       "id": 18,
@@ -651,7 +651,7 @@
           "est_prob": 0.76,
           "thesis": "class_gap",
           "result": "lost",
-          "how_settled": "Elversberg 3-2 Leverkusen — 2-0 down inside 10 min (Petkov, Campbell), Mokwa 3rd; late Schick/Kofane not enough. Never 2 up, EP irrelevant."
+          "how_settled": "Elversberg 3-2 Leverkusen \u2014 2-0 down inside 10 min (Petkov, Campbell), Mokwa 3rd; late Schick/Kofane not enough. Never 2 up, EP irrelevant."
         },
         {
           "fixture": "Dortmund v Hamburg (Bundesliga)",
@@ -669,11 +669,11 @@
       "stake": 0.0,
       "odds": 1.8,
       "boost": "check acca boost / Bet Boosts",
-      "conditions": "Odds are research estimates until slip-confirmed. Use Early Payout markets at equal price. Place before 14:30 UK (with the builder, before 12:30). Two legs deliberate — no third leg passed the value test.",
+      "conditions": "Odds are research estimates until slip-confirmed. Use Early Payout markets at equal price. Place before 14:30 UK (with the builder, before 12:30). Two legs deliberate \u2014 no third leg passed the value test.",
       "status": "lost",
       "return": 0.0,
       "slip_confirmed": false,
-      "notes": "PAPER (placement never confirmed) — LOST. The flagged risk (promoted side's first top-flight home game) was the exact failure mode. First live acca of era 2. Combined est 0.585 vs implied 0.556. Full reasoning: picks/2026-08-29.md"
+      "notes": "PAPER (placement never confirmed) \u2014 LOST. The flagged risk (promoted side's first top-flight home game) was the exact failure mode. First live acca of era 2. Combined est 0.585 vs implied 0.556. Full reasoning: picks/2026-08-29.md"
     },
     {
       "id": 19,
@@ -692,7 +692,7 @@
           "est_prob": 0.65,
           "thesis": "form",
           "result": "void",
-          "how_settled": "not placed — price condition failed"
+          "how_settled": "not placed \u2014 price condition failed"
         },
         {
           "fixture": "Wolves v Stoke",
@@ -702,18 +702,18 @@
           "est_prob": 0.64,
           "thesis": "texture",
           "result": "void",
-          "how_settled": "not placed — price condition failed"
+          "how_settled": "not placed \u2014 price condition failed"
         }
       ],
       "planned": true,
       "stake": 0.0,
       "odds": 1.8,
       "boost": null,
-      "conditions": "Place before 12:30 UK. If the builder prices below ~2.0, skip — the value is gone. Team-level legs only (no verified scorer depth on Peixoto's Wolves). One bet on this game.",
+      "conditions": "Place before 12:30 UK. If the builder prices below ~2.0, skip \u2014 the value is gone. Team-level legs only (no verified scorer depth on Peixoto's Wolves). One bet on this game.",
       "status": "no_bet",
       "return": null,
       "slip_confirmed": false,
-      "notes": "SKIPPED AT THE TILL per pre-written condition: bet365 priced the builder 1.80 (slip screenshot, 08:30) vs our 2.0 minimum — the engine crushed the win/goals correlation (1.55 x 1.62 = 2.51 raw -> 1.80 offered). Rule fired exactly as designed. Pricing lesson: assume a harsher correlation crush on same-team result+goals pairs; our ~2.2 builder estimate was optimistic. Value spot: bet365 1.55 on Wolves vs ~1.42 consensus (top of market = positive expected CLV); Stoke conceded 5 in two straight defeats. Full reasoning: picks/2026-08-29.md"
+      "notes": "SKIPPED AT THE TILL per pre-written condition: bet365 priced the builder 1.80 (slip screenshot, 08:30) vs our 2.0 minimum \u2014 the engine crushed the win/goals correlation (1.55 x 1.62 = 2.51 raw -> 1.80 offered). Rule fired exactly as designed. Pricing lesson: assume a harsher correlation crush on same-team result+goals pairs; our ~2.2 builder estimate was optimistic. Value spot: bet365 1.55 on Wolves vs ~1.42 consensus (top of market = positive expected CLV); Stoke conceded 5 in two straight defeats. Full reasoning: picks/2026-08-29.md"
     },
     {
       "id": 20,
@@ -732,7 +732,7 @@
           "est_prob": 0.65,
           "thesis": "promo",
           "result": "lost",
-          "how_settled": "Played well in 2-2 draw but 0 shots on target — Liverpool's 5 SOT: Van Dijk, Wirtz, Isak, Tsimikas, Munoz"
+          "how_settled": "Played well in 2-2 draw but 0 shots on target \u2014 Liverpool's 5 SOT: Van Dijk, Wirtz, Isak, Tsimikas, Munoz"
         }
       ],
       "planned": true,
@@ -743,7 +743,7 @@
       "status": "lost",
       "return": 0.0,
       "slip_confirmed": false,
-      "notes": "PAPER (placement never confirmed) — LOST. Value process was right (+EV at 2.00); 65% events lose 35% of the time. bet365's own 1.57 implies ~64% incl. margin; 2.00 pays 50% on a ~65% event — ~+30% EV, the only reliably +EV product on the book. Fills the builder slot vacated by the skipped Wolves builder; day exposure stays £10+£10."
+      "notes": "PAPER (placement never confirmed) \u2014 LOST. Value process was right (+EV at 2.00); 65% events lose 35% of the time. bet365's own 1.57 implies ~64% incl. margin; 2.00 pays 50% on a ~65% event \u2014 ~+30% EV, the only reliably +EV product on the book. Fills the builder slot vacated by the skipped Wolves builder; day exposure stays \u00a310+\u00a310."
     },
     {
       "id": 21,
@@ -801,11 +801,11 @@
       "stake": 0.0,
       "odds": 4.03,
       "boost": null,
-      "conditions": "PAPER ONLY — user-proposed leg-count experiment (29 Aug). Tracked daily; goes live only via a written rule change if weeks of evidence support it.",
+      "conditions": "PAPER ONLY \u2014 user-proposed leg-count experiment (29 Aug). Tracked daily; goes live only via a written rule change if weeks of evidence support it.",
       "status": "lost",
       "return": 0.0,
       "slip_confirmed": true,
-      "notes": "Experiment day 1: LOST (2 of 4 legs). PAPER stretch line: the 4 best legs on the board including two that FAILED the value test (Liverpool, and Wolves at current price) — which is the point of the experiment. Would return ~£40.30 on £10."
+      "notes": "Experiment day 1: LOST (2 of 4 legs). PAPER stretch line: the 4 best legs on the board including two that FAILED the value test (Liverpool, and Wolves at current price) \u2014 which is the point of the experiment. Would return ~\u00a340.30 on \u00a310."
     },
     {
       "id": 22,
@@ -841,7 +841,7 @@
           "est_prob": 0.54,
           "thesis": "form",
           "result": "void",
-          "how_settled": "bet OFF — Palmer condition fired"
+          "how_settled": "bet OFF \u2014 Palmer condition fired"
         },
         {
           "fixture": "Chelsea v Brighton",
@@ -851,7 +851,7 @@
           "est_prob": 0.62,
           "thesis": "texture",
           "result": "void",
-          "how_settled": "bet OFF — Palmer condition fired"
+          "how_settled": "bet OFF \u2014 Palmer condition fired"
         }
       ],
       "planned": true,
@@ -862,7 +862,7 @@
       "status": "no_bet",
       "return": null,
       "slip_confirmed": false,
-      "notes": "CONDITION FIRED, BET OFF: Palmer started AND scored in Chelsea 4-3 Brighton — the 'Palmer out' previews were wrong. The condition saved a loss: Brighton DC would have LOST (BTTS won). Lesson: trust team sheets over previews; conditions exist for exactly this. Brighton lean: 5 wins in 6 (4-0 v Villa), won 4 of last 5 H2H; Chelsea reportedly without Palmer. Both sides scoring. picks/2026-08-30.md"
+      "notes": "CONDITION FIRED, BET OFF: Palmer started AND scored in Chelsea 4-3 Brighton \u2014 the 'Palmer out' previews were wrong. The condition saved a loss: Brighton DC would have LOST (BTTS won). Lesson: trust team sheets over previews; conditions exist for exactly this. Brighton lean: 5 wins in 6 (4-0 v Villa), won 4 of last 5 H2H; Chelsea reportedly without Palmer. Both sides scoring. picks/2026-08-30.md"
     },
     {
       "id": 24,
@@ -918,11 +918,11 @@
       "stake": 0.0,
       "odds": 11.0,
       "boost": null,
-      "conditions": "PAPER ONLY — leg-count experiment. Never live money.",
+      "conditions": "PAPER ONLY \u2014 leg-count experiment. Never live money.",
       "status": "won",
       "return": 0.0,
       "slip_confirmed": true,
-      "notes": "PAPER WIN day 2 — all four legs landed; would have returned ~£110 on £10 at ~11.0. Record 1-1. One 11/1 hit in two days is luck-shaped at n=2; the Monday review will keep score honestly. Two legs fail the value test, two unresearched (German odds are estimates) — by design. Experiment record entering today: 0-1."
+      "notes": "PAPER WIN day 2 \u2014 all four legs landed; would have returned ~\u00a3110 on \u00a310 at ~11.0. Record 1-1. One 11/1 hit in two days is luck-shaped at n=2; the Monday review will keep score honestly. Two legs fail the value test, two unresearched (German odds are estimates) \u2014 by design. Experiment record entering today: 0-1."
     },
     {
       "id": 25,
@@ -941,7 +941,7 @@
           "est_prob": 0.55,
           "thesis": "texture",
           "result": "won",
-          "how_settled": "Man Utd 5-2 Ipswich — 7 goals"
+          "how_settled": "Man Utd 5-2 Ipswich \u2014 7 goals"
         },
         {
           "fixture": "Man Utd v Ipswich",
@@ -958,11 +958,11 @@
       "stake": 0.0,
       "odds": 2.9,
       "boost": "Bet-builder insurance: money back in free bets if it loses (opt-in required)",
-      "conditions": "BINDING: (1) the money-back offer must show for the account after opt-in — no offer, no bet (game stays ruled out on merit); (2) builder must price >= 2.20 and meet the promo's min-odds terms; (3) winner-agnostic legs only — we take no side in a game we called a trap; (4) fills the vacant acca slot's £10. Place before 16:30.",
+      "conditions": "BINDING: (1) the money-back offer must show for the account after opt-in \u2014 no offer, no bet (game stays ruled out on merit); (2) builder must price >= 2.20 and meet the promo's min-odds terms; (3) winner-agnostic legs only \u2014 we take no side in a game we called a trap; (4) fills the vacant acca slot's \u00a310. Place before 16:30.",
       "status": "won",
       "return": 0.0,
       "slip_confirmed": false,
-      "notes": "PAPER WIN (placement never confirmed) — would have returned ~£29 on £10 at ~2.9, with insurance never needed. Fernandes hat-trick. Rule-14 promo exception, era-1's proven pattern (Brentford promo): insurance converts a fair-priced texture bet into +EV. Utd defence lost to Hull; Ipswich scoring both games but conceding. Written before placing."
+      "notes": "PAPER WIN (placement never confirmed) \u2014 would have returned ~\u00a329 on \u00a310 at ~2.9, with insurance never needed. Fernandes hat-trick. Rule-14 promo exception, era-1's proven pattern (Brentford promo): insurance converts a fair-priced texture bet into +EV. Utd defence lost to Hull; Ipswich scoring both games but conceding. Written before placing."
     },
     {
       "id": 26,
@@ -979,7 +979,7 @@
       "status": "no_bet",
       "return": null,
       "slip_confirmed": true,
-      "notes": "CORRECTION 17:00: the morning sweep MISSED Aston Villa v Arsenal (20:00 MNF) — a fixture-verification failure in the opposite direction to the phantom problem; logged as a process miss. Acca slot stays NO BET. Bank holiday NO BET: no verifiable UK card, La Liga sources conflict on dates and offer Real Madrid at ~1.10 only; fewer than 4 verifiable games so the paper 4-fold also skips per its rule. Week 1 review in picks/2026-08-31.md."
+      "notes": "CORRECTION 17:00: the morning sweep MISSED Aston Villa v Arsenal (20:00 MNF) \u2014 a fixture-verification failure in the opposite direction to the phantom problem; logged as a process miss. Acca slot stays NO BET. Bank holiday NO BET: no verifiable UK card, La Liga sources conflict on dates and offer Real Madrid at ~1.10 only; fewer than 4 verifiable games so the paper 4-fold also skips per its rule. Week 1 review in picks/2026-08-31.md."
     },
     {
       "id": 27,
@@ -998,7 +998,7 @@
           "est_prob": 0.47,
           "thesis": "class_gap",
           "result": "lost",
-          "how_settled": "Villa 0-1 Arsenal — won by 1, not 2+"
+          "how_settled": "Villa 0-1 Arsenal \u2014 won by 1, not 2+"
         },
         {
           "fixture": "Aston Villa v Arsenal",
@@ -1025,12 +1025,12 @@
       "planned": true,
       "stake": 0.0,
       "odds": 9.0,
-      "boost": "25% winnings boost available; place with £10 bet credits",
-      "conditions": "UPDATED 18:15 from user's slip: (1) swap 'Winning Margin: exactly 2' for Handicap Arsenal -1 (win by 2+) — the slip's 26.0 is the exact-margin trap, not the recommended build; (2) place with the £10 BET CREDITS (winnings-only ~£80 at ~9.0, zero cash risk) — rule 14's designated use for free bets; (3) apply the 25% winnings boost; (4) Havertz AND Saka both in the ~19:00 starting XI or bet off; (5) till price >= 7.0 after the leg swap; one bet on the game.",
+      "boost": "25% winnings boost available; place with \u00a310 bet credits",
+      "conditions": "UPDATED 18:15 from user's slip: (1) swap 'Winning Margin: exactly 2' for Handicap Arsenal -1 (win by 2+) \u2014 the slip's 26.0 is the exact-margin trap, not the recommended build; (2) place with the \u00a310 BET CREDITS (winnings-only ~\u00a380 at ~9.0, zero cash risk) \u2014 rule 14's designated use for free bets; (3) apply the 25% winnings boost; (4) Havertz AND Saka both in the ~19:00 starting XI or bet off; (5) till price >= 7.0 after the leg swap; one bet on the game.",
       "status": "lost",
       "return": 0.0,
       "slip_confirmed": false,
-      "notes": "PAPER LOST (final placement never confirmed; user's 18:16 slip showed the 2-scorer pair at 7.25 — that version lost too on Havertz; the earlier 26.0 exact-margin slip would also have lost). Saka leg landed. CLV: near-close builder price 7.25 for the scorer pair captured from user's slip; leg-level closing prices unavailable. User-requested fun builder targeting ~£80 win. Honest label: roughly fairly priced entertainment, not an edge bet (joint est ~11-14% vs ~11% implied at 9.0). Story: champions blow out a broken Villa (0 pts, lost 4-0 at Brighton, five out incl. Gomes suspended, three debutants likely incl. a new GK). Both scorers netted in the 3-0 v Coventry."
+      "notes": "PAPER LOST (final placement never confirmed; user's 18:16 slip showed the 2-scorer pair at 7.25 \u2014 that version lost too on Havertz; the earlier 26.0 exact-margin slip would also have lost). Saka leg landed. CLV: near-close builder price 7.25 for the scorer pair captured from user's slip; leg-level closing prices unavailable. User-requested fun builder targeting ~\u00a380 win. Honest label: roughly fairly priced entertainment, not an edge bet (joint est ~11-14% vs ~11% implied at 9.0). Story: champions blow out a broken Villa (0 pts, lost 4-0 at Brighton, five out incl. Gomes suspended, three debutants likely incl. a new GK). Both scorers netted in the 3-0 v Coventry."
     },
     {
       "id": 28,
@@ -1047,7 +1047,7 @@
       "status": "no_bet",
       "return": null,
       "slip_confirmed": true,
-      "notes": "Transfer deadline day, midweek lull before the international break — no verifiable fixtures in any covered league (fewer than 4 researchable games, so the paper 4-fold also skips). Watch instead: deadline-day moves reshape squads; Wednesday-onward cards inherit new team-news risk until XIs settle."
+      "notes": "Transfer deadline day, midweek lull before the international break \u2014 no verifiable fixtures in any covered league (fewer than 4 researchable games, so the paper 4-fold also skips). Watch instead: deadline-day moves reshape squads; Wednesday-onward cards inherit new team-news risk until XIs settle."
     },
     {
       "id": 29,
@@ -1082,6 +1082,114 @@
       "return": null,
       "slip_confirmed": true,
       "notes": "International break: no fixtures verifiable to the two-source standard tonight; qualifiers default to watch-not-bet regardless (draw-heavy, rotation-riddled, thin research). Paper 4-fold skips (fewer than 4 researchable games)."
+    },
+    {
+      "id": 31,
+      "era": 2,
+      "date": "2026-09-04",
+      "type": "builder",
+      "structure": "2-leg winner-agnostic goals builder",
+      "fixture": "Ipswich Town v Liverpool (20:00, Portman Road)",
+      "legs": [
+        {
+          "fixture": "Ipswich Town v Liverpool",
+          "kickoff": "2026-09-04T20:00 UK",
+          "market": "Both Teams to Score",
+          "selection": "Yes",
+          "odds": 1.7,
+          "est_prob": 0.64,
+          "thesis": "texture",
+          "result": null,
+          "how_settled": null,
+          "clv": null
+        },
+        {
+          "fixture": "Ipswich Town v Liverpool",
+          "market": "Total Goals",
+          "selection": "Over 2.5",
+          "odds": 1.57,
+          "est_prob": 0.62,
+          "thesis": "texture",
+          "result": null,
+          "how_settled": null,
+          "clv": null
+        }
+      ],
+      "planned": true,
+      "stake": 10.0,
+      "odds": 2.1,
+      "boost": null,
+      "conditions": "(1) Builder must price >= 2.00 in the till (raw ~2.67; heavy correlation crush expected on BTTS+overs) - below 2.00, skip. (2) One bet on this game, no in-play additions. (3) Place before 20:00 UK. (4) No player legs today - Liverpool XI unsettled (Barcola debut possible, Ekitike/Chiesa/Gomez out).",
+      "status": "recommended",
+      "return": null,
+      "slip_confirmed": false,
+      "notes": "Story: goals both ways at Portman Road, winner-agnostic (the structure that won the Utd-Ipswich paper builder). Every league game either side has played this season hit BTTS AND over 2.5: Liverpool 2-2 Newcastle, 2-2 Forest (winless, leaking); Ipswich 2-1 Sunderland, 2-5 Utd (10 goals in 2). Joint est ~0.52 vs implied 0.50 at the 2.00 floor - thin edge, honest label. Winner-agnostic deliberately sidesteps the Liverpool-at-1.56 value question (est ~0.57 vs implied 0.64 - fails)."
+    },
+    {
+      "id": 32,
+      "era": 2,
+      "date": "2026-09-04",
+      "type": "acca",
+      "structure": "PAPER 4-fold stretch line (experiment day 3)",
+      "legs": [
+        {
+          "fixture": "Ipswich Town v Liverpool",
+          "kickoff": "2026-09-04T20:00 UK",
+          "market": "Match Result",
+          "selection": "Liverpool",
+          "odds": 1.56,
+          "est_prob": 0.57,
+          "thesis": "class_gap",
+          "result": null,
+          "how_settled": null,
+          "clv": null
+        },
+        {
+          "fixture": "PSG v Monaco",
+          "kickoff": "2026-09-04T20:05 UK",
+          "market": "Match Result",
+          "selection": "PSG",
+          "odds": 1.51,
+          "est_prob": 0.53,
+          "thesis": "class_gap",
+          "result": null,
+          "how_settled": null,
+          "clv": null
+        },
+        {
+          "fixture": "Real Betis v Real Madrid",
+          "kickoff": "2026-09-04T20:00 UK",
+          "market": "Match Result",
+          "selection": "Real Madrid",
+          "odds": 1.44,
+          "est_prob": 0.67,
+          "thesis": "form",
+          "result": null,
+          "how_settled": null,
+          "clv": null
+        },
+        {
+          "fixture": "Stuttgart v Cologne",
+          "kickoff": "2026-09-04T19:30 UK",
+          "market": "Match Result",
+          "selection": "Stuttgart",
+          "odds": 1.55,
+          "est_prob": 0.55,
+          "thesis": "class_gap",
+          "result": null,
+          "how_settled": null,
+          "clv": null
+        }
+      ],
+      "planned": true,
+      "stake": 0.0,
+      "odds": 5.26,
+      "boost": null,
+      "conditions": "PAPER ONLY - never live money without a written rule change. Settled nightly like any bet.",
+      "status": "recommended",
+      "return": null,
+      "slip_confirmed": false,
+      "notes": "Experiment day 3 (record 1-1). Four Friday-night favourites; by our estimates ALL FOUR fail the value test (PSG the worst: est 0.53 vs implied 0.66 - Monaco did the double over them last season incl. 3-1 at the Parc, and have won all 4 this term while PSG are winless). That is what the experiment measures. Would-be return at full product: ~5.26."
     }
   ]
 }

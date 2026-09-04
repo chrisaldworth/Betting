@@ -1099,9 +1099,9 @@
           "odds": 1.7,
           "est_prob": 0.64,
           "thesis": "texture",
-          "result": null,
-          "how_settled": null,
-          "clv": null
+          "result": "lost",
+          "how_settled": "Ipswich 0-2 Liverpool - Ipswich blanked, BTTS No",
+          "clv": 1.55
         },
         {
           "fixture": "Ipswich Town v Liverpool",
@@ -1110,20 +1110,20 @@
           "odds": 1.57,
           "est_prob": 0.62,
           "thesis": "texture",
-          "result": null,
-          "how_settled": null,
+          "result": "lost",
+          "how_settled": "Ipswich 0-2 Liverpool - 2 goals, under 2.5",
           "clv": null
         }
       ],
       "planned": true,
-      "stake": 10.0,
+      "stake": 0.0,
       "odds": 2.1,
       "boost": null,
       "conditions": "(1) Builder must price >= 2.00 in the till (raw ~2.67; heavy correlation crush expected on BTTS+overs) - below 2.00, skip. (2) One bet on this game, no in-play additions. (3) Place before 20:00 UK. (4) No player legs today - Liverpool XI unsettled (Barcola debut possible, Ekitike/Chiesa/Gomez out).",
-      "status": "recommended",
-      "return": null,
+      "status": "lost",
+      "return": 0.0,
       "slip_confirmed": false,
-      "notes": "Story: goals both ways at Portman Road, winner-agnostic (the structure that won the Utd-Ipswich paper builder). Every league game either side has played this season hit BTTS AND over 2.5: Liverpool 2-2 Newcastle, 2-2 Forest (winless, leaking); Ipswich 2-1 Sunderland, 2-5 Utd (10 goals in 2). Joint est ~0.52 vs implied 0.50 at the 2.00 floor - thin edge, honest label. Winner-agnostic deliberately sidesteps the Liverpool-at-1.56 value question (est ~0.57 vs implied 0.64 - fails)."
+      "notes": "Story: goals both ways at Portman Road, winner-agnostic (the structure that won the Utd-Ipswich paper builder). Every league game either side has played this season hit BTTS AND over 2.5: Liverpool 2-2 Newcastle, 2-2 Forest (winless, leaking); Ipswich 2-1 Sunderland, 2-5 Utd (10 goals in 2). Joint est ~0.52 vs implied 0.50 at the 2.00 floor - thin edge, honest label. Winner-agnostic deliberately sidesteps the Liverpool-at-1.56 value question (est ~0.57 vs implied 0.64 - fails). SETTLED: PAPER LOST (no slip confirmed) - Ipswich 0-2 Liverpool (Isak both goals; Iraola's first win). The 4/4 BTTS+O2.5 streak broke on night five: the leakiest defence in the sample kept its first clean sheet. IMPORTANT: the BTTS+O2.5 combo closed ~1.85 across books, BELOW the 2.00 floor - the written price condition would most likely have fired this bet OFF at the till. Scored as a paper loss anyway (no bet365 till price to prove the skip); either way \u00a30 changed hands. CLV: BTTS closed ~1.55 vs our 1.70 morning mark."
     },
     {
       "id": 32,
@@ -1140,8 +1140,8 @@
           "odds": 1.56,
           "est_prob": 0.57,
           "thesis": "class_gap",
-          "result": null,
-          "how_settled": null,
+          "result": "won",
+          "how_settled": "Ipswich 0-2 Liverpool (Isak x2)",
           "clv": null
         },
         {
@@ -1152,9 +1152,9 @@
           "odds": 1.51,
           "est_prob": 0.53,
           "thesis": "class_gap",
-          "result": null,
-          "how_settled": null,
-          "clv": null
+          "result": "lost",
+          "how_settled": "PSG 1-2 Monaco - Marquinhos 31, Nazinho + Idumbo 2nd half; Monaco 3rd straight win",
+          "clv": 1.4
         },
         {
           "fixture": "Real Betis v Real Madrid",
@@ -1164,8 +1164,8 @@
           "odds": 1.44,
           "est_prob": 0.67,
           "thesis": "form",
-          "result": null,
-          "how_settled": null,
+          "result": "lost",
+          "how_settled": "Betis 1-0 Real Madrid - Parrott 81; Mbappe missed stoppage-time penalty",
           "clv": null
         },
         {
@@ -1176,8 +1176,8 @@
           "odds": 1.55,
           "est_prob": 0.55,
           "thesis": "class_gap",
-          "result": null,
-          "how_settled": null,
+          "result": "won",
+          "how_settled": "Stuttgart 4-1 Cologne - El Khannouss, Proemel, Demirovic, Vagnoman",
           "clv": null
         }
       ],
@@ -1186,10 +1186,10 @@
       "odds": 5.26,
       "boost": null,
       "conditions": "PAPER ONLY - never live money without a written rule change. Settled nightly like any bet.",
-      "status": "recommended",
-      "return": null,
+      "status": "lost",
+      "return": 0.0,
       "slip_confirmed": false,
-      "notes": "Experiment day 3 (record 1-1). Four Friday-night favourites; by our estimates ALL FOUR fail the value test (PSG the worst: est 0.53 vs implied 0.66 - Monaco did the double over them last season incl. 3-1 at the Parc, and have won all 4 this term while PSG are winless). That is what the experiment measures. Would-be return at full product: ~5.26."
+      "notes": "Experiment day 3 (record 1-1). Four Friday-night favourites; by our estimates ALL FOUR fail the value test (PSG the worst: est 0.53 vs implied 0.66 - Monaco did the double over them last season incl. 3-1 at the Parc, and have won all 4 this term while PSG are winless). That is what the experiment measures. Would-be return at full product: ~5.26. SETTLED: PAPER LOST (2 of 4 legs down) - record now 1-2. Calibration night for the favourite-pessimism watch item: we called all four favourites overpriced and two LOST OUTRIGHT (PSG, Madrid). The PSG trap call was explicitly RIGHT (first correct one, now 1-for-3). Observed favourite strike rate 2/4 = 50% vs market-implied avg ~66% vs our est avg ~58%."
     }
   ]
 }

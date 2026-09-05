@@ -8,14 +8,6 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 
 **Staking:** Ceilings, not quotas: up to £10/day on the recommended acca + up to £10/day on the recommended builder. NO BET days stake £0. No bets outside the daily card. Circuit breaker: pause + written review at era P/L of -£100.
 
-### Open / pending
-
-| # | Date | Bet | Type | Stake | Odds | Status | Conditions |
-|---|------|-----|------|-------|------|--------|------------|
-| 33 | 2026-09-05 | Newcastle (Match Result) + Nottingham Forest (Match Result) | acca | £10.00 | 5.3 | 📝 RECOMMENDED | (1) Place before 12:30 UK (Newcastle kicks off lunchtime). (2) Use bet365's Early Payout / 2 Goals Ahead market where priced equal. (3) Combined price must be >= 4.80. (4) No third leg added on the day. |
-| 34 | 2026-09-05 | Hull or Draw (Double Chance) + Under 2.5 (Total Goals) | builder | £10.00 | 2.6 | 📝 RECOMMENDED | (1) Builder must price >= 2.20 in the till - below that, skip. (2) One bet on this game; no in-play additions. (3) Place before 17:30 UK. (4) If Villa's team news (~16:30) shows Abraham starting AND two of Onana/Bailey/Manzambi back, the crisis premise thins - bet off. |
-| 35 | 2026-09-05 | Man City (Match Result) + West Ham (Match Result) + Newcastle (Match Result) + Nottingham Forest (Match Result) | acca | £0.00 | 10.2 | 📝 RECOMMENDED | PAPER ONLY - never live money without a written rule change. Settled nightly like any bet. |
-
 ### Settled
 
 | # | Date | Bet | Type | Stake | Odds | Result | Return | P/L | Running |
@@ -30,17 +22,20 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 | 27 | 2026-08-31 | Arsenal -1 (Handicap Result -1) ✗ + Kai Havertz (Anytime Scorer) ✗ + Bukayo Saka (Anytime Scorer) ✓ | builder | £0.00 | 9.0 | ❌ LOST | £0.00 | £0.00 | £0.00 |
 | 31 | 2026-09-04 | Yes (Both Teams to Score) ✗ + Over 2.5 (Total Goals) ✗ | builder | £0.00 | 2.1 | ❌ LOST | £0.00 | £0.00 | £0.00 |
 | 32 | 2026-09-04 | Liverpool (Match Result) ✓ + PSG (Match Result) ✗ + Real Madrid (Match Result) ✗ + Stuttgart (Match Result) ✓ | acca | £0.00 | 5.26 | ❌ LOST | £0.00 | £0.00 | £0.00 |
+| 33 | 2026-09-05 | Newcastle (Match Result) ✗ + Nottingham Forest (Match Result) ✗ | acca | £0.00 | 5.3 | ❌ LOST | £0.00 | £0.00 | £0.00 |
+| 34 | 2026-09-05 | Hull or Draw (Double Chance) ✓ + Under 2.5 (Total Goals) ✓ | builder | £0.00 | 2.6 | ✅ WON | £0.00 | £0.00 | £0.00 |
+| 35 | 2026-09-05 | Man City (Match Result) ✓ + West Ham (Match Result) ✓ + Newcastle (Match Result) ✗ + Nottingham Forest (Match Result) ✗ | acca | £0.00 | 10.2 | ❌ LOST | £0.00 | £0.00 | £0.00 |
 
 **Era 2 settled totals: staked £0.00 · returned £0.00 · net £0.00**
 
 | Category | Bets | Staked | Returned | Net |
 |----------|------|--------|----------|-----|
-| Planned, researched | 10 | £0.00 | £0.00 | **£0.00** |
+| Planned, researched | 13 | £0.00 | £0.00 | **£0.00** |
 
 | Structure | Bets | Net |
 |-----------|------|-----|
-| acca | 5 | £0.00 |
-| builder | 4 | £0.00 |
+| acca | 7 | £0.00 |
+| builder | 5 | £0.00 |
 | single | 1 | £0.00 |
 
 ### No-bet days (discipline log)

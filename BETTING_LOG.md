@@ -8,6 +8,13 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 
 **Staking:** Ceilings, not quotas: up to £10/day on the recommended acca + up to £10/day on the recommended builder. NO BET days stake £0. No bets outside the daily card. Circuit breaker: pause + written review at era P/L of -£100.
 
+### Open / pending
+
+| # | Date | Bet | Type | Stake | Odds | Status | Conditions |
+|---|------|-----|------|-------|------|--------|------------|
+| 36 | 2026-09-06 | Arsenal (Match Result) + Hearts (Match Result) | acca | £10.00 | 2.89 | 📝 RECOMMENDED | (1) Place before 15:00 UK (Hearts kicks off first). (2) Prefer Early Payout versions at equal price. (3) Combined price >= 2.70. (4) No third leg. (5) If Caicedo is passed FIT in Chelsea's XI (~15:30 team news unavailable before Hearts KO - so decide on the morning info), note it but the bet stands; the Arsenal case does not rest solely on his absence. |
+| 37 | 2026-09-06 | Arsenal (Match Result) + Hearts (Match Result) + Man Utd (Match Result) + Wolves (Match Result) | acca | £0.00 | 15.26 | 📝 RECOMMENDED | PAPER ONLY - never live money without a written rule change. Settled nightly like any bet. |
+
 ### Settled
 
 | # | Date | Bet | Type | Stake | Odds | Result | Return | P/L | Running |

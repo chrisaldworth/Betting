@@ -1448,6 +1448,23 @@
       "return": 0.0,
       "slip_confirmed": false,
       "notes": "Experiment day 5 (record 1-3). The disciplined double plus the two marginal legs the value test rejects (Utd est 0.41 vs implied 0.45 - coin-flip game; Wolves est 0.43 vs 0.42 at a derby, 2nd in table, 4 wins in 5). SETTLED: PAPER LOST - record 1-4. A perfect calibration day: both accepted legs WON, both value-test-rejected legs DREW (Utd killed by a 96th-minute equaliser). Five days in, the disciplined card is beating the stretch line on exactly the mechanism predicted: marginal legs fail ~60% of the time and one of four is usually marginal."
+    },
+    {
+      "id": 38,
+      "era": 2,
+      "date": "2026-09-07",
+      "type": "acca",
+      "structure": "no-bet day (both slots; no paper 4-fold)",
+      "legs": [],
+      "planned": true,
+      "stake": 0.0,
+      "odds": null,
+      "boost": null,
+      "conditions": null,
+      "status": "no_bet",
+      "return": null,
+      "slip_confirmed": true,
+      "notes": "Monday lull: no UK top-flight card; the continental games (Udinese-Lazio, Elche-Sociedad, Getafe-Celta) have only single-source scraps, below the research standard for money. One watch-list note: Udinese 2.80 at home to a Lazio on three straight defeats - a form angle, not a bet, at our depth. Fewer than four researchable games -> paper 4-fold skips per its rule. Week 2 review published today (see picks/2026-09-07.md)."
     }
   ]
 }

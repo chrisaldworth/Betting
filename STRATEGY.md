@@ -16,7 +16,7 @@ Living document — update after each settled bet with what worked, what didn't,
 1. **Research before price.** Form the view first (form, team news, motivation, venue trends), then compare to the odds. Only bet when our estimated probability beats the implied probability.
 2. **Prefer one deeply-researched game over many shallow legs.** The bet-builder-on-one-game structure (result + scorer + game state, all telling the same story) is our best performer. Correlated legs in one narrative > uncorrelated "bankers".
 3. **Max 3 legs in any acca.** Every leg compounds ~5% bookmaker margin and multiplies failure ways. Three ~70% legs is only a ~34% bet — accas of favourites are less safe than they feel.
-4. **Draws kill accas.** For any leg priced above ~1.45, consider draw-no-bet or −0.5 Asian handicap instead of the straight win, and accept the lower price.
+4. **Draws kill accas.** For any leg priced above ~1.45, consider draw-no-bet or −0.5 Asian handicap instead of the straight win, and accept the lower price. *(v2, 7 Sep 2026: on any match-result leg at odds ≥ 2.00 this is no longer optional — the day's card must state the DNB/double-chance price and justify the straight win over it in writing. Adopted after 5 Sep, when both 2.0+ acca legs drew and DNB would have voided the bet and returned the stake.)*
 5. **No opening-day/opening-week "form" reads in the top leagues.** Early-season form is noise; class gaps (promoted side vs established side, cup minnow vs giant) are signal.
 6. **Trap check before every bet:** is the favourite priced on reputation rather than current reality? (Rangers 4/11 while winless vs in-form St Mirren was the template trap. When market hesitation appears on a "banker" — like PSV at 1.60 — listen to it.)
 7. **Team-sheet condition on any player leg.** If the named player isn't starting, the bet is off. No substituting a different player on the fly at the counter/app.
@@ -44,6 +44,10 @@ Living document — update after each settled bet with what worked, what didn't,
 | Promoted side's first top-flight home game is a trap for away favourites | Elversberg 3-2 Leverkusen (2-0 inside 10 min) | Low (n=1) — watch, don't rule yet |
 | Our trap-check may be over-pessimistic on favourites | Both week-1 trap calls wrong: Utd won 5-2 (est 62 vs 70), Chelsea won 4-3 (est 46 vs 54); all three "no value" 4-fold legs won | Low (n=5) — week 2's key calibration question |
 | Class-gap legs remain the most reliable leg type | 5/7 landed in week 1 era 2 (fails: Elversberg trap, — ) | Low-medium, consistent with era 1 |
+| Trap calls work when backed by concrete crisis markers, not mere reputation-vs-price | Week 2: PSG fade ✓ (H2H double, winless), Villa fade ✓ (0 goals, 0 pts, absences) after week 1's 0-for-2 on vibe-only calls — 2-for-4 overall | Low-medium (n=4) — the mechanism hypothesis, not proof |
+| Draws, not defeats, are the main killer of 2.0+ match-result legs | 5 Sep: both acca legs drew (2-2, 0-0); DNB would have voided both. 6 Sep: both rejected marginal legs also drew | Medium — consistent with base rates (~25% draws); rule 4 v2 adopted |
+| Winner-agnostic / fade builders beat favourite-must-win builds | Era 2: Utd-Ipswich (paper) ✓, Hull DC+U2.5 ✓ = 2-0; favourite-anchored builds (Chelsea-Luton, Ipswich-Liverpool goals, Villa fun) 0-3 | Low (n=5) — but consistent with the correlation-crush pricing evidence |
+| The value test separates winners from non-winners | 6 Sep: accepted legs 2/2 won, rejected legs 0/2 (both drew) — a perfect separation day | Low (n=1 day) — watch across weeks |
 
 Update this table as the sample grows. Nothing above is proven at n=3 — treat every insight as a hypothesis.
 

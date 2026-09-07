@@ -50,6 +50,7 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 - **2026-09-01** — Transfer deadline day, midweek lull before the international break — no verifiable fixtures in any covered league (fewer than 4 researchable games, so the paper 4-fold also skips). Watch instead: deadline-day moves reshape squads; Wednesday-onward cards inherit new team-news risk until XIs settle.
 - **2026-09-02** — International-break lull: no verifiable club card in any covered league; anything on is EFL Trophy-grade, auto-excluded per era-1 precedent (nothing researchable, nothing bet). Fewer than 4 researchable games -> paper 4-fold skips.
 - **2026-09-03** — International break: no fixtures verifiable to the two-source standard tonight; qualifiers default to watch-not-bet regardless (draw-heavy, rotation-riddled, thin research). Paper 4-fold skips (fewer than 4 researchable games).
+- **2026-09-07** — Monday lull: no UK top-flight card; the continental games (Udinese-Lazio, Elche-Sociedad, Getafe-Celta) have only single-source scraps, below the research standard for money. One watch-list note: Udinese 2.80 at home to a Lazio on three straight defeats - a form angle, not a bet, at our depth. Fewer than four researchable games -> paper 4-fold skips per its rule. Week 2 review published today (see picks/2026-09-07.md).
 
 ## Era 1: Weekly-cap era (2026-08-15 → 2026-08-24)
 

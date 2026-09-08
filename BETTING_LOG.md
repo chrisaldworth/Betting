@@ -8,6 +8,13 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 
 **Staking:** Ceilings, not quotas: up to £10/day on the recommended acca + up to £10/day on the recommended builder. NO BET days stake £0. No bets outside the daily card. Circuit breaker: pause + written review at era P/L of -£100.
 
+### Open / pending
+
+| # | Date | Bet | Type | Stake | Odds | Status | Conditions |
+|---|------|-----|------|-------|------|--------|------------|
+| 39 | 2026-09-08 | Club Brugge (Match Result) | single | £10.00 | 2.7 | 📝 RECOMMENDED | (1) Place before 17:45 UK. (2) Odds must still be >= 2.50 at placement - a crash below means the market got there first. (3) No second leg bolted on. (4) Rule 4 v2 DNB comparison (written): Brugge DNB ~1.90 (our est 55.5% vs implied ~52.6%) also passes; straight win chosen because our draw est (28%) matches the market's (29%) - no draw premium to dodge - and the payout asymmetry favours straight at equal edge. Taking DNB instead is a legitimate lower-variance alternative. |
+| 40 | 2026-09-08 | Club Brugge (Match Result) + Man City (Match Result) + Real Madrid (Match Result) + West Ham (Match Result) | acca | £0.00 | 12.33 | 📝 RECOMMENDED | PAPER ONLY - never live money without a written rule change. Settled nightly like any bet. West Ham odds approximate (midweek Championship, single-source). |
+
 ### Settled
 
 | # | Date | Bet | Type | Stake | Odds | Result | Return | P/L | Running |

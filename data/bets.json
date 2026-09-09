@@ -1579,20 +1579,20 @@
           "odds": 1.88,
           "est_prob": 0.56,
           "thesis": "form",
-          "result": null,
-          "how_settled": null,
-          "clv": null
+          "result": "won",
+          "how_settled": "Napoli 0-1 Arsenal - Odegaard 75, off the post from the edge of the box",
+          "clv": 1.75
         }
       ],
       "planned": true,
-      "stake": 10.0,
+      "stake": 0.0,
       "odds": 1.88,
       "boost": null,
       "conditions": "(1) Place before 20:00 UK. (2) Odds >= 1.75 at placement. (3) One bet on this game (rule 12) - no builder add-ons; an Arsenal-win+U3.5 builder was considered and rejected: crush leaves ~1.5pt edge vs the single's ~3pts, and adds a failure mode. (4) Below-2.00 leg so rule 4 v2 is not triggered; noted anyway: Arsenal DNB ~1.40 kills the payout for little insurance at this est gap.",
-      "status": "recommended",
-      "return": null,
+      "status": "won",
+      "return": 0.0,
       "slip_confirmed": false,
-      "notes": "Arsenal at 1.88 away to a struggling Napoli passes cleanly (est 0.56 vs implied 0.53). Arsenal: perfect start incl. City (Community Shield) and Chelsea, only Saliba missing. Napoli: 12th in Serie A, two straight defeats (blew 2-0 v Inter to lose 3-2), McTominay out after heart surgery. Counterweights priced in: away in Naples is hostile; U2.5 in Arsenal's last 7 CL games suggests a tight margin, and a tight game raises draw risk (draw ~3.8). NOT stacked with yesterday's lesson-reaction: this is a back of an in-form side with a real gap, not a crisis fade."
+      "notes": "Arsenal at 1.88 away to a struggling Napoli passes cleanly (est 0.56 vs implied 0.53). Arsenal: perfect start incl. City (Community Shield) and Chelsea, only Saliba missing. Napoli: 12th in Serie A, two straight defeats (blew 2-0 v Inter to lose 3-2), McTominay out after heart surgery. Counterweights priced in: away in Naples is hostile; U2.5 in Arsenal's last 7 CL games suggests a tight margin, and a tight game raises draw risk (draw ~3.8). NOT stacked with yesterday's lesson-reaction: this is a back of an in-form side with a real gap, not a crisis fade. SETTLED: PAPER WON (no slip confirmed - would-have-been +\u00a38.80 on \u00a310 at 1.88). The tight-game read was exact: U2.5 held for an 8th straight Arsenal CL game, and the 0.56 est was honest (one goal in it, 75th minute). CLV: closed ~1.75 consensus (bet365 1.70) vs our 1.88 morning price - POSITIVE ~7%, the clearest CLV win yet; the market moved hard toward the leg we took. IF YOU PLACED THIS, send the slip."
     },
     {
       "id": 42,
@@ -1609,9 +1609,9 @@
           "odds": 1.88,
           "est_prob": 0.56,
           "thesis": "form",
-          "result": null,
-          "how_settled": null,
-          "clv": null
+          "result": "won",
+          "how_settled": "Napoli 0-1 Arsenal",
+          "clv": 1.75
         },
         {
           "fixture": "Liverpool v Atletico Madrid",
@@ -1621,8 +1621,8 @@
           "odds": 1.75,
           "est_prob": 0.51,
           "thesis": "form",
-          "result": null,
-          "how_settled": null,
+          "result": "won",
+          "how_settled": "Liverpool 2-1 Atletico",
           "clv": null
         },
         {
@@ -1633,8 +1633,8 @@
           "odds": 1.3,
           "est_prob": 0.72,
           "thesis": "class_gap",
-          "result": null,
-          "how_settled": null,
+          "result": "won",
+          "how_settled": "Barcelona 5-1 Feyenoord",
           "clv": null
         },
         {
@@ -1645,8 +1645,8 @@
           "odds": 1.45,
           "est_prob": 0.65,
           "thesis": "class_gap",
-          "result": null,
-          "how_settled": null,
+          "result": "won",
+          "how_settled": "St Johnstone 0-1 Celtic",
           "clv": null
         }
       ],
@@ -1655,10 +1655,10 @@
       "odds": 6.2,
       "boost": null,
       "conditions": "PAPER ONLY - never live money without a written rule change. Settled nightly like any bet. Barcelona/Celtic odds approximate (single-source).",
-      "status": "recommended",
-      "return": null,
+      "status": "won",
+      "return": 0.0,
       "slip_confirmed": false,
-      "notes": "Experiment day 7 (record 1-5). The value single plus three legs that fail the value test: Liverpool 1.75 (est 0.51 vs 0.57 - Bradley/Leoni out, Atletico decent), Barcelona 1.30 (est 0.72 vs 0.77), Celtic 1.45 away (est 0.65 vs 0.69). Rangers v St Mirren deliberately excluded from everything - the literal era-1 template trap fixture."
+      "notes": "Experiment day 7 (record 1-5). The value single plus three legs that fail the value test: Liverpool 1.75 (est 0.51 vs 0.57 - Bradley/Leoni out, Atletico decent), Barcelona 1.30 (est 0.72 vs 0.77), Celtic 1.45 away (est 0.65 vs 0.69). Rangers v St Mirren deliberately excluded from everything - the literal era-1 template trap fixture. SETTLED: PAPER WON at ~6.20 - all four legs landed. Record 2-6... no: 2-5. Would-have-been +\u00a352. Bookkeeping correction: the cumulative would-be line quoted '+\u00a370.30 after five days' in the week-2 review was the after-day-4 figure; correct series: day1 -10, day2 +100.30, days 3-6 -10 each, day7 +52 => +\u00a3102.30 cumulative. Still: two hits carry everything; 5 of 7 days lose."
     }
   ]
 }

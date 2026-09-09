@@ -8,13 +8,6 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 
 **Staking:** Ceilings, not quotas: up to £10/day on the recommended acca + up to £10/day on the recommended builder. NO BET days stake £0. No bets outside the daily card. Circuit breaker: pause + written review at era P/L of -£100.
 
-### Open / pending
-
-| # | Date | Bet | Type | Stake | Odds | Status | Conditions |
-|---|------|-----|------|-------|------|--------|------------|
-| 41 | 2026-09-09 | Arsenal (Match Result) | single | £10.00 | 1.88 | 📝 RECOMMENDED | (1) Place before 20:00 UK. (2) Odds >= 1.75 at placement. (3) One bet on this game (rule 12) - no builder add-ons; an Arsenal-win+U3.5 builder was considered and rejected: crush leaves ~1.5pt edge vs the single's ~3pts, and adds a failure mode. (4) Below-2.00 leg so rule 4 v2 is not triggered; noted anyway: Arsenal DNB ~1.40 kills the payout for little insurance at this est gap. |
-| 42 | 2026-09-09 | Arsenal (Match Result) + Liverpool (Match Result) + Barcelona (Match Result) + Celtic (Match Result) | acca | £0.00 | 6.2 | 📝 RECOMMENDED | PAPER ONLY - never live money without a written rule change. Settled nightly like any bet. Barcelona/Celtic odds approximate (single-source). |
-
 ### Settled
 
 | # | Date | Bet | Type | Stake | Odds | Result | Return | P/L | Running |
@@ -36,18 +29,20 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 | 37 | 2026-09-06 | Arsenal (Match Result) ✓ + Hearts (Match Result) ✓ + Man Utd (Match Result) ✗ + Wolves (Match Result) ✗ | acca | £0.00 | 15.26 | ❌ LOST | £0.00 | £0.00 | £0.00 |
 | 39 | 2026-09-08 | Club Brugge (Match Result) ✗ | single | £0.00 | 2.7 | ❌ LOST | £0.00 | £0.00 | £0.00 |
 | 40 | 2026-09-08 | Club Brugge (Match Result) ✗ + Man City (Match Result) ✓ + Real Madrid (Match Result) ✓ + West Ham (Match Result) ✓ | acca | £0.00 | 12.33 | ❌ LOST | £0.00 | £0.00 | £0.00 |
+| 41 | 2026-09-09 | Arsenal (Match Result) ✓ | single | £0.00 | 1.88 | ✅ WON | £0.00 | £0.00 | £0.00 |
+| 42 | 2026-09-09 | Arsenal (Match Result) ✓ + Liverpool (Match Result) ✓ + Barcelona (Match Result) ✓ + Celtic (Match Result) ✓ | acca | £0.00 | 6.2 | ✅ WON | £0.00 | £0.00 | £0.00 |
 
 **Era 2 settled totals: staked £0.00 · returned £0.00 · net £0.00**
 
 | Category | Bets | Staked | Returned | Net |
 |----------|------|--------|----------|-----|
-| Planned, researched | 17 | £0.00 | £0.00 | **£0.00** |
+| Planned, researched | 19 | £0.00 | £0.00 | **£0.00** |
 
 | Structure | Bets | Net |
 |-----------|------|-----|
-| acca | 10 | £0.00 |
+| acca | 11 | £0.00 |
 | builder | 5 | £0.00 |
-| single | 2 | £0.00 |
+| single | 3 | £0.00 |
 
 ### No-bet days (discipline log)
 

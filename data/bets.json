@@ -1659,6 +1659,89 @@
       "return": 0.0,
       "slip_confirmed": false,
       "notes": "Experiment day 7 (record 1-5). The value single plus three legs that fail the value test: Liverpool 1.75 (est 0.51 vs 0.57 - Bradley/Leoni out, Atletico decent), Barcelona 1.30 (est 0.72 vs 0.77), Celtic 1.45 away (est 0.65 vs 0.69). Rangers v St Mirren deliberately excluded from everything - the literal era-1 template trap fixture. SETTLED: PAPER WON at ~6.20 - all four legs landed. Record 2-6... no: 2-5. Would-have-been +\u00a352. Bookkeeping correction: the cumulative would-be line quoted '+\u00a370.30 after five days' in the week-2 review was the after-day-4 figure; correct series: day1 -10, day2 +100.30, days 3-6 -10 each, day7 +52 => +\u00a3102.30 cumulative. Still: two hits carry everything; 5 of 7 days lose."
+    },
+    {
+      "id": 43,
+      "era": 2,
+      "date": "2026-09-10",
+      "type": "acca",
+      "structure": "no-bet day (both slots)",
+      "legs": [],
+      "planned": true,
+      "stake": 0.0,
+      "odds": null,
+      "boost": null,
+      "conditions": null,
+      "status": "no_bet",
+      "return": null,
+      "slip_confirmed": true,
+      "notes": "CL final wave + League One only. Man Utd 1.13 v Sabah is unbettable straight and every derivative fails: -1.5 at ~1.62 implied 62% vs our est ~55% (SIX injuries, conceded 2 in each league game); over 3.5 thin-neutral. Como v Leipzig looked interesting (CL debut, 8 unbeaten, Leipzig lost 3-1 to Werder) but sources gave CONTRADICTORY odds (Como -116 vs Como 4.07) - unverifiable price = unbettable, logged as the day's lesson. Roma 2.15 at hostile Fenerbahce and PSV 1.40 both fail. Ceilings, not quotas."
+    },
+    {
+      "id": 44,
+      "era": 2,
+      "date": "2026-09-10",
+      "type": "acca",
+      "structure": "PAPER 4-fold stretch line (experiment day 8)",
+      "legs": [
+        {
+          "fixture": "Man Utd v Sabah",
+          "kickoff": "2026-09-10T20:00 UK",
+          "market": "Match Result",
+          "selection": "Man Utd",
+          "odds": 1.13,
+          "est_prob": 0.83,
+          "thesis": "class_gap",
+          "result": null,
+          "how_settled": null,
+          "clv": null
+        },
+        {
+          "fixture": "Bayern Munich v Bodo/Glimt",
+          "kickoff": "2026-09-10T20:00 UK",
+          "market": "Match Result",
+          "selection": "Bayern Munich",
+          "odds": 1.12,
+          "est_prob": 0.84,
+          "thesis": "class_gap",
+          "result": null,
+          "how_settled": null,
+          "clv": null
+        },
+        {
+          "fixture": "PSV v Shakhtar",
+          "kickoff": "2026-09-10T17:45 UK",
+          "market": "Match Result",
+          "selection": "PSV",
+          "odds": 1.4,
+          "est_prob": 0.65,
+          "thesis": "class_gap",
+          "result": null,
+          "how_settled": null,
+          "clv": null
+        },
+        {
+          "fixture": "Fenerbahce v Roma",
+          "kickoff": "2026-09-10T17:45 UK",
+          "market": "Match Result",
+          "selection": "Roma",
+          "odds": 2.15,
+          "est_prob": 0.43,
+          "thesis": "form",
+          "result": null,
+          "how_settled": null,
+          "clv": null
+        }
+      ],
+      "planned": true,
+      "stake": 0.0,
+      "odds": 3.81,
+      "boost": null,
+      "conditions": "PAPER ONLY - never live money without a written rule change. Settled nightly like any bet. Odds approximate from previews.",
+      "status": "recommended",
+      "return": null,
+      "slip_confirmed": false,
+      "notes": "Experiment day 8 (record 2-5). All four legs fail the value test today (Utd 0.83 vs 0.88 implied; Bayern 0.84 vs 0.89; PSV 0.65 vs 0.71 - the era-1 PSV-wobble precedent; Roma 0.43 vs 0.465 at hostile Fenerbahce)."
     }
   ]
 }

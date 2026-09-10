@@ -1692,8 +1692,8 @@
           "odds": 1.13,
           "est_prob": 0.83,
           "thesis": "class_gap",
-          "result": null,
-          "how_settled": null,
+          "result": "won",
+          "how_settled": "Man Utd 4-0 Sabah",
           "clv": null
         },
         {
@@ -1704,8 +1704,8 @@
           "odds": 1.12,
           "est_prob": 0.84,
           "thesis": "class_gap",
-          "result": null,
-          "how_settled": null,
+          "result": "won",
+          "how_settled": "Bayern 5-0 Bodo/Glimt",
           "clv": null
         },
         {
@@ -1716,8 +1716,8 @@
           "odds": 1.4,
           "est_prob": 0.65,
           "thesis": "class_gap",
-          "result": null,
-          "how_settled": null,
+          "result": "lost",
+          "how_settled": "PSV 1-1 Shakhtar - Dest equaliser, held at home",
           "clv": null
         },
         {
@@ -1728,8 +1728,8 @@
           "odds": 2.15,
           "est_prob": 0.43,
           "thesis": "form",
-          "result": null,
-          "how_settled": null,
+          "result": "lost",
+          "how_settled": "Fenerbahce 1-1 Roma - Ake hit the bar late",
           "clv": null
         }
       ],
@@ -1738,10 +1738,10 @@
       "odds": 3.81,
       "boost": null,
       "conditions": "PAPER ONLY - never live money without a written rule change. Settled nightly like any bet. Odds approximate from previews.",
-      "status": "recommended",
-      "return": null,
+      "status": "lost",
+      "return": 0.0,
       "slip_confirmed": false,
-      "notes": "Experiment day 8 (record 2-5). All four legs fail the value test today (Utd 0.83 vs 0.88 implied; Bayern 0.84 vs 0.89; PSV 0.65 vs 0.71 - the era-1 PSV-wobble precedent; Roma 0.43 vs 0.465 at hostile Fenerbahce)."
+      "notes": "Experiment day 8 (record 2-5). All four legs fail the value test today (Utd 0.83 vs 0.88 implied; Bayern 0.84 vs 0.89; PSV 0.65 vs 0.71 - the era-1 PSV-wobble precedent; Roma 0.43 vs 0.465 at hostile Fenerbahce). SETTLED: PAPER LOST - record 2-6. The two giant favourites cruised (4-0, 5-0); the two shorter-value legs both DREW - PSV held at home AGAIN (the era-1 wobble precedent now has a second data point at n=2) and Roma drew in Istanbul exactly as the hostile-away read suggested. Both rejected-leg draws validate the value test's rejections. Cumulative would-be: +\u00a392.30 (down \u00a310)."
     }
   ]
 }

@@ -8,12 +8,6 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 
 **Staking:** Ceilings, not quotas: up to £10/day on the recommended acca + up to £10/day on the recommended builder. NO BET days stake £0. No bets outside the daily card. Circuit breaker: pause + written review at era P/L of -£100.
 
-### Open / pending
-
-| # | Date | Bet | Type | Stake | Odds | Status | Conditions |
-|---|------|-----|------|-------|------|--------|------------|
-| 44 | 2026-09-10 | Man Utd (Match Result) + Bayern Munich (Match Result) + PSV (Match Result) + Roma (Match Result) | acca | £0.00 | 3.81 | 📝 RECOMMENDED | PAPER ONLY - never live money without a written rule change. Settled nightly like any bet. Odds approximate from previews. |
-
 ### Settled
 
 | # | Date | Bet | Type | Stake | Odds | Result | Return | P/L | Running |
@@ -37,16 +31,17 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 | 40 | 2026-09-08 | Club Brugge (Match Result) ✗ + Man City (Match Result) ✓ + Real Madrid (Match Result) ✓ + West Ham (Match Result) ✓ | acca | £0.00 | 12.33 | ❌ LOST | £0.00 | £0.00 | £0.00 |
 | 41 | 2026-09-09 | Arsenal (Match Result) ✓ | single | £0.00 | 1.88 | ✅ WON | £0.00 | £0.00 | £0.00 |
 | 42 | 2026-09-09 | Arsenal (Match Result) ✓ + Liverpool (Match Result) ✓ + Barcelona (Match Result) ✓ + Celtic (Match Result) ✓ | acca | £0.00 | 6.2 | ✅ WON | £0.00 | £0.00 | £0.00 |
+| 44 | 2026-09-10 | Man Utd (Match Result) ✓ + Bayern Munich (Match Result) ✓ + PSV (Match Result) ✗ + Roma (Match Result) ✗ | acca | £0.00 | 3.81 | ❌ LOST | £0.00 | £0.00 | £0.00 |
 
 **Era 2 settled totals: staked £0.00 · returned £0.00 · net £0.00**
 
 | Category | Bets | Staked | Returned | Net |
 |----------|------|--------|----------|-----|
-| Planned, researched | 19 | £0.00 | £0.00 | **£0.00** |
+| Planned, researched | 20 | £0.00 | £0.00 | **£0.00** |
 
 | Structure | Bets | Net |
 |-----------|------|-----|
-| acca | 11 | £0.00 |
+| acca | 12 | £0.00 |
 | builder | 5 | £0.00 |
 | single | 3 | £0.00 |
 

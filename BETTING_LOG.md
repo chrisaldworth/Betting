@@ -8,13 +8,6 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 
 **Staking:** Ceilings, not quotas: up to £10/day on the recommended acca + up to £10/day on the recommended builder. NO BET days stake £0. No bets outside the daily card. Circuit breaker: pause + written review at era P/L of -£100.
 
-### Open / pending
-
-| # | Date | Bet | Type | Stake | Odds | Status | Conditions |
-|---|------|-----|------|-------|------|--------|------------|
-| 45 | 2026-09-11 | Sevilla (Match Result) | single | £10.00 | 2.25 | 📝 RECOMMENDED | (1) Place before 20:00 UK. (2) Odds >= 2.05 at placement. (3) One leg, no additions. (4) Rule 4 v2 DNB comparison (mandatory at 2.00+, written): Sevilla DNB ~1.55 also passes (est ~70% vs implied ~64.5%); straight win chosen because our draw est (~27%) matches the market's (~28%) - no draw premium to dodge - and the payout asymmetry favours straight at equal edge. DNB at ~1.55 is the legitimate lower-variance alternative. |
-| 46 | 2026-09-11 | Sevilla (Match Result) + West Ham (Match Result) + Rennes (Match Result) + Fiorentina (Match Result) | acca | £0.00 | 14.0 | 📝 RECOMMENDED | PAPER ONLY - never live money without a written rule change. Settled nightly like any bet. Fiorentina odds approximate (single-source). |
-
 ### Settled
 
 | # | Date | Bet | Type | Stake | Odds | Result | Return | P/L | Running |
@@ -39,18 +32,20 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 | 41 | 2026-09-09 | Arsenal (Match Result) ✓ | single | £0.00 | 1.88 | ✅ WON | £0.00 | £0.00 | £0.00 |
 | 42 | 2026-09-09 | Arsenal (Match Result) ✓ + Liverpool (Match Result) ✓ + Barcelona (Match Result) ✓ + Celtic (Match Result) ✓ | acca | £0.00 | 6.2 | ✅ WON | £0.00 | £0.00 | £0.00 |
 | 44 | 2026-09-10 | Man Utd (Match Result) ✓ + Bayern Munich (Match Result) ✓ + PSV (Match Result) ✗ + Roma (Match Result) ✗ | acca | £0.00 | 3.81 | ❌ LOST | £0.00 | £0.00 | £0.00 |
+| 45 | 2026-09-11 | Sevilla (Match Result) ✓ | single | £0.00 | 2.25 | ✅ WON | £0.00 | £0.00 | £0.00 |
+| 46 | 2026-09-11 | Sevilla (Match Result) ✓ + West Ham (Match Result) ✓ + Rennes (Match Result) ✓ + Fiorentina (Match Result) ✓ | acca | £0.00 | 14.0 | ✅ WON | £0.00 | £0.00 | £0.00 |
 
 **Era 2 settled totals: staked £0.00 · returned £0.00 · net £0.00**
 
 | Category | Bets | Staked | Returned | Net |
 |----------|------|--------|----------|-----|
-| Planned, researched | 20 | £0.00 | £0.00 | **£0.00** |
+| Planned, researched | 22 | £0.00 | £0.00 | **£0.00** |
 
 | Structure | Bets | Net |
 |-----------|------|-----|
-| acca | 12 | £0.00 |
+| acca | 13 | £0.00 |
 | builder | 5 | £0.00 |
-| single | 3 | £0.00 |
+| single | 4 | £0.00 |
 
 ### No-bet days (discipline log)
 

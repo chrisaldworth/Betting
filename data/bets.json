@@ -1839,6 +1839,114 @@
       "return": 0.0,
       "slip_confirmed": false,
       "notes": "Experiment day 9 (record 2-6). The value single plus the three next-best: West Ham (fails, est 0.59 vs 0.625), Rennes (passes by a whisker, 0.49 vs 0.476), Fiorentina away (approximate price, unresearched depth). SETTLED: PAPER WON at ~14.0 - all four legs, the second 4-fold hit in three days. Record 3-6; would-have-been +\u00a3130. Cumulative would-be now +\u00a3222.30 - but the honest read is unchanged in kind: three hits carry everything and six of nine days lose. The variance profile is the finding, not the total."
+    },
+    {
+      "id": 47,
+      "era": 2,
+      "date": "2026-09-12",
+      "type": "builder",
+      "structure": "2-leg builder fading the day's trap game",
+      "fixture": "Tottenham v Everton (17:30, Tottenham Hotspur Stadium)",
+      "legs": [
+        {
+          "fixture": "Tottenham v Everton",
+          "kickoff": "2026-09-12T17:30 UK",
+          "market": "Double Chance",
+          "selection": "Everton or Draw",
+          "odds": 1.8,
+          "est_prob": 0.65,
+          "thesis": "motivation",
+          "result": null,
+          "how_settled": null,
+          "clv": null
+        },
+        {
+          "fixture": "Tottenham v Everton",
+          "market": "Total Goals",
+          "selection": "Under 2.5",
+          "odds": 1.75,
+          "est_prob": 0.6,
+          "thesis": "texture",
+          "result": null,
+          "how_settled": null,
+          "clv": null
+        }
+      ],
+      "planned": true,
+      "stake": 10.0,
+      "odds": 2.6,
+      "boost": null,
+      "conditions": "(1) Builder must price >= 2.30 in the till - below that, skip. (2) One bet on this game; no in-play additions. (3) Place before 17:30 UK. (4) Team-news check (~16:30): the fade rests on Spurs' attacking void - if BOTH Kudus and Richarlison/Tel start AND any of Kulusevski/Simons/Maddison is a surprise inclusion, the void premise thins - bet off.",
+      "status": "recommended",
+      "return": null,
+      "slip_confirmed": false,
+      "notes": "The strongest trap-fade setup of the era, by the refined marker taxonomy: Spurs are 2.10 HOME FAVOURITES (implied 47.6%) while 18th with ONE point, ZERO goals in four games in all comps (0-3, 0-2, 0-0), and five attackers out (Kulusevski, Simons, Odobert, Maddison, Mudryk re-injured). Everton: unbeaten, 5 pts, scored in every game, held Utd 2-2. These are structural markers (4-game drought + table position + absence list), not the fragile one-week kind that burned the Brugge fade. est 1X2: Spurs 35 / draw 30 / Everton 35 vs implied 48/28/30. Story: the team that cannot score does not win a cautious game. Joint est ~0.44 vs ~0.38 at 2.60. Trap-fade record 2-for-5 overall, but 2-for-2 when structural."
+    },
+    {
+      "id": 48,
+      "era": 2,
+      "date": "2026-09-12",
+      "type": "acca",
+      "structure": "PAPER 4-fold stretch line (experiment day 10)",
+      "legs": [
+        {
+          "fixture": "Sunderland v Arsenal",
+          "kickoff": "2026-09-12T20:00 UK",
+          "market": "Match Result",
+          "selection": "Arsenal",
+          "odds": 1.5,
+          "est_prob": 0.66,
+          "thesis": "form",
+          "result": null,
+          "how_settled": null,
+          "clv": null
+        },
+        {
+          "fixture": "Liverpool v Fulham",
+          "kickoff": "2026-09-12T15:00 UK",
+          "market": "Match Result",
+          "selection": "Liverpool",
+          "odds": 1.45,
+          "est_prob": 0.65,
+          "thesis": "form",
+          "result": null,
+          "how_settled": null,
+          "clv": null
+        },
+        {
+          "fixture": "Chelsea v Hull",
+          "kickoff": "2026-09-12T15:00 UK",
+          "market": "Match Result",
+          "selection": "Chelsea",
+          "odds": 1.5,
+          "est_prob": 0.55,
+          "thesis": "class_gap",
+          "result": null,
+          "how_settled": null,
+          "clv": null
+        },
+        {
+          "fixture": "Tottenham v Everton",
+          "kickoff": "2026-09-12T17:30 UK",
+          "market": "Match Result",
+          "selection": "Everton",
+          "odds": 3.3,
+          "est_prob": 0.35,
+          "thesis": "motivation",
+          "result": null,
+          "how_settled": null,
+          "clv": null
+        }
+      ],
+      "planned": true,
+      "stake": 0.0,
+      "odds": 10.77,
+      "boost": null,
+      "conditions": "PAPER ONLY - never live money without a written rule change. Settled nightly like any bet. Liverpool/Chelsea odds approximate.",
+      "status": "recommended",
+      "return": null,
+      "slip_confirmed": false,
+      "notes": "Experiment day 10 (record 3-6). Arsenal 1.50 (neutral, est 0.66 vs 0.67), Liverpool ~1.45 (est 0.65 vs 0.69, fails), Chelsea 1.50 (fails hard - Hull have conceded ZERO in three league games; Hull DC ~2.45 was the day's near-miss value), Everton straight 3.30 (our est 0.35 vs implied 0.30 - the fade at full price)."
     }
   ]
 }

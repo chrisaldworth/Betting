@@ -8,13 +8,6 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 
 **Staking:** Ceilings, not quotas: up to £10/day on the recommended acca + up to £10/day on the recommended builder. NO BET days stake £0. No bets outside the daily card. Circuit breaker: pause + written review at era P/L of -£100.
 
-### Open / pending
-
-| # | Date | Bet | Type | Stake | Odds | Status | Conditions |
-|---|------|-----|------|-------|------|--------|------------|
-| 47 | 2026-09-12 | Everton or Draw (Double Chance) + Under 2.5 (Total Goals) | builder | £10.00 | 2.6 | 📝 RECOMMENDED | (1) Builder must price >= 2.30 in the till - below that, skip. (2) One bet on this game; no in-play additions. (3) Place before 17:30 UK. (4) Team-news check (~16:30): the fade rests on Spurs' attacking void - if BOTH Kudus and Richarlison/Tel start AND any of Kulusevski/Simons/Maddison is a surprise inclusion, the void premise thins - bet off. |
-| 48 | 2026-09-12 | Arsenal (Match Result) + Liverpool (Match Result) + Chelsea (Match Result) + Everton (Match Result) | acca | £0.00 | 10.77 | 📝 RECOMMENDED | PAPER ONLY - never live money without a written rule change. Settled nightly like any bet. Liverpool/Chelsea odds approximate. |
-
 ### Settled
 
 | # | Date | Bet | Type | Stake | Odds | Result | Return | P/L | Running |
@@ -41,17 +34,19 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 | 44 | 2026-09-10 | Man Utd (Match Result) ✓ + Bayern Munich (Match Result) ✓ + PSV (Match Result) ✗ + Roma (Match Result) ✗ | acca | £0.00 | 3.81 | ❌ LOST | £0.00 | £0.00 | £0.00 |
 | 45 | 2026-09-11 | Sevilla (Match Result) ✓ | single | £0.00 | 2.25 | ✅ WON | £0.00 | £0.00 | £0.00 |
 | 46 | 2026-09-11 | Sevilla (Match Result) ✓ + West Ham (Match Result) ✓ + Rennes (Match Result) ✓ + Fiorentina (Match Result) ✓ | acca | £0.00 | 14.0 | ✅ WON | £0.00 | £0.00 | £0.00 |
+| 47 | 2026-09-12 | Everton or Draw (Double Chance) ✓ + Under 2.5 (Total Goals) ✓ | builder | £0.00 | 2.6 | ✅ WON | £0.00 | £0.00 | £0.00 |
+| 48 | 2026-09-12 | Arsenal (Match Result) + Liverpool (Match Result) ✗ + Chelsea (Match Result) ✗ + Everton (Match Result) ✗ | acca | £0.00 | 10.77 | ❌ LOST | £0.00 | £0.00 | £0.00 |
 
 **Era 2 settled totals: staked £0.00 · returned £0.00 · net £0.00**
 
 | Category | Bets | Staked | Returned | Net |
 |----------|------|--------|----------|-----|
-| Planned, researched | 22 | £0.00 | £0.00 | **£0.00** |
+| Planned, researched | 24 | £0.00 | £0.00 | **£0.00** |
 
 | Structure | Bets | Net |
 |-----------|------|-----|
-| acca | 13 | £0.00 |
-| builder | 5 | £0.00 |
+| acca | 14 | £0.00 |
+| builder | 6 | £0.00 |
 | single | 4 | £0.00 |
 
 ### No-bet days (discipline log)

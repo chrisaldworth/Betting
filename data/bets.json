@@ -1856,8 +1856,8 @@
           "odds": 1.8,
           "est_prob": 0.65,
           "thesis": "motivation",
-          "result": null,
-          "how_settled": null,
+          "result": "won",
+          "how_settled": "Spurs 0-0 Everton - DC lands; Spurs goalless in a FOURTH straight game, 17th",
           "clv": null
         },
         {
@@ -1867,20 +1867,20 @@
           "odds": 1.75,
           "est_prob": 0.6,
           "thesis": "texture",
-          "result": null,
-          "how_settled": null,
+          "result": "won",
+          "how_settled": "0 goals - first goalless draw in Tottenham Hotspur Stadium PL history",
           "clv": null
         }
       ],
       "planned": true,
-      "stake": 10.0,
+      "stake": 0.0,
       "odds": 2.6,
       "boost": null,
       "conditions": "(1) Builder must price >= 2.30 in the till - below that, skip. (2) One bet on this game; no in-play additions. (3) Place before 17:30 UK. (4) Team-news check (~16:30): the fade rests on Spurs' attacking void - if BOTH Kudus and Richarlison/Tel start AND any of Kulusevski/Simons/Maddison is a surprise inclusion, the void premise thins - bet off.",
-      "status": "recommended",
-      "return": null,
+      "status": "won",
+      "return": 0.0,
       "slip_confirmed": false,
-      "notes": "The strongest trap-fade setup of the era, by the refined marker taxonomy: Spurs are 2.10 HOME FAVOURITES (implied 47.6%) while 18th with ONE point, ZERO goals in four games in all comps (0-3, 0-2, 0-0), and five attackers out (Kulusevski, Simons, Odobert, Maddison, Mudryk re-injured). Everton: unbeaten, 5 pts, scored in every game, held Utd 2-2. These are structural markers (4-game drought + table position + absence list), not the fragile one-week kind that burned the Brugge fade. est 1X2: Spurs 35 / draw 30 / Everton 35 vs implied 48/28/30. Story: the team that cannot score does not win a cautious game. Joint est ~0.44 vs ~0.38 at 2.60. Trap-fade record 2-for-5 overall, but 2-for-2 when structural."
+      "notes": "The strongest trap-fade setup of the era, by the refined marker taxonomy: Spurs are 2.10 HOME FAVOURITES (implied 47.6%) while 18th with ONE point, ZERO goals in four games in all comps (0-3, 0-2, 0-0), and five attackers out (Kulusevski, Simons, Odobert, Maddison, Mudryk re-injured). Everton: unbeaten, 5 pts, scored in every game, held Utd 2-2. These are structural markers (4-game drought + table position + absence list), not the fragile one-week kind that burned the Brugge fade. est 1X2: Spurs 35 / draw 30 / Everton 35 vs implied 48/28/30. Story: the team that cannot score does not win a cautious game. Joint est ~0.44 vs ~0.38 at 2.60. Trap-fade record 2-for-5 overall, but 2-for-2 when structural. SETTLED: PAPER WON at ~2.60 (no slip confirmed - would-have-been +\u00a316 on \u00a310). The exact script again: the team that cannot score did not win a cautious game (Everton missed the two best chances). Structural fades now 3-for-3 (PSG, Villa-at-Hull, Spurs); drought-only 0-for-1. Both est_probs honest (DC 0.65, U2.5 0.60). IF YOU PLACED THIS, send the slip."
     },
     {
       "id": 48,
@@ -1898,7 +1898,7 @@
           "est_prob": 0.66,
           "thesis": "form",
           "result": null,
-          "how_settled": null,
+          "how_settled": "IN PROGRESS at the 23:00 run (0-0 at the break per live pages) - left unsettled; immaterial, bet already lost",
           "clv": null
         },
         {
@@ -1909,8 +1909,8 @@
           "odds": 1.45,
           "est_prob": 0.65,
           "thesis": "form",
-          "result": null,
-          "how_settled": null,
+          "result": "lost",
+          "how_settled": "Liverpool 0-0 Fulham",
           "clv": null
         },
         {
@@ -1921,8 +1921,8 @@
           "odds": 1.5,
           "est_prob": 0.55,
           "thesis": "class_gap",
-          "result": null,
-          "how_settled": null,
+          "result": "lost",
+          "how_settled": "Chelsea 2-2 Hull - Hull STILL unbeaten, still the value near-miss",
           "clv": null
         },
         {
@@ -1933,8 +1933,8 @@
           "odds": 3.3,
           "est_prob": 0.35,
           "thesis": "motivation",
-          "result": null,
-          "how_settled": null,
+          "result": "lost",
+          "how_settled": "Spurs 0-0 Everton - DC won, straight win did not",
           "clv": null
         }
       ],
@@ -1943,10 +1943,10 @@
       "odds": 10.77,
       "boost": null,
       "conditions": "PAPER ONLY - never live money without a written rule change. Settled nightly like any bet. Liverpool/Chelsea odds approximate.",
-      "status": "recommended",
-      "return": null,
+      "status": "lost",
+      "return": 0.0,
       "slip_confirmed": false,
-      "notes": "Experiment day 10 (record 3-6). Arsenal 1.50 (neutral, est 0.66 vs 0.67), Liverpool ~1.45 (est 0.65 vs 0.69, fails), Chelsea 1.50 (fails hard - Hull have conceded ZERO in three league games; Hull DC ~2.45 was the day's near-miss value), Everton straight 3.30 (our est 0.35 vs implied 0.30 - the fade at full price)."
+      "notes": "Experiment day 10 (record 3-6). Arsenal 1.50 (neutral, est 0.66 vs 0.67), Liverpool ~1.45 (est 0.65 vs 0.69, fails), Chelsea 1.50 (fails hard - Hull have conceded ZERO in three league games; Hull DC ~2.45 was the day's near-miss value), Everton straight 3.30 (our est 0.35 vs implied 0.30 - the fade at full price). SETTLED: PAPER LOST - record 3-7 (three legs down; Arsenal leg immaterial and left pending at the run). Draws everywhere: Liverpool 0-0, Chelsea 2-2, Spurs 0-0. Note for Monday: Hull DC (the near-miss we declined to double up on) would have WON again - that thesis is now 2-for-2 observed."
     }
   ]
 }

@@ -8,6 +8,12 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 
 **Staking:** Ceilings, not quotas: up to £10/day on the recommended acca + up to £10/day on the recommended builder. NO BET days stake £0. No bets outside the daily card. Circuit breaker: pause + written review at era P/L of -£100.
 
+### Open / pending
+
+| # | Date | Bet | Type | Stake | Odds | Status | Conditions |
+|---|------|-----|------|-------|------|--------|------------|
+| 50 | 2026-09-13 | Man City (Match Result) + Brighton (Match Result) + Wolves (Match Result) + Celtic (Match Result (90 mins)) | acca | £0.00 | 17.81 | 📝 RECOMMENDED | PAPER ONLY - never live money without a written rule change. Settled nightly like any bet. Wolves/Celtic odds approximate; Celtic leg settles on 90 minutes. |
+
 ### Settled
 
 | # | Date | Bet | Type | Stake | Odds | Result | Return | P/L | Running |
@@ -35,7 +41,7 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 | 45 | 2026-09-11 | Sevilla (Match Result) ✓ | single | £0.00 | 2.25 | ✅ WON | £0.00 | £0.00 | £0.00 |
 | 46 | 2026-09-11 | Sevilla (Match Result) ✓ + West Ham (Match Result) ✓ + Rennes (Match Result) ✓ + Fiorentina (Match Result) ✓ | acca | £0.00 | 14.0 | ✅ WON | £0.00 | £0.00 | £0.00 |
 | 47 | 2026-09-12 | Everton or Draw (Double Chance) ✓ + Under 2.5 (Total Goals) ✓ | builder | £0.00 | 2.6 | ✅ WON | £0.00 | £0.00 | £0.00 |
-| 48 | 2026-09-12 | Arsenal (Match Result) + Liverpool (Match Result) ✗ + Chelsea (Match Result) ✗ + Everton (Match Result) ✗ | acca | £0.00 | 10.77 | ❌ LOST | £0.00 | £0.00 | £0.00 |
+| 48 | 2026-09-12 | Arsenal (Match Result) ✓ + Liverpool (Match Result) ✗ + Chelsea (Match Result) ✗ + Everton (Match Result) ✗ | acca | £0.00 | 10.77 | ❌ LOST | £0.00 | £0.00 | £0.00 |
 
 **Era 2 settled totals: staked £0.00 · returned £0.00 · net £0.00**
 
@@ -61,6 +67,7 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 - **2026-09-03** — International break: no fixtures verifiable to the two-source standard tonight; qualifiers default to watch-not-bet regardless (draw-heavy, rotation-riddled, thin research). Paper 4-fold skips (fewer than 4 researchable games).
 - **2026-09-07** — Monday lull: no UK top-flight card; the continental games (Udinese-Lazio, Elche-Sociedad, Getafe-Celta) have only single-source scraps, below the research standard for money. One watch-list note: Udinese 2.80 at home to a Lazio on three straight defeats - a form angle, not a bet, at our depth. Fewer than four researchable games -> paper 4-fold skips per its rule. Week 2 review published today (see picks/2026-09-07.md).
 - **2026-09-10** — CL final wave + League One only. Man Utd 1.13 v Sabah is unbettable straight and every derivative fails: -1.5 at ~1.62 implied 62% vs our est ~55% (SIX injuries, conceded 2 in each league game); over 3.5 thin-neutral. Como v Leipzig looked interesting (CL debut, 8 unbeaten, Leipzig lost 3-1 to Werder) but sources gave CONTRADICTORY odds (Como -116 vs Como 4.07) - unverifiable price = unbettable, logged as the day's lesson. Roma 2.15 at hostile Fenerbahce and PSV 1.40 both fail. Ceilings, not quotas.
+- **2026-09-13** — Sunday board: Manchester derby (Utd v City 16:30) is the classic coin-flip avoid - City better but Utd chaotic at home (L Hull, W 5-2, D 2-2, W 4-0), est unreliable, no value either side. Coventry v Brighton: Brighton 1.91 est 0.53 vs implied 0.52 - neutral; every builder combination conflicts (Coventry blunt = unders, Brighton games = overs) or dies to crush. Rangers v Celtic is an Old Firm CUP quarter-final - rule 8 (90-min settlement risk) + derby chaos, auto-avoid. Sheffield Utd v Wolves: shallow. Ceilings, not quotas.
 
 ## Era 1: Weekly-cap era (2026-08-15 → 2026-08-24)
 

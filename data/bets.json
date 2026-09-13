@@ -1897,8 +1897,8 @@
           "odds": 1.5,
           "est_prob": 0.66,
           "thesis": "form",
-          "result": null,
-          "how_settled": "IN PROGRESS at the 23:00 run (0-0 at the break per live pages) - left unsettled; immaterial, bet already lost",
+          "result": "won",
+          "how_settled": "BACKFILLED Sun am: Sunderland 0-2 Arsenal (Guimaraes; Saka pen 90+) - immaterial, bet already lost",
           "clv": null
         },
         {
@@ -1947,6 +1947,89 @@
       "return": 0.0,
       "slip_confirmed": false,
       "notes": "Experiment day 10 (record 3-6). Arsenal 1.50 (neutral, est 0.66 vs 0.67), Liverpool ~1.45 (est 0.65 vs 0.69, fails), Chelsea 1.50 (fails hard - Hull have conceded ZERO in three league games; Hull DC ~2.45 was the day's near-miss value), Everton straight 3.30 (our est 0.35 vs implied 0.30 - the fade at full price). SETTLED: PAPER LOST - record 3-7 (three legs down; Arsenal leg immaterial and left pending at the run). Draws everywhere: Liverpool 0-0, Chelsea 2-2, Spurs 0-0. Note for Monday: Hull DC (the near-miss we declined to double up on) would have WON again - that thesis is now 2-for-2 observed."
+    },
+    {
+      "id": 49,
+      "era": 2,
+      "date": "2026-09-13",
+      "type": "acca",
+      "structure": "no-bet day (both slots)",
+      "legs": [],
+      "planned": true,
+      "stake": 0.0,
+      "odds": null,
+      "boost": null,
+      "conditions": null,
+      "status": "no_bet",
+      "return": null,
+      "slip_confirmed": true,
+      "notes": "Sunday board: Manchester derby (Utd v City 16:30) is the classic coin-flip avoid - City better but Utd chaotic at home (L Hull, W 5-2, D 2-2, W 4-0), est unreliable, no value either side. Coventry v Brighton: Brighton 1.91 est 0.53 vs implied 0.52 - neutral; every builder combination conflicts (Coventry blunt = unders, Brighton games = overs) or dies to crush. Rangers v Celtic is an Old Firm CUP quarter-final - rule 8 (90-min settlement risk) + derby chaos, auto-avoid. Sheffield Utd v Wolves: shallow. Ceilings, not quotas."
+    },
+    {
+      "id": 50,
+      "era": 2,
+      "date": "2026-09-13",
+      "type": "acca",
+      "structure": "PAPER 4-fold stretch line (experiment day 11)",
+      "legs": [
+        {
+          "fixture": "Man Utd v Man City",
+          "kickoff": "2026-09-13T16:30 UK",
+          "market": "Match Result",
+          "selection": "Man City",
+          "odds": 1.85,
+          "est_prob": 0.5,
+          "thesis": "form",
+          "result": null,
+          "how_settled": null,
+          "clv": null
+        },
+        {
+          "fixture": "Coventry v Brighton",
+          "kickoff": "2026-09-13T14:00 UK",
+          "market": "Match Result",
+          "selection": "Brighton",
+          "odds": 1.91,
+          "est_prob": 0.53,
+          "thesis": "class_gap",
+          "result": null,
+          "how_settled": null,
+          "clv": null
+        },
+        {
+          "fixture": "Sheffield Utd v Wolves (Championship)",
+          "kickoff": "2026-09-13T12:00 UK",
+          "market": "Match Result",
+          "selection": "Wolves",
+          "odds": 2.1,
+          "est_prob": 0.45,
+          "thesis": "form",
+          "result": null,
+          "how_settled": null,
+          "clv": null
+        },
+        {
+          "fixture": "Rangers v Celtic (League Cup QF, 90 mins)",
+          "kickoff": "2026-09-13T12:00 UK",
+          "market": "Match Result (90 mins)",
+          "selection": "Celtic",
+          "odds": 2.4,
+          "est_prob": 0.38,
+          "thesis": "form",
+          "result": null,
+          "how_settled": null,
+          "clv": null
+        }
+      ],
+      "planned": true,
+      "stake": 0.0,
+      "odds": 17.81,
+      "boost": null,
+      "conditions": "PAPER ONLY - never live money without a written rule change. Settled nightly like any bet. Wolves/Celtic odds approximate; Celtic leg settles on 90 minutes.",
+      "status": "recommended",
+      "return": null,
+      "slip_confirmed": false,
+      "notes": "Experiment day 11 (record 3-7). All four marginal by design - two derbies (the exact games the money rules avoid), an approximate Championship price, and a thin Brighton edge."
     }
   ]
 }

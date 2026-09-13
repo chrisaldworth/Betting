@@ -1980,8 +1980,8 @@
           "odds": 1.85,
           "est_prob": 0.5,
           "thesis": "form",
-          "result": null,
-          "how_settled": null,
+          "result": "won",
+          "how_settled": "Man Utd 0-1 Man City",
           "clv": null
         },
         {
@@ -1992,8 +1992,8 @@
           "odds": 1.91,
           "est_prob": 0.53,
           "thesis": "class_gap",
-          "result": null,
-          "how_settled": null,
+          "result": "won",
+          "how_settled": "Coventry 0-5 Brighton - Kostoulas, Yalcouye, Gross, Dunk, Ayari",
           "clv": null
         },
         {
@@ -2004,8 +2004,8 @@
           "odds": 2.1,
           "est_prob": 0.45,
           "thesis": "form",
-          "result": null,
-          "how_settled": null,
+          "result": "won",
+          "how_settled": "Sheffield Utd 0-1 Wolves",
           "clv": null
         },
         {
@@ -2016,8 +2016,8 @@
           "odds": 2.4,
           "est_prob": 0.38,
           "thesis": "form",
-          "result": null,
-          "how_settled": null,
+          "result": "lost",
+          "how_settled": "Rangers 3-0 Celtic in 90 minutes - Old Firm chaos, as feared",
           "clv": null
         }
       ],
@@ -2026,10 +2026,10 @@
       "odds": 17.81,
       "boost": null,
       "conditions": "PAPER ONLY - never live money without a written rule change. Settled nightly like any bet. Wolves/Celtic odds approximate; Celtic leg settles on 90 minutes.",
-      "status": "recommended",
-      "return": null,
+      "status": "lost",
+      "return": 0.0,
       "slip_confirmed": false,
-      "notes": "Experiment day 11 (record 3-7). All four marginal by design - two derbies (the exact games the money rules avoid), an approximate Championship price, and a thin Brighton edge."
+      "notes": "Experiment day 11 (record 3-7). All four marginal by design - two derbies (the exact games the money rules avoid), an approximate Championship price, and a thin Brighton edge. SETTLED: PAPER LOST - record 3-8. Three of four landed but the Old Firm leg (the exact kind of game the money rules refuse) died 3-0. Cumulative would-be +\u00a3212.30."
     }
   ]
 }

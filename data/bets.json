@@ -2030,6 +2030,89 @@
       "return": 0.0,
       "slip_confirmed": false,
       "notes": "Experiment day 11 (record 3-7). All four marginal by design - two derbies (the exact games the money rules avoid), an approximate Championship price, and a thin Brighton edge. SETTLED: PAPER LOST - record 3-8. Three of four landed but the Old Firm leg (the exact kind of game the money rules refuse) died 3-0. Cumulative would-be +\u00a3212.30."
+    },
+    {
+      "id": 51,
+      "era": 2,
+      "date": "2026-09-14",
+      "type": "acca",
+      "structure": "no-bet day (both slots)",
+      "legs": [],
+      "planned": true,
+      "stake": 0.0,
+      "odds": null,
+      "boost": null,
+      "conditions": null,
+      "status": "no_bet",
+      "return": null,
+      "slip_confirmed": true,
+      "notes": "Monday board priced fair everywhere readable: Leeds v Newcastle (MNF) dead even (Leeds 2.40 est 0.38, Newcastle ~2.90 est 0.34, both unbeaten in 6); Como ~1.60 and Inter 1.65 caught up by the market post-Leipzig/reset. The interesting angle - Betis ~3.75-3.88 away at winless 16th-place Villarreal, with Betis 4th and 4 wins in 5 - came with GARBLED odds across sources (a 10% draw probability listed against 4.0 odds), so per the Como lesson: no trusted price, no bet. Flagged for a till screenshot. Week 3 review published today."
+    },
+    {
+      "id": 52,
+      "era": 2,
+      "date": "2026-09-14",
+      "type": "acca",
+      "structure": "PAPER 4-fold stretch line (experiment day 12)",
+      "legs": [
+        {
+          "fixture": "Como v Parma",
+          "kickoff": "2026-09-14T17:30 UK",
+          "market": "Match Result",
+          "selection": "Como",
+          "odds": 1.6,
+          "est_prob": 0.63,
+          "thesis": "form",
+          "result": null,
+          "how_settled": null,
+          "clv": null
+        },
+        {
+          "fixture": "Inter v Udinese",
+          "kickoff": "2026-09-14T19:45 UK",
+          "market": "Match Result",
+          "selection": "Inter",
+          "odds": 1.65,
+          "est_prob": 0.6,
+          "thesis": "class_gap",
+          "result": null,
+          "how_settled": null,
+          "clv": null
+        },
+        {
+          "fixture": "Villarreal v Real Betis",
+          "kickoff": "2026-09-14T20:00 UK",
+          "market": "Match Result",
+          "selection": "Real Betis",
+          "odds": 3.8,
+          "est_prob": 0.4,
+          "thesis": "form",
+          "result": null,
+          "how_settled": null,
+          "clv": null
+        },
+        {
+          "fixture": "Leeds v Newcastle",
+          "kickoff": "2026-09-14T20:00 UK",
+          "market": "Match Result",
+          "selection": "Newcastle",
+          "odds": 2.9,
+          "est_prob": 0.34,
+          "thesis": "form",
+          "result": null,
+          "how_settled": null,
+          "clv": null
+        }
+      ],
+      "planned": true,
+      "stake": 0.0,
+      "odds": 29.1,
+      "boost": null,
+      "conditions": "PAPER ONLY - never live money without a written rule change. Settled nightly like any bet. Como/Betis odds approximate (Betis price garbled across sources - the exact reason the money card passed).",
+      "status": "recommended",
+      "return": null,
+      "slip_confirmed": false,
+      "notes": "Experiment day 12 (record 3-8). A wild ~29/1 line by construction: two fair-priced favourites plus the unpriceable Betis angle plus a coin-flip side."
     }
   ]
 }

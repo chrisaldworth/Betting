@@ -2146,8 +2146,8 @@
           "odds": 1.62,
           "est_prob": 0.62,
           "thesis": "form",
-          "result": null,
-          "how_settled": null,
+          "result": "lost",
+          "how_settled": "Middlesbrough 2-2 Millwall (Sky confirmed) - Boro came from 0-2 down for a point",
           "clv": null
         },
         {
@@ -2158,8 +2158,8 @@
           "odds": 1.55,
           "est_prob": 0.6,
           "thesis": "form",
-          "result": null,
-          "how_settled": null,
+          "result": "lost",
+          "how_settled": "Hibernian 0-1 Kilmarnock",
           "clv": null
         },
         {
@@ -2170,8 +2170,8 @@
           "odds": 2.07,
           "est_prob": 0.5,
           "thesis": "class_gap",
-          "result": null,
-          "how_settled": null,
+          "result": "lost",
+          "how_settled": "Falkirk 2-1 Hearts (Sporting Life; single-source, immaterial - bet dead on three other legs)",
           "clv": null
         },
         {
@@ -2182,8 +2182,8 @@
           "odds": 1.7,
           "est_prob": 0.55,
           "thesis": "form",
-          "result": null,
-          "how_settled": null,
+          "result": "lost",
+          "how_settled": "Bristol City 0-1 Lincoln",
           "clv": null
         }
       ],
@@ -2192,10 +2192,10 @@
       "odds": 8.84,
       "boost": null,
       "conditions": "PAPER ONLY - never live money without a written rule change. Settled nightly like any bet. Bristol City odds approximate.",
-      "status": "recommended",
-      "return": null,
+      "status": "lost",
+      "return": 0.0,
       "slip_confirmed": false,
-      "notes": "Experiment day 13 (record 3-9). Thin-board line: all four marginal, single-source depth."
+      "notes": "Experiment day 13 (record 3-9). Thin-board line: all four marginal, single-source depth. SETTLED: PAPER LOST 0-for-4 - the experiment's first total wipeout, and the loudest validation yet of the NO BET call: every single-source thin-board leg failed (two home favourites beaten by unfancied visitors, one blew a lead, one lost from in front). Thin boards are noise. Record 3-10."
     }
   ]
 }

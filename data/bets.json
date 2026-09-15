@@ -2113,6 +2113,89 @@
       "return": 0.0,
       "slip_confirmed": false,
       "notes": "Experiment day 12 (record 3-8). A wild ~29/1 line by construction: two fair-priced favourites plus the unpriceable Betis angle plus a coin-flip side. SETTLED: PAPER LOST - record 3-9 (Newcastle leg died 4-1 at Elland Road). The sting: the OTHER three all won, including the Betis angle at ~3.80 that the money card skipped as unpriceable - the second flagged-unpriceable angle to win (Como was the first). The fix already exists (till-screenshot loop); the lesson is to use it, not to loosen the no-trusted-price rule."
+    },
+    {
+      "id": 53,
+      "era": 2,
+      "date": "2026-09-15",
+      "type": "acca",
+      "structure": "no-bet day (both slots)",
+      "legs": [],
+      "planned": true,
+      "stake": 0.0,
+      "odds": null,
+      "boost": null,
+      "conditions": null,
+      "status": "no_bet",
+      "return": null,
+      "slip_confirmed": true,
+      "notes": "Tuesday board: the five EFL Cup R3 leftovers (Liverpool v Spurs, Ipswich v Arsenal, West Ham v Fulham etc.) are all rotation lotteries with 90-min settlement - auto-avoid per rules 8/9. The rest is single-source Championship/Scottish depth: Middlesbrough 1.62 v injury-hit Millwall is the closest thing to an angle (est ~62% vs implied 62% - neutral, and one source); Hibs 1.55 fails; Hearts 2.07 at Falkirk thin and shallow. Ceilings, not quotas."
+    },
+    {
+      "id": 54,
+      "era": 2,
+      "date": "2026-09-15",
+      "type": "acca",
+      "structure": "PAPER 4-fold stretch line (experiment day 13)",
+      "legs": [
+        {
+          "fixture": "Middlesbrough v Millwall (Championship)",
+          "kickoff": "2026-09-15T19:45 UK",
+          "market": "Match Result",
+          "selection": "Middlesbrough",
+          "odds": 1.62,
+          "est_prob": 0.62,
+          "thesis": "form",
+          "result": null,
+          "how_settled": null,
+          "clv": null
+        },
+        {
+          "fixture": "Hibernian v Kilmarnock",
+          "kickoff": "2026-09-15T19:45 UK",
+          "market": "Match Result",
+          "selection": "Hibernian",
+          "odds": 1.55,
+          "est_prob": 0.6,
+          "thesis": "form",
+          "result": null,
+          "how_settled": null,
+          "clv": null
+        },
+        {
+          "fixture": "Falkirk v Hearts",
+          "kickoff": "2026-09-15T19:45 UK",
+          "market": "Match Result",
+          "selection": "Hearts",
+          "odds": 2.07,
+          "est_prob": 0.5,
+          "thesis": "class_gap",
+          "result": null,
+          "how_settled": null,
+          "clv": null
+        },
+        {
+          "fixture": "Bristol City v Lincoln (Championship)",
+          "kickoff": "2026-09-15T19:45 UK",
+          "market": "Match Result",
+          "selection": "Bristol City",
+          "odds": 1.7,
+          "est_prob": 0.55,
+          "thesis": "form",
+          "result": null,
+          "how_settled": null,
+          "clv": null
+        }
+      ],
+      "planned": true,
+      "stake": 0.0,
+      "odds": 8.84,
+      "boost": null,
+      "conditions": "PAPER ONLY - never live money without a written rule change. Settled nightly like any bet. Bristol City odds approximate.",
+      "status": "recommended",
+      "return": null,
+      "slip_confirmed": false,
+      "notes": "Experiment day 13 (record 3-9). Thin-board line: all four marginal, single-source depth."
     }
   ]
 }

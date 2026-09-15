@@ -8,6 +8,12 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 
 **Staking:** Ceilings, not quotas: up to £10/day on the recommended acca + up to £10/day on the recommended builder. NO BET days stake £0. No bets outside the daily card. Circuit breaker: pause + written review at era P/L of -£100.
 
+### Open / pending
+
+| # | Date | Bet | Type | Stake | Odds | Status | Conditions |
+|---|------|-----|------|-------|------|--------|------------|
+| 54 | 2026-09-15 | Middlesbrough (Match Result) + Hibernian (Match Result) + Hearts (Match Result) + Bristol City (Match Result) | acca | £0.00 | 8.84 | 📝 RECOMMENDED | PAPER ONLY - never live money without a written rule change. Settled nightly like any bet. Bristol City odds approximate. |
+
 ### Settled
 
 | # | Date | Bet | Type | Stake | Odds | Result | Return | P/L | Running |
@@ -65,6 +71,7 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 - **2026-09-10** — CL final wave + League One only. Man Utd 1.13 v Sabah is unbettable straight and every derivative fails: -1.5 at ~1.62 implied 62% vs our est ~55% (SIX injuries, conceded 2 in each league game); over 3.5 thin-neutral. Como v Leipzig looked interesting (CL debut, 8 unbeaten, Leipzig lost 3-1 to Werder) but sources gave CONTRADICTORY odds (Como -116 vs Como 4.07) - unverifiable price = unbettable, logged as the day's lesson. Roma 2.15 at hostile Fenerbahce and PSV 1.40 both fail. Ceilings, not quotas.
 - **2026-09-13** — Sunday board: Manchester derby (Utd v City 16:30) is the classic coin-flip avoid - City better but Utd chaotic at home (L Hull, W 5-2, D 2-2, W 4-0), est unreliable, no value either side. Coventry v Brighton: Brighton 1.91 est 0.53 vs implied 0.52 - neutral; every builder combination conflicts (Coventry blunt = unders, Brighton games = overs) or dies to crush. Rangers v Celtic is an Old Firm CUP quarter-final - rule 8 (90-min settlement risk) + derby chaos, auto-avoid. Sheffield Utd v Wolves: shallow. Ceilings, not quotas.
 - **2026-09-14** — Monday board priced fair everywhere readable: Leeds v Newcastle (MNF) dead even (Leeds 2.40 est 0.38, Newcastle ~2.90 est 0.34, both unbeaten in 6); Como ~1.60 and Inter 1.65 caught up by the market post-Leipzig/reset. The interesting angle - Betis ~3.75-3.88 away at winless 16th-place Villarreal, with Betis 4th and 4 wins in 5 - came with GARBLED odds across sources (a 10% draw probability listed against 4.0 odds), so per the Como lesson: no trusted price, no bet. Flagged for a till screenshot. Week 3 review published today.
+- **2026-09-15** — Tuesday board: the five EFL Cup R3 leftovers (Liverpool v Spurs, Ipswich v Arsenal, West Ham v Fulham etc.) are all rotation lotteries with 90-min settlement - auto-avoid per rules 8/9. The rest is single-source Championship/Scottish depth: Middlesbrough 1.62 v injury-hit Millwall is the closest thing to an angle (est ~62% vs implied 62% - neutral, and one source); Hibs 1.55 fails; Hearts 2.07 at Falkirk thin and shallow. Ceilings, not quotas.
 
 ## Era 1: Weekly-cap era (2026-08-15 → 2026-08-24)
 

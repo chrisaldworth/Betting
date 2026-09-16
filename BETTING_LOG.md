@@ -8,12 +8,6 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 
 **Staking:** Ceilings, not quotas: up to £10/day on the recommended acca + up to £10/day on the recommended builder. NO BET days stake £0. No bets outside the daily card. Circuit breaker: pause + written review at era P/L of -£100.
 
-### Open / pending
-
-| # | Date | Bet | Type | Stake | Odds | Status | Conditions |
-|---|------|-----|------|-------|------|--------|------------|
-| 56 | 2026-09-16 | Barcelona (Match Result) + Atletico Madrid (Match Result) + Leverkusen (Match Result) + Deportivo (Match Result) | acca | £0.00 | 4.99 | 📝 RECOMMENDED | PAPER ONLY - never live money without a written rule change. Settled nightly like any bet. Leverkusen odds approximate. |
-
 ### Settled
 
 | # | Date | Bet | Type | Stake | Odds | Result | Return | P/L | Running |
@@ -45,16 +39,17 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 | 50 | 2026-09-13 | Man City (Match Result) ✓ + Brighton (Match Result) ✓ + Wolves (Match Result) ✓ + Celtic (Match Result (90 mins)) ✗ | acca | £0.00 | 17.81 | ❌ LOST | £0.00 | £0.00 | £0.00 |
 | 52 | 2026-09-14 | Como (Match Result) ✓ + Inter (Match Result) ✓ + Real Betis (Match Result) ✓ + Newcastle (Match Result) ✗ | acca | £0.00 | 29.1 | ❌ LOST | £0.00 | £0.00 | £0.00 |
 | 54 | 2026-09-15 | Middlesbrough (Match Result) ✗ + Hibernian (Match Result) ✗ + Hearts (Match Result) ✗ + Bristol City (Match Result) ✗ | acca | £0.00 | 8.84 | ❌ LOST | £0.00 | £0.00 | £0.00 |
+| 56 | 2026-09-16 | Barcelona (Match Result) ✓ + Atletico Madrid (Match Result) ✓ + Leverkusen (Match Result) ✓ + Deportivo (Match Result) ✗ | acca | £0.00 | 4.99 | ❌ LOST | £0.00 | £0.00 | £0.00 |
 
 **Era 2 settled totals: staked £0.00 · returned £0.00 · net £0.00**
 
 | Category | Bets | Staked | Returned | Net |
 |----------|------|--------|----------|-----|
-| Planned, researched | 27 | £0.00 | £0.00 | **£0.00** |
+| Planned, researched | 28 | £0.00 | £0.00 | **£0.00** |
 
 | Structure | Bets | Net |
 |-----------|------|-----|
-| acca | 17 | £0.00 |
+| acca | 18 | £0.00 |
 | builder | 6 | £0.00 |
 | single | 4 | £0.00 |
 

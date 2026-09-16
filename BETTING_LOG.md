@@ -8,6 +8,12 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 
 **Staking:** Ceilings, not quotas: up to £10/day on the recommended acca + up to £10/day on the recommended builder. NO BET days stake £0. No bets outside the daily card. Circuit breaker: pause + written review at era P/L of -£100.
 
+### Open / pending
+
+| # | Date | Bet | Type | Stake | Odds | Status | Conditions |
+|---|------|-----|------|-------|------|--------|------------|
+| 56 | 2026-09-16 | Barcelona (Match Result) + Atletico Madrid (Match Result) + Leverkusen (Match Result) + Deportivo (Match Result) | acca | £0.00 | 4.99 | 📝 RECOMMENDED | PAPER ONLY - never live money without a written rule change. Settled nightly like any bet. Leverkusen odds approximate. |
+
 ### Settled
 
 | # | Date | Bet | Type | Stake | Odds | Result | Return | P/L | Running |
@@ -67,6 +73,7 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 - **2026-09-13** — Sunday board: Manchester derby (Utd v City 16:30) is the classic coin-flip avoid - City better but Utd chaotic at home (L Hull, W 5-2, D 2-2, W 4-0), est unreliable, no value either side. Coventry v Brighton: Brighton 1.91 est 0.53 vs implied 0.52 - neutral; every builder combination conflicts (Coventry blunt = unders, Brighton games = overs) or dies to crush. Rangers v Celtic is an Old Firm CUP quarter-final - rule 8 (90-min settlement risk) + derby chaos, auto-avoid. Sheffield Utd v Wolves: shallow. Ceilings, not quotas.
 - **2026-09-14** — Monday board priced fair everywhere readable: Leeds v Newcastle (MNF) dead even (Leeds 2.40 est 0.38, Newcastle ~2.90 est 0.34, both unbeaten in 6); Como ~1.60 and Inter 1.65 caught up by the market post-Leipzig/reset. The interesting angle - Betis ~3.75-3.88 away at winless 16th-place Villarreal, with Betis 4th and 4 wins in 5 - came with GARBLED odds across sources (a 10% draw probability listed against 4.0 odds), so per the Como lesson: no trusted price, no bet. Flagged for a till screenshot. Week 3 review published today.
 - **2026-09-15** — Tuesday board: the five EFL Cup R3 leftovers (Liverpool v Spurs, Ipswich v Arsenal, West Ham v Fulham etc.) are all rotation lotteries with 90-min settlement - auto-avoid per rules 8/9. The rest is single-source Championship/Scottish depth: Middlesbrough 1.62 v injury-hit Millwall is the closest thing to an angle (est ~62% vs implied 62% - neutral, and one source); Hibs 1.55 fails; Hearts 2.07 at Falkirk thin and shallow. Ceilings, not quotas.
+- **2026-09-16** — EFL Cup R3 leftovers (Utd v Brighton, Everton v Wolves etc.) auto-avoided per rules 8/9. Europa League R1 openers carry the same rotation unknowns on debut night. La Liga midweek: Depor v Sevilla is genuinely even (Depor unbeaten, beat Valencia AND Villarreal, Aubameyang scored in all 5, no injuries; est 38/30/32 vs implied ~38/31/31 - dead neutral); Atletico 1.40 v Osasuna fails thinly (est ~68% vs 71%); Barcelona 1.15 v Racing unbettable, and Barca -2 fails after crush. Ceilings, not quotas - fourth straight NO BET day.
 
 ## Era 1: Weekly-cap era (2026-08-15 → 2026-08-24)
 

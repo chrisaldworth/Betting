@@ -2196,6 +2196,89 @@
       "return": 0.0,
       "slip_confirmed": false,
       "notes": "Experiment day 13 (record 3-9). Thin-board line: all four marginal, single-source depth. SETTLED: PAPER LOST 0-for-4 - the experiment's first total wipeout, and the loudest validation yet of the NO BET call: every single-source thin-board leg failed (two home favourites beaten by unfancied visitors, one blew a lead, one lost from in front). Thin boards are noise. Record 3-10."
+    },
+    {
+      "id": 55,
+      "era": 2,
+      "date": "2026-09-16",
+      "type": "acca",
+      "structure": "no-bet day (both slots)",
+      "legs": [],
+      "planned": true,
+      "stake": 0.0,
+      "odds": null,
+      "boost": null,
+      "conditions": null,
+      "status": "no_bet",
+      "return": null,
+      "slip_confirmed": true,
+      "notes": "EFL Cup R3 leftovers (Utd v Brighton, Everton v Wolves etc.) auto-avoided per rules 8/9. Europa League R1 openers carry the same rotation unknowns on debut night. La Liga midweek: Depor v Sevilla is genuinely even (Depor unbeaten, beat Valencia AND Villarreal, Aubameyang scored in all 5, no injuries; est 38/30/32 vs implied ~38/31/31 - dead neutral); Atletico 1.40 v Osasuna fails thinly (est ~68% vs 71%); Barcelona 1.15 v Racing unbettable, and Barca -2 fails after crush. Ceilings, not quotas - fourth straight NO BET day."
+    },
+    {
+      "id": 56,
+      "era": 2,
+      "date": "2026-09-16",
+      "type": "acca",
+      "structure": "PAPER 4-fold stretch line (experiment day 14)",
+      "legs": [
+        {
+          "fixture": "Barcelona v Racing Santander",
+          "kickoff": "2026-09-16T20:30 UK",
+          "market": "Match Result",
+          "selection": "Barcelona",
+          "odds": 1.15,
+          "est_prob": 0.82,
+          "thesis": "class_gap",
+          "result": null,
+          "how_settled": null,
+          "clv": null
+        },
+        {
+          "fixture": "Atletico Madrid v Osasuna",
+          "kickoff": "2026-09-16T18:00 UK",
+          "market": "Match Result",
+          "selection": "Atletico Madrid",
+          "odds": 1.4,
+          "est_prob": 0.68,
+          "thesis": "class_gap",
+          "result": null,
+          "how_settled": null,
+          "clv": null
+        },
+        {
+          "fixture": "Bayer Leverkusen v Celje (Europa League)",
+          "kickoff": "2026-09-16T20:00 UK",
+          "market": "Match Result",
+          "selection": "Leverkusen",
+          "odds": 1.25,
+          "est_prob": 0.76,
+          "thesis": "class_gap",
+          "result": null,
+          "how_settled": null,
+          "clv": null
+        },
+        {
+          "fixture": "Deportivo v Sevilla",
+          "kickoff": "2026-09-16T18:00 UK",
+          "market": "Match Result",
+          "selection": "Deportivo",
+          "odds": 2.48,
+          "est_prob": 0.38,
+          "thesis": "form",
+          "result": null,
+          "how_settled": null,
+          "clv": null
+        }
+      ],
+      "planned": true,
+      "stake": 0.0,
+      "odds": 4.99,
+      "boost": null,
+      "conditions": "PAPER ONLY - never live money without a written rule change. Settled nightly like any bet. Leverkusen odds approximate.",
+      "status": "recommended",
+      "return": null,
+      "slip_confirmed": false,
+      "notes": "Experiment day 14 (record 3-10). Three class-gap favourites that fail the value test plus the even-game home side."
     }
   ]
 }

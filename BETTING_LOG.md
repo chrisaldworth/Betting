@@ -8,6 +8,13 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 
 **Staking:** Ceilings, not quotas: up to £10/day on the recommended acca + up to £10/day on the recommended builder. NO BET days stake £0. No bets outside the daily card. Circuit breaker: pause + written review at era P/L of -£100.
 
+### Open / pending
+
+| # | Date | Bet | Type | Stake | Odds | Status | Conditions |
+|---|------|-----|------|-------|------|--------|------------|
+| 57 | 2026-09-17 | Malaga or Draw (1X) (Double Chance) | single | £10.00 | 1.88 | 📝 RECOMMENDED | (1) Place before 20:30 UK. (2) DC price >= 1.75 in the till - below that, skip. (3) One leg, no in-play additions. (4) Team-news ~19:30: Malaga already missing 8 (incl. virus outbreak) - if 2+ more starters drop out, bet off. (5) Rule 6 v2 marker check written on card: Villarreal show two structural markers (19th/2pts bottom-third + four straight defeats) - fade qualifies; H2H (Villarreal won 5 of last 7 H2H) and Malaga's absence list logged against, capping est at 0.60. (6) Rule 4 v2 not triggered (DC < 2.00); comparison written anyway - Malaga straight 3.78 neutral, DC chosen to harvest the draw. |
+| 58 | 2026-09-17 | Real Betis (Match Result) + Celtic (Match Result) + Juventus -2 (Handicap -2) + Malaga (Match Result) | acca | £0.00 | 27.2 | 📝 RECOMMENDED | PAPER ONLY - never live money without a written rule change. Settled nightly like any bet. |
+
 ### Settled
 
 | # | Date | Bet | Type | Stake | Odds | Result | Return | P/L | Running |

@@ -8,13 +8,6 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 
 **Staking:** Ceilings, not quotas: up to £10/day on the recommended acca + up to £10/day on the recommended builder. NO BET days stake £0. No bets outside the daily card. Circuit breaker: pause + written review at era P/L of -£100.
 
-### Open / pending
-
-| # | Date | Bet | Type | Stake | Odds | Status | Conditions |
-|---|------|-----|------|-------|------|--------|------------|
-| 57 | 2026-09-17 | Malaga or Draw (1X) (Double Chance) | single | £10.00 | 1.88 | 📝 RECOMMENDED | (1) Place before 20:30 UK. (2) DC price >= 1.75 in the till - below that, skip. (3) One leg, no in-play additions. (4) Team-news ~19:30: Malaga already missing 8 (incl. virus outbreak) - if 2+ more starters drop out, bet off. (5) Rule 6 v2 marker check written on card: Villarreal show two structural markers (19th/2pts bottom-third + four straight defeats) - fade qualifies; H2H (Villarreal won 5 of last 7 H2H) and Malaga's absence list logged against, capping est at 0.60. (6) Rule 4 v2 not triggered (DC < 2.00); comparison written anyway - Malaga straight 3.78 neutral, DC chosen to harvest the draw. |
-| 58 | 2026-09-17 | Real Betis (Match Result) + Celtic (Match Result) + Juventus -2 (Handicap -2) + Malaga (Match Result) | acca | £0.00 | 27.2 | 📝 RECOMMENDED | PAPER ONLY - never live money without a written rule change. Settled nightly like any bet. |
-
 ### Settled
 
 | # | Date | Bet | Type | Stake | Odds | Result | Return | P/L | Running |
@@ -47,18 +40,20 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 | 52 | 2026-09-14 | Como (Match Result) ✓ + Inter (Match Result) ✓ + Real Betis (Match Result) ✓ + Newcastle (Match Result) ✗ | acca | £0.00 | 29.1 | ❌ LOST | £0.00 | £0.00 | £0.00 |
 | 54 | 2026-09-15 | Middlesbrough (Match Result) ✗ + Hibernian (Match Result) ✗ + Hearts (Match Result) ✗ + Bristol City (Match Result) ✗ | acca | £0.00 | 8.84 | ❌ LOST | £0.00 | £0.00 | £0.00 |
 | 56 | 2026-09-16 | Barcelona (Match Result) ✓ + Atletico Madrid (Match Result) ✓ + Leverkusen (Match Result) ✓ + Deportivo (Match Result) ✗ | acca | £0.00 | 4.99 | ❌ LOST | £0.00 | £0.00 | £0.00 |
+| 57 | 2026-09-17 | Malaga or Draw (1X) (Double Chance) ✗ | single | £0.00 | 1.88 | ❌ LOST | £0.00 | £0.00 | £0.00 |
+| 58 | 2026-09-17 | Real Betis (Match Result) ✓ + Celtic (Match Result) ✗ + Juventus -2 (Handicap -2) ✓ + Malaga (Match Result) ✗ | acca | £0.00 | 27.2 | ❌ LOST | £0.00 | £0.00 | £0.00 |
 
 **Era 2 settled totals: staked £0.00 · returned £0.00 · net £0.00**
 
 | Category | Bets | Staked | Returned | Net |
 |----------|------|--------|----------|-----|
-| Planned, researched | 28 | £0.00 | £0.00 | **£0.00** |
+| Planned, researched | 30 | £0.00 | £0.00 | **£0.00** |
 
 | Structure | Bets | Net |
 |-----------|------|-----|
-| acca | 18 | £0.00 |
+| acca | 19 | £0.00 |
 | builder | 6 | £0.00 |
-| single | 4 | £0.00 |
+| single | 5 | £0.00 |
 
 ### No-bet days (discipline log)
 

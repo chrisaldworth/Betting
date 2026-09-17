@@ -2296,20 +2296,20 @@
      "odds": 1.88,
      "est_prob": 0.6,
      "thesis": "motivation",
-     "result": null,
-     "how_settled": null,
-     "clv": null
+     "result": "lost",
+     "how_settled": "Malaga 1-3 Villarreal (Sky Sports + Sporting Life FT confirmed)",
+     "clv": 1.95
     }
    ],
    "planned": true,
-   "stake": 10.0,
+   "stake": 0.0,
    "odds": 1.88,
    "boost": null,
    "conditions": "(1) Place before 20:30 UK. (2) DC price >= 1.75 in the till - below that, skip. (3) One leg, no in-play additions. (4) Team-news ~19:30: Malaga already missing 8 (incl. virus outbreak) - if 2+ more starters drop out, bet off. (5) Rule 6 v2 marker check written on card: Villarreal show two structural markers (19th/2pts bottom-third + four straight defeats) - fade qualifies; H2H (Villarreal won 5 of last 7 H2H) and Malaga's absence list logged against, capping est at 0.60. (6) Rule 4 v2 not triggered (DC < 2.00); comparison written anyway - Malaga straight 3.78 neutral, DC chosen to harvest the draw.",
-   "status": "recommended",
-   "return": null,
+   "status": "lost",
+   "return": 0.0,
    "slip_confirmed": false,
-   "notes": "Fourth structural fade of the era (template 3-for-3: PSG, Villa-at-Hull, Spurs). Villarreal ~2.02 away favourites while 19th with 2 points, winless in six, four straight defeats, 13 conceded in 6, coach publicly critical after losing home to Betis Monday. Malaga winless in five but with three draws, a late equaliser at Celta, home. Est 1X 0.60 vs implied 0.53 at 1.88 - passes by ~7pts. Weakest fade-partner so far (Malaga missing eight) - noted, est capped."
+   "notes": "Fourth structural fade of the era (template 3-for-3: PSG, Villa-at-Hull, Spurs). Villarreal ~2.02 away favourites while 19th with 2 points, winless in six, four straight defeats, 13 conceded in 6, coach publicly critical after losing home to Betis Monday. Malaga winless in five but with three draws, a late equaliser at Celta, home. Est 1X 0.60 vs implied 0.53 at 1.88 - passes by ~7pts. Weakest fade-partner so far (Malaga missing eight) - noted, est capped. SETTLED PAPER (no slip confirmed): LOST. First failure of the structural-fade template (now 3-1). The logged caveat was the failure mode: Malaga (8 out, winless, weakest fade-partner of the four) could not punish, and Villarreal's superior squad won comfortably despite the crisis. H2H contra-marker (Villarreal 5 of last 7) delivered. CLV negative: Villarreal shortened 2.02 -> ~1.90-1.95 at close (Malaga 1X drifted ~1.88 -> ~1.95) - the market moved against the fade and was right."
   },
   {
    "id": 58,
@@ -2326,8 +2326,8 @@
      "odds": 1.73,
      "est_prob": 0.55,
      "thesis": "form",
-     "result": null,
-     "how_settled": null,
+     "result": "won",
+     "how_settled": "Real Betis 1-0 Getafe (FT, two sources)",
      "clv": null
     },
     {
@@ -2338,8 +2338,8 @@
      "odds": 1.73,
      "est_prob": 0.55,
      "thesis": "class_gap",
-     "result": null,
-     "how_settled": null,
+     "result": "lost",
+     "how_settled": "Celtic 1-3 Ferencvaros (FT, two sources)",
      "clv": null
     },
     {
@@ -2350,8 +2350,8 @@
      "odds": 2.4,
      "est_prob": 0.4,
      "thesis": "class_gap",
-     "result": null,
-     "how_settled": null,
+     "result": "won",
+     "how_settled": "Juventus 5-0 NEC - covers -2 handicap (FT, two sources)",
      "clv": null
     },
     {
@@ -2362,8 +2362,8 @@
      "odds": 3.78,
      "est_prob": 0.26,
      "thesis": "motivation",
-     "result": null,
-     "how_settled": null,
+     "result": "lost",
+     "how_settled": "Malaga 1-3 Villarreal (FT, two sources)",
      "clv": null
     }
    ],
@@ -2372,10 +2372,10 @@
    "odds": 27.2,
    "boost": null,
    "conditions": "PAPER ONLY - never live money without a written rule change. Settled nightly like any bet.",
-   "status": "recommended",
-   "return": null,
+   "status": "lost",
+   "return": 0.0,
    "slip_confirmed": false,
-   "notes": "Day 15, record 3-11. Two debut-night Europa legs the money rules refuse (Celtic MD1, Juve -2 on MD1), the in-form Betis leg the value test rates neutral, and the Malaga fade at full price instead of DC."
+   "notes": "Day 15, record 3-11. Two debut-night Europa legs the money rules refuse (Celtic MD1, Juve -2 on MD1), the in-form Betis leg the value test rates neutral, and the Malaga fade at full price instead of DC. SETTLED: LOST 2/4 - record 3-12. Betis and Juve -2 cruised; Celtic 1-3 Ferencvaros at home (a huge MD1 upset - the debut-night auto-avoid file grows again) and the Malaga full-price leg died with the money bet."
   }
  ]
 }

@@ -8,13 +8,6 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 
 **Staking:** Ceilings, not quotas: up to £10/day on the recommended acca + up to £10/day on the recommended builder. NO BET days stake £0. No bets outside the daily card. Circuit breaker: pause + written review at era P/L of -£100.
 
-### Open / pending
-
-| # | Date | Bet | Type | Stake | Odds | Status | Conditions |
-|---|------|-----|------|-------|------|--------|------------|
-| 59 | 2026-09-18 | Monaco (Match Result) | single | £10.00 | 2.05 | 📝 RECOMMENDED | (1) Place before 19:45 UK. (2) Odds >= 1.90 at placement - below, skip. (3) One leg, no in-play additions. (4) Team-news ~18:45: if Monaco rest 3+ first-choice attackers/midfielders for next week's Champions League opener, bet off. (5) Rule 4 v2 DNB comparison (mandatory at 2.00+, written): Monaco DNB ~1.50 also passes (est ~0.74 vs ~0.67 implied); straight chosen - our draw est (~26%) matches market (25-26%), no draw premium to dodge. DNB ~1.50 is the lower-variance alternative. (6) Price verified at three sources (Betfred/William Hill 2.05, Smarkets 2.14) - no unpriceable flag. |
-| 60 | 2026-09-18 | Monaco (Match Result) + Chelsea (Match Result) + Bayern -2.5 (Handicap -2.5) + Espanyol (Match Result) | acca | £0.00 | 13.6 | 📝 RECOMMENDED | PAPER ONLY - never live money without a written rule change. Settled nightly like any bet. |
-
 ### Settled
 
 | # | Date | Bet | Type | Stake | Odds | Result | Return | P/L | Running |
@@ -49,18 +42,20 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 | 56 | 2026-09-16 | Barcelona (Match Result) ✓ + Atletico Madrid (Match Result) ✓ + Leverkusen (Match Result) ✓ + Deportivo (Match Result) ✗ | acca | £0.00 | 4.99 | ❌ LOST | £0.00 | £0.00 | £0.00 |
 | 57 | 2026-09-17 | Malaga or Draw (1X) (Double Chance) ✗ | single | £0.00 | 1.88 | ❌ LOST | £0.00 | £0.00 | £0.00 |
 | 58 | 2026-09-17 | Real Betis (Match Result) ✓ + Celtic (Match Result) ✗ + Juventus -2 (Handicap -2) ✓ + Malaga (Match Result) ✗ | acca | £0.00 | 27.2 | ❌ LOST | £0.00 | £0.00 | £0.00 |
+| 59 | 2026-09-18 | Monaco (Match Result) ✓ | single | £0.00 | 2.05 | ✅ WON | £0.00 | £0.00 | £0.00 |
+| 60 | 2026-09-18 | Monaco (Match Result) ✓ + Chelsea (Match Result) ✗ + Bayern -2.5 (Handicap -2.5) ✓ + Espanyol (Match Result) ✗ | acca | £0.00 | 13.6 | ❌ LOST | £0.00 | £0.00 | £0.00 |
 
 **Era 2 settled totals: staked £0.00 · returned £0.00 · net £0.00**
 
 | Category | Bets | Staked | Returned | Net |
 |----------|------|--------|----------|-----|
-| Planned, researched | 30 | £0.00 | £0.00 | **£0.00** |
+| Planned, researched | 32 | £0.00 | £0.00 | **£0.00** |
 
 | Structure | Bets | Net |
 |-----------|------|-----|
-| acca | 19 | £0.00 |
+| acca | 20 | £0.00 |
 | builder | 6 | £0.00 |
-| single | 5 | £0.00 |
+| single | 6 | £0.00 |
 
 ### No-bet days (discipline log)
 

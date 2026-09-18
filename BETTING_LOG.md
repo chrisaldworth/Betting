@@ -8,6 +8,13 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 
 **Staking:** Ceilings, not quotas: up to £10/day on the recommended acca + up to £10/day on the recommended builder. NO BET days stake £0. No bets outside the daily card. Circuit breaker: pause + written review at era P/L of -£100.
 
+### Open / pending
+
+| # | Date | Bet | Type | Stake | Odds | Status | Conditions |
+|---|------|-----|------|-------|------|--------|------------|
+| 59 | 2026-09-18 | Monaco (Match Result) | single | £10.00 | 2.05 | 📝 RECOMMENDED | (1) Place before 19:45 UK. (2) Odds >= 1.90 at placement - below, skip. (3) One leg, no in-play additions. (4) Team-news ~18:45: if Monaco rest 3+ first-choice attackers/midfielders for next week's Champions League opener, bet off. (5) Rule 4 v2 DNB comparison (mandatory at 2.00+, written): Monaco DNB ~1.50 also passes (est ~0.74 vs ~0.67 implied); straight chosen - our draw est (~26%) matches market (25-26%), no draw premium to dodge. DNB ~1.50 is the lower-variance alternative. (6) Price verified at three sources (Betfred/William Hill 2.05, Smarkets 2.14) - no unpriceable flag. |
+| 60 | 2026-09-18 | Monaco (Match Result) + Chelsea (Match Result) + Bayern -2.5 (Handicap -2.5) + Espanyol (Match Result) | acca | £0.00 | 13.6 | 📝 RECOMMENDED | PAPER ONLY - never live money without a written rule change. Settled nightly like any bet. |
+
 ### Settled
 
 | # | Date | Bet | Type | Stake | Odds | Result | Return | P/L | Running |

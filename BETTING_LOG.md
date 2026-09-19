@@ -8,6 +8,13 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 
 **Staking:** Ceilings, not quotas: up to £10/day on the recommended acca + up to £10/day on the recommended builder. NO BET days stake £0. No bets outside the daily card. Circuit breaker: pause + written review at era P/L of -£100.
 
+### Open / pending
+
+| # | Date | Bet | Type | Stake | Odds | Status | Conditions |
+|---|------|-----|------|-------|------|--------|------------|
+| 61 | 2026-09-19 | Hull or Draw (X2) (Double Chance) | single | £10.00 | 2.45 | 📝 RECOMMENDED | (1) Place before 15:00 UK. (2) X2 price >= 2.20 in the till - below, skip. (3) One bet, no in-play additions. (4) Team-news ~14:00 BINDING: if Hull's absence list grows by 2+ starters or both first-choice centre-backs are out, bet off. (5) Comparison written: Hull straight ~5.75 is a stab; X2 chosen because the thesis's modal outcome is the draw (both observed would-be wins were draws; consensus tip 1-1). (6) Malaga-lesson check: fade-partner has positive markers of its own (unbeaten, 8pts, results v Utd and Chelsea) - unlike Malaga; est capped at 0.48 for the unverified absence list. |
+| 62 | 2026-09-19 | Newcastle (Match Result) + Tottenham (Match Result) + Arsenal (Match Result) + Barcelona (Match Result) | acca | £0.00 | 6.65 | 📝 RECOMMENDED | PAPER ONLY - never live money without a written rule change. Settled nightly like any bet. |
+
 ### Settled
 
 | # | Date | Bet | Type | Stake | Odds | Result | Return | P/L | Running |

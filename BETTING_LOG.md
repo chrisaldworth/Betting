@@ -8,13 +8,6 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 
 **Staking:** Ceilings, not quotas: up to £10/day on the recommended acca + up to £10/day on the recommended builder. NO BET days stake £0. No bets outside the daily card. Circuit breaker: pause + written review at era P/L of -£100.
 
-### Open / pending
-
-| # | Date | Bet | Type | Stake | Odds | Status | Conditions |
-|---|------|-----|------|-------|------|--------|------------|
-| 61 | 2026-09-19 | Hull or Draw (X2) (Double Chance) | single | £10.00 | 2.45 | 📝 RECOMMENDED | (1) Place before 15:00 UK. (2) X2 price >= 2.20 in the till - below, skip. (3) One bet, no in-play additions. (4) Team-news ~14:00 BINDING: if Hull's absence list grows by 2+ starters or both first-choice centre-backs are out, bet off. (5) Comparison written: Hull straight ~5.75 is a stab; X2 chosen because the thesis's modal outcome is the draw (both observed would-be wins were draws; consensus tip 1-1). (6) Malaga-lesson check: fade-partner has positive markers of its own (unbeaten, 8pts, results v Utd and Chelsea) - unlike Malaga; est capped at 0.48 for the unverified absence list. |
-| 62 | 2026-09-19 | Newcastle (Match Result) + Tottenham (Match Result) + Arsenal (Match Result) + Barcelona (Match Result) | acca | £0.00 | 6.65 | 📝 RECOMMENDED | PAPER ONLY - never live money without a written rule change. Settled nightly like any bet. |
-
 ### Settled
 
 | # | Date | Bet | Type | Stake | Odds | Result | Return | P/L | Running |
@@ -51,18 +44,20 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 | 58 | 2026-09-17 | Real Betis (Match Result) ✓ + Celtic (Match Result) ✗ + Juventus -2 (Handicap -2) ✓ + Malaga (Match Result) ✗ | acca | £0.00 | 27.2 | ❌ LOST | £0.00 | £0.00 | £0.00 |
 | 59 | 2026-09-18 | Monaco (Match Result) ✓ | single | £0.00 | 2.05 | ✅ WON | £0.00 | £0.00 | £0.00 |
 | 60 | 2026-09-18 | Monaco (Match Result) ✓ + Chelsea (Match Result) ✗ + Bayern -2.5 (Handicap -2.5) ✓ + Espanyol (Match Result) ✗ | acca | £0.00 | 13.6 | ❌ LOST | £0.00 | £0.00 | £0.00 |
+| 61 | 2026-09-19 | Hull or Draw (X2) (Double Chance) ✗ | single | £0.00 | 2.45 | ❌ LOST | £0.00 | £0.00 | £0.00 |
+| 62 | 2026-09-19 | Newcastle (Match Result) ✓ + Tottenham (Match Result) ✗ + Arsenal (Match Result) ✗ + Barcelona (Match Result) | acca | £0.00 | 6.65 | ❌ LOST | £0.00 | £0.00 | £0.00 |
 
 **Era 2 settled totals: staked £0.00 · returned £0.00 · net £0.00**
 
 | Category | Bets | Staked | Returned | Net |
 |----------|------|--------|----------|-----|
-| Planned, researched | 32 | £0.00 | £0.00 | **£0.00** |
+| Planned, researched | 34 | £0.00 | £0.00 | **£0.00** |
 
 | Structure | Bets | Net |
 |-----------|------|-----|
-| acca | 20 | £0.00 |
+| acca | 21 | £0.00 |
 | builder | 6 | £0.00 |
-| single | 6 | £0.00 |
+| single | 7 | £0.00 |
 
 ### No-bet days (discipline log)
 

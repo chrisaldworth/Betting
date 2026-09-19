@@ -2490,20 +2490,20 @@
      "odds": 2.45,
      "est_prob": 0.48,
      "thesis": "form",
-     "result": null,
-     "how_settled": null,
-     "clv": null
+     "result": "lost",
+     "how_settled": "Newcastle 2-1 Hull (Sky Sports + Sporting Life FT confirmed)",
+     "clv": 2.5
     }
    ],
    "planned": true,
-   "stake": 10.0,
+   "stake": 0.0,
    "odds": 2.45,
    "boost": null,
    "conditions": "(1) Place before 15:00 UK. (2) X2 price >= 2.20 in the till - below, skip. (3) One bet, no in-play additions. (4) Team-news ~14:00 BINDING: if Hull's absence list grows by 2+ starters or both first-choice centre-backs are out, bet off. (5) Comparison written: Hull straight ~5.75 is a stab; X2 chosen because the thesis's modal outcome is the draw (both observed would-be wins were draws; consensus tip 1-1). (6) Malaga-lesson check: fade-partner has positive markers of its own (unbeaten, 8pts, results v Utd and Chelsea) - unlike Malaga; est capped at 0.48 for the unverified absence list.",
-   "status": "recommended",
-   "return": null,
+   "status": "lost",
+   "return": 0.0,
    "slip_confirmed": false,
-   "notes": "The promised Hull workup. Thesis 2-for-2 observed unbacked (0-0 v Villa ~2.45, 2-2 at Chelsea ~2.45 declined). Today: Hull 5th and unbeaten at a Newcastle side routed 4-1 at Leeds Monday and missing Joelinton/Burn/Osula, yet priced 1.61 on brand. X2 est 0.48 vs implied 0.41 at 2.45 - passes by ~7pts. Soft spot: Hull's own long absence list (Butland, Hughes, Morita +4), newness unverifiable this morning - hence condition 4 and the cap."
+   "notes": "The promised Hull workup. Thesis 2-for-2 observed unbacked (0-0 v Villa ~2.45, 2-2 at Chelsea ~2.45 declined). Today: Hull 5th and unbeaten at a Newcastle side routed 4-1 at Leeds Monday and missing Joelinton/Burn/Osula, yet priced 1.61 on brand. X2 est 0.48 vs implied 0.41 at 2.45 - passes by ~7pts. Soft spot: Hull's own long absence list (Butland, Hughes, Morita +4), newness unverifiable this morning - hence condition 4 and the cap. SETTLED PAPER (no slip confirmed): LOST. Newcastle responded to the Leeds rout at home, 2-1. Est 0.48 was a fair price for the risk (a one-goal loss away is within the estimate's shape) but the bet still lost - the thesis is now 2-for-3 observed (both wins were draws; the loss came when the favourite had a wound to avenge at home). Mildly negative CLV: Newcastle shortened 1.61 -> ~1.57 at close (our X2 drifted ~2.45 -> ~2.50) - third data point in the pattern: our winners shorten after we take them, our losers drift."
   },
   {
    "id": 62,
@@ -2520,8 +2520,8 @@
      "odds": 1.61,
      "est_prob": 0.5,
      "thesis": "class_gap",
-     "result": null,
-     "how_settled": null,
+     "result": "won",
+     "how_settled": "Newcastle 2-1 Hull (FT, two sources)",
      "clv": null
     },
     {
@@ -2532,8 +2532,8 @@
      "odds": 2.0,
      "est_prob": 0.42,
      "thesis": "class_gap",
-     "result": null,
-     "how_settled": null,
+     "result": "lost",
+     "how_settled": "Tottenham 2-3 Aston Villa (FT, two sources) - Spurs finally scored, twice, and still lost",
      "clv": null
     },
     {
@@ -2544,8 +2544,8 @@
      "odds": 1.75,
      "est_prob": 0.58,
      "thesis": "form",
-     "result": null,
-     "how_settled": null,
+     "result": "lost",
+     "how_settled": "Brighton 3-0 Arsenal (FT, two sources) - the champions routed, six-game streak dead",
      "clv": null
     },
     {
@@ -2557,7 +2557,7 @@
      "est_prob": 0.78,
      "thesis": "class_gap",
      "result": null,
-     "how_settled": null,
+     "how_settled": "PENDING at settlement - match not confirmed finished; backfill next run",
      "clv": null
     }
    ],
@@ -2566,10 +2566,10 @@
    "odds": 6.65,
    "boost": null,
    "conditions": "PAPER ONLY - never live money without a written rule change. Settled nightly like any bet.",
-   "status": "recommended",
-   "return": null,
+   "status": "lost",
+   "return": 0.0,
    "slip_confirmed": false,
-   "notes": "Day 17, record 3-13. The line backs the two reputation favourites (Newcastle, Spurs) that the money card fades or refuses - the experiment's tension made explicit. ALSO TRACKED UNBACKED (not a bet, for Monday's review): Spurs-Villa fade builder, Villa DC ~1.90 + U2.5 ~2.00, till ~3.0 - passed the value test but declined for thesis concentration alongside the Hull DC bet."
+   "notes": "Day 17, record 3-13. The line backs the two reputation favourites (Newcastle, Spurs) that the money card fades or refuses - the experiment's tension made explicit. ALSO TRACKED UNBACKED (not a bet, for Monday's review): Spurs-Villa fade builder, Villa DC ~1.90 + U2.5 ~2.00, till ~3.0 - passed the value test but declined for thesis concentration alongside the Hull DC bet. SETTLED: LOST 1/4 decided (Spurs and Arsenal legs dead; Barcelona leg pending backfill, immaterial) - record 3-14. UNBACKED FADE BUILDER TRACKED: Villa DC WON (2-3) but Under 2.5 LOST (five goals) - the declined builder would have LOST at ~3.0. The concentration decline was right for the wrong reason; the Spurs scoring drought ended emphatically, closing that fade window."
   }
  ]
 }

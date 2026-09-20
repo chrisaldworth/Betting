@@ -8,13 +8,6 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 
 **Staking:** Ceilings, not quotas: up to £10/day on the recommended acca + up to £10/day on the recommended builder. NO BET days stake £0. No bets outside the daily card. Circuit breaker: pause + written review at era P/L of -£100.
 
-### Open / pending
-
-| # | Date | Bet | Type | Stake | Odds | Status | Conditions |
-|---|------|-----|------|-------|------|--------|------------|
-| 63 | 2026-09-20 | Leeds (Match Result) | single | £10.00 | 1.75 | 📝 RECOMMENDED | (1) Place before 14:00 UK. (2) Odds >= 1.65 at placement - below, skip. (3) One leg, no in-play additions. (4) Team-news ~13:00: if Leeds lose 2+ starters from the Newcastle rout, bet off; if Palace show a fresh rotated XI, the fatigue leg thins - send sheets if unsure. (5) DRIFT ABORT (new, from this week's 3-for-3 CLV pattern): if Leeds drift past 1.90 by placement time, skip and note it. |
-| 64 | 2026-09-20 | Leeds (Match Result) + Liverpool (Match Result) + Man City (Match Result) + Man Utd (Match Result) | acca | £0.00 | 10.0 | 📝 RECOMMENDED | PAPER ONLY - never live money without a written rule change. Settled nightly like any bet. Utd price approximate - sources contradicted (flagged on card). |
-
 ### Settled
 
 | # | Date | Bet | Type | Stake | Odds | Result | Return | P/L | Running |
@@ -53,18 +46,20 @@ All stakes with bet365. Returns are logged from the actual slip, never from rese
 | 60 | 2026-09-18 | Monaco (Match Result) ✓ + Chelsea (Match Result) ✗ + Bayern -2.5 (Handicap -2.5) ✓ + Espanyol (Match Result) ✗ | acca | £0.00 | 13.6 | ❌ LOST | £0.00 | £0.00 | £0.00 |
 | 61 | 2026-09-19 | Hull or Draw (X2) (Double Chance) ✗ | single | £0.00 | 2.45 | ❌ LOST | £0.00 | £0.00 | £0.00 |
 | 62 | 2026-09-19 | Newcastle (Match Result) ✓ + Tottenham (Match Result) ✗ + Arsenal (Match Result) ✗ + Barcelona (Match Result) ✓ | acca | £0.00 | 6.65 | ❌ LOST | £0.00 | £0.00 | £0.00 |
+| 63 | 2026-09-20 | Leeds (Match Result) ✗ | single | £0.00 | 1.75 | ❌ LOST | £0.00 | £0.00 | £0.00 |
+| 64 | 2026-09-20 | Leeds (Match Result) ✗ + Liverpool (Match Result) ✓ + Man City (Match Result) ✓ + Man Utd (Match Result) ✗ | acca | £0.00 | 10.0 | ❌ LOST | £0.00 | £0.00 | £0.00 |
 
 **Era 2 settled totals: staked £0.00 · returned £0.00 · net £0.00**
 
 | Category | Bets | Staked | Returned | Net |
 |----------|------|--------|----------|-----|
-| Planned, researched | 34 | £0.00 | £0.00 | **£0.00** |
+| Planned, researched | 36 | £0.00 | £0.00 | **£0.00** |
 
 | Structure | Bets | Net |
 |-----------|------|-----|
-| acca | 21 | £0.00 |
+| acca | 22 | £0.00 |
 | builder | 6 | £0.00 |
-| single | 7 | £0.00 |
+| single | 8 | £0.00 |
 
 ### No-bet days (discipline log)
 

@@ -2556,8 +2556,8 @@
      "odds": 1.18,
      "est_prob": 0.78,
      "thesis": "class_gap",
-     "result": null,
-     "how_settled": "PENDING at settlement - match not confirmed finished; backfill next run",
+     "result": "won",
+     "how_settled": "Sevilla 1-3 Barcelona (ESPN + VAVEL; Raphinha hat-trick) - backfilled 20 Sep",
      "clv": null
     }
    ],
@@ -2569,7 +2569,104 @@
    "status": "lost",
    "return": 0.0,
    "slip_confirmed": false,
-   "notes": "Day 17, record 3-13. The line backs the two reputation favourites (Newcastle, Spurs) that the money card fades or refuses - the experiment's tension made explicit. ALSO TRACKED UNBACKED (not a bet, for Monday's review): Spurs-Villa fade builder, Villa DC ~1.90 + U2.5 ~2.00, till ~3.0 - passed the value test but declined for thesis concentration alongside the Hull DC bet. SETTLED: LOST 1/4 decided (Spurs and Arsenal legs dead; Barcelona leg pending backfill, immaterial) - record 3-14. UNBACKED FADE BUILDER TRACKED: Villa DC WON (2-3) but Under 2.5 LOST (five goals) - the declined builder would have LOST at ~3.0. The concentration decline was right for the wrong reason; the Spurs scoring drought ended emphatically, closing that fade window."
+   "notes": "Day 17, record 3-13. The line backs the two reputation favourites (Newcastle, Spurs) that the money card fades or refuses - the experiment's tension made explicit. ALSO TRACKED UNBACKED (not a bet, for Monday's review): Spurs-Villa fade builder, Villa DC ~1.90 + U2.5 ~2.00, till ~3.0 - passed the value test but declined for thesis concentration alongside the Hull DC bet. SETTLED: LOST 1/4 decided (Spurs and Arsenal legs dead; Barcelona leg pending backfill, immaterial) - record 3-14. UNBACKED FADE BUILDER TRACKED: Villa DC WON (2-3) but Under 2.5 LOST (five goals) - the declined builder would have LOST at ~3.0. The concentration decline was right for the wrong reason; the Spurs scoring drought ended emphatically, closing that fade window. BACKFILL 20 Sep: Barcelona leg WON (1-3); bet stays LOST 2/4. Sevilla led the champions 1-0 at HT - watch-file note: the outrunning-their-price signal survives the defeat."
+  },
+  {
+   "id": 63,
+   "era": 2,
+   "date": "2026-09-20",
+   "type": "single",
+   "structure": "single filling the acca slot (one clean value leg)",
+   "fixture": "Leeds v Crystal Palace (14:00 UK, Premier League, Elland Road)",
+   "legs": [
+    {
+     "fixture": "Leeds v Crystal Palace",
+     "kickoff": "2026-09-20T14:00 UK",
+     "market": "Match Result",
+     "selection": "Leeds",
+     "odds": 1.75,
+     "est_prob": 0.61,
+     "thesis": "form",
+     "result": null,
+     "how_settled": null,
+     "clv": null
+    }
+   ],
+   "planned": true,
+   "stake": 10.0,
+   "odds": 1.75,
+   "boost": null,
+   "conditions": "(1) Place before 14:00 UK. (2) Odds >= 1.65 at placement - below, skip. (3) One leg, no in-play additions. (4) Team-news ~13:00: if Leeds lose 2+ starters from the Newcastle rout, bet off; if Palace show a fresh rotated XI, the fatigue leg thins - send sheets if unsure. (5) DRIFT ABORT (new, from this week's 3-for-3 CLV pattern): if Leeds drift past 1.90 by placement time, skip and note it.",
+   "status": "recommended",
+   "return": null,
+   "slip_confirmed": false,
+   "notes": "Form meets fatigue: Leeds 3rd, unbeaten, 4-1 over Newcastle at Elland Road Monday; Palace lost 3 of 4 with a league-worst 11 conceded and played Europa Conference on Thursday. Est 0.61 vs implied 0.57 - passes by ~4pts on three independent supports (home form, defensive numbers, congestion), not one stretched read."
+  },
+  {
+   "id": 64,
+   "era": 2,
+   "date": "2026-09-20",
+   "type": "acca",
+   "structure": "PAPER 4-fold stretch line (experiment day 18)",
+   "legs": [
+    {
+     "fixture": "Leeds v Crystal Palace",
+     "kickoff": "2026-09-20T14:00 UK",
+     "market": "Match Result",
+     "selection": "Leeds",
+     "odds": 1.75,
+     "est_prob": 0.61,
+     "thesis": "form",
+     "result": null,
+     "how_settled": null,
+     "clv": null
+    },
+    {
+     "fixture": "Bournemouth v Liverpool",
+     "kickoff": "2026-09-20T14:00 UK",
+     "market": "Match Result",
+     "selection": "Liverpool",
+     "odds": 2.15,
+     "est_prob": 0.5,
+     "thesis": "class_gap",
+     "result": null,
+     "how_settled": null,
+     "clv": null
+    },
+    {
+     "fixture": "Man City v Sunderland",
+     "kickoff": "2026-09-20T14:00 UK",
+     "market": "Match Result",
+     "selection": "Man City",
+     "odds": 1.3,
+     "est_prob": 0.73,
+     "thesis": "class_gap",
+     "result": null,
+     "how_settled": null,
+     "clv": null
+    },
+    {
+     "fixture": "Fulham v Man Utd",
+     "kickoff": "2026-09-20T16:30 UK",
+     "market": "Match Result",
+     "selection": "Man Utd",
+     "odds": 2.05,
+     "est_prob": 0.45,
+     "thesis": "class_gap",
+     "result": null,
+     "how_settled": null,
+     "clv": null
+    }
+   ],
+   "planned": true,
+   "stake": 0.0,
+   "odds": 10.0,
+   "boost": null,
+   "conditions": "PAPER ONLY - never live money without a written rule change. Settled nightly like any bet. Utd price approximate - sources contradicted (flagged on card).",
+   "status": "recommended",
+   "return": null,
+   "slip_confirmed": false,
+   "notes": "Day 18, record 3-15. Money leg at full weight plus three the value test rates neutral-to-fail (City fails, Liverpool thin, Utd unpriceable-flagged)."
   }
  ]
 }

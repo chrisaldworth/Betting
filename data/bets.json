@@ -2667,6 +2667,23 @@
    "return": 0.0,
    "slip_confirmed": false,
    "notes": "Day 18, record 3-15. Money leg at full weight plus three the value test rates neutral-to-fail (City fails, Liverpool thin, Utd unpriceable-flagged). SETTLED: LOST 2/4 - record 3-16. Liverpool and City (in an 8-goal circus) landed; the money leg drew 0-0 and the unpriceable-flagged Utd leg drew 1-1."
+  },
+  {
+   "id": 65,
+   "era": 2,
+   "date": "2026-09-21",
+   "type": "acca",
+   "structure": "no-bet day (both slots; no researchable board)",
+   "legs": [],
+   "planned": true,
+   "stake": 0.0,
+   "odds": null,
+   "boost": null,
+   "conditions": null,
+   "status": "no_bet",
+   "return": null,
+   "slip_confirmed": true,
+   "notes": "Empty Monday board (weekend round finished Sunday; UCL MD1 starts midweek) - verified Sky + second sweep. No paper 4-fold (fewer than four researchable games). WEEK-4 REVIEW DAY: rule 6 v3 adopted (fade-partner must show >=1 positive marker); Hull thesis refined (revenge-spot caveat); concentration rule kept (declined Spurs-Villa builder lost); drift-abort now standing placement practice; est_prob 2pt-haircut check adopted as week-5 practice; 4-fold raw would-be down to +132 at 3-15."
   }
  ]
 }

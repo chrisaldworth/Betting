@@ -2684,6 +2684,23 @@
    "return": null,
    "slip_confirmed": true,
    "notes": "Empty Monday board (weekend round finished Sunday; UCL MD1 starts midweek) - verified Sky + second sweep. No paper 4-fold (fewer than four researchable games). WEEK-4 REVIEW DAY: rule 6 v3 adopted (fade-partner must show >=1 positive marker); Hull thesis refined (revenge-spot caveat); concentration rule kept (declined Spurs-Villa builder lost); drift-abort now standing placement practice; est_prob 2pt-haircut check adopted as week-5 practice; 4-fold raw would-be down to +132 at 3-15."
+  },
+  {
+   "id": 66,
+   "era": 2,
+   "date": "2026-09-22",
+   "type": "acca",
+   "structure": "no-bet day (both slots; EFL Trophy + Women's UCL only)",
+   "legs": [],
+   "planned": true,
+   "stake": 0.0,
+   "odds": null,
+   "boost": null,
+   "conditions": null,
+   "status": "no_bet",
+   "return": null,
+   "slip_confirmed": true,
+   "notes": "EFL Trophy group games (U21/rotation, rules 8/9 auto-avoid) and Women's UCL only. No 4-fold (fewer than four researchable games). Calendar correction logged: UCL MD1 was 8-10 Sep, MD2 is 13-14 Oct - no UCL this midweek; Monday's look-ahead was wrong on that."
   }
  ]
 }
